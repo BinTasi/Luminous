@@ -4,8 +4,8 @@
 ! Powerd by Cats-Team
 ! Expires: 1 day (update frequency)
 ! Description: AdRules AdBlock List's Lite Version, And Remove Some Filters
-! ! Version: 2026-01-11 08:15:59(GMT+8)
-! Total count: 36694
+! ! Version: 2026-01-11 14:05:07(GMT+8)
+! Total count: 36709
  
 ###ADtip
 ###AdBlockDialog
@@ -17338,6 +17338,7 @@ wpmienphi.com###d7b2
 wpworld.pl,windowsowo.pl#@##adBanner
 ws://*/api/wss/GetNotReadCount$third-party
 wss://*.*.top/$third-party
+wss://*.com:29189/880
 wss://*.top/|
 wss://*.xyz:*?e=$third-party
 wss://*.xyz:*?x=$third-party
@@ -18298,6 +18299,7 @@ zzzyk.com###Tinfo
 ||0b6rvr210q.com^
 ||0bb8jytek.com^
 ||0e1y8x7ft.com^
+||0e9knynfb.com^
 ||0er7pc8.xyz^
 ||0h9yewgei.com^
 ||0hagal2csg.com^
@@ -19744,6 +19746,7 @@ zzzyk.com###Tinfo
 ||9ihome.com/info/ADTopvnet/
 ||9ist.com/others/ad/
 ||9j9gc694o4.com^
+||9jk7puqza.com^
 ||9js6.icu^
 ||9jsp.com/pay.png
 ||9k9k.com/jscode/js/
@@ -21998,6 +22001,7 @@ zzzyk.com###Tinfo
 ||bugs01091ko.com^
 ||bugs01100ko.com^
 ||bugs01101ko.com^
+||bugs01110ko.com^
 ||buhgalter.com.ua^*/blocker.
 ||buhgalter911.com^*/blocker.
 ||buhvjv.icu^
@@ -24016,6 +24020,7 @@ zzzyk.com###Tinfo
 ||dxuxtb.com^
 ||dxvfdv.icu^
 ||dxwsty.cn^
+||dxzgwti.com^
 ||dxzky.love^
 ||dy2018.com/js/tj.js
 ||dy2018.com/js17/
@@ -25962,6 +25967,7 @@ zzzyk.com###Tinfo
 ||harborcub.com^$third-party
 ||harmful26.top^
 ||harmony573.top^
+||harpsichord34.com^
 ||hasdser.com^
 ||hasgde.site^
 ||hash.trafficmanager.net^
@@ -28044,6 +28050,7 @@ zzzyk.com###Tinfo
 ||kr.sdykcloud.cn^
 ||kr1cbkoow.com^
 ||krbulhb.com^
+||kreirkaer.com^
 ||krevn0cq4.com^
 ||krirkroins.com^
 ||krmxearc1.com^
@@ -28101,6 +28108,7 @@ zzzyk.com###Tinfo
 ||kuheju.com^$popup
 ||kuiv.cn^
 ||kuk8.com^$third-party
+||kukanmanhua.cyou^
 ||kuke99.com/static/home/js/index/index.js
 ||kuku99.com^$third-party
 ||kukudm.com/mg/show2.js
@@ -31524,6 +31532,7 @@ zzzyk.com###Tinfo
 ||regularplants.com^$third-party
 ||regulatesleet.com^$third-party
 ||rehabilitatereason.com^$third-party
+||rehearsal55.top^
 ||reke.at.sohu.com^
 ||relafp.xyz^
 ||relationrest.com^$third-party
@@ -33869,6 +33878,7 @@ zzzyk.com###Tinfo
 ||u7wnylbb28.top^
 ||u7y.pw^
 ||u833ij.com^
+||u8rnuky6e.com^
 ||uaa.com/js/dxj.
 ||uahivaqettl.com^
 ||ual23t6yz.com^
@@ -34333,6 +34343,7 @@ zzzyk.com###Tinfo
 ||vezeqzyb.com^
 ||vfjsa6do.icu^
 ||vfjxvt.icu^
+||vfnq.cn^
 ||vfrdewsdg.xyz^
 ||vfsb.cn^
 ||vfsdgjrr.xyz^
@@ -34340,6 +34351,7 @@ zzzyk.com###Tinfo
 ||vfsvv1.com^
 ||vftq.cn^
 ||vftrfmia.icu^
+||vfymgla.com^
 ||vfzfrx.xyz^
 ||vgao.xyz/images/*.gif
 ||vgfj.cn^
@@ -34488,6 +34500,7 @@ zzzyk.com###Tinfo
 ||voc.com.cn/static/web/js/creattwo11.js
 ||vocabulary83.com^
 ||vogue99.top^
+||vojolj.icu^
 ||vokmhydy.xyz^
 ||vokwlch.xyz^
 ||volatileprofit.com^$third-party
@@ -35879,6 +35892,7 @@ zzzyk.com###Tinfo
 ||yizhibo.com/special/h5corner.html
 ||yizj5fcwaj.com^
 ||yjcf360.com/ad.
+||yjigiv1ic.com^
 ||yjnhkd.com^
 ||yjnhndt.com^
 ||yjnkas.com^
@@ -36362,6 +36376,7 @@ zzzyk.com###Tinfo
 ||zglww.net/jsnew/pfkf.js
 ||zgm1.com^
 ||zgo8rgvuaf.com^
+||zgqsc3shr.com^
 ||zgtwzq.xyz^
 ||zguqxf.xyz^
 ||zgwsnw.xyz^
