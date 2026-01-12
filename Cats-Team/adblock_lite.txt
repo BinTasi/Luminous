@@ -4,8 +4,8 @@
 ! Powerd by Cats-Team
 ! Expires: 1 day (update frequency)
 ! Description: AdRules AdBlock List's Lite Version, And Remove Some Filters
-! ! Version: 2026-01-12 08:15:11(GMT+8)
-! Total count: 36720
+! ! Version: 2026-01-12 14:06:34(GMT+8)
+! Total count: 36726
  
 ###ADtip
 ###AdBlockDialog
@@ -4277,10 +4277,10 @@ $websocket,domain=wap.yushuwu.cloud
 52ch.net##div[style^="margin-top:5px; height:60px;"]
 52che.com##a[href^="http://count.52che.com/goto.html?"]
 52fx.cn##.nex_index_top_ads
-52fzwg.com,79tao.com,hqol.cn,icabbs.com,k7d.com,kxdao.net,sunwy.org,twunbbs.com,wnflb.com,wnflb2023.com,wnflb66.com,xkeba.com,zn513.cc##.GzList
+52fzwg.com,79tao.com,hqol.cn,icabbs.com,k7d.com,kxdao.net,sunwy.org,twunbbs.com,wnflb.com,wnflb2023.com,wnflb66.com,xkeba.com,zn524.cc##.GzList
 52kd.com###frame2cu3VU
 52life.cc##table[style="margin-top:0"]
-52movieba.com,acglala.cc,awaker.cn,bimiacg4.net,bimiacg5.net,ccav1.com,cgown.com,cn163.net,comicat.org,cosersuki.org,epinv.com,eroacg.com,galacg.me,gmgard.com,haochi123.com,hexieshe.cn,hexieshe.com,hexieshe.xyz,hggard.com,hmghmg.com,hmoe11.net,idanmu.ee,ifenpaidy.com,jitapu.com,jitashe.org,kelatv.com,kisssub.org,languang.co,llss.bz,mtrend.cn,mydrivers.com,mzh.ren,nxing.cn,oyksoft.com,souxue8.com,speedtest.cn,tingroom.com,touchgal.org,whsir.com,xxshe.info,xxshe.xyz##a[href*=".taobao.com"]
+52movieba.com,acglala.cc,awaker.cn,bimiacg4.net,bimiacg5.net,ccav1.com,cgown.com,cn163.net,comicat.org,cosersuki.org,epinv.com,eroacg.com,galacg.me,gmgard.com,haochi123.com,hexieshe.cn,hexieshe.com,hexieshe.xyz,hggard.com,hmghmg.com,hmoe11.net,ifenpaidy.com,jitapu.com,jitashe.org,kelatv.com,kisssub.org,languang.co,llss.bz,mtrend.cn,mydrivers.com,mzh.ren,nxing.cn,oyksoft.com,souxue8.com,speedtest.cn,tingroom.com,touchgal.org,whsir.com,xxshe.info,xxshe.xyz##a[href*=".taobao.com"]
 52movieba.com,acglala.me,acglala.net,awaker.cn,bimiacg4.net,bimiacg5.net,ccav1.com,cdsoso.me,cgown.com,cn163.net,comicat.org,cosersuki.org,dzbhdm.net,epinv.com,eroacg.com,galacg.me,gmgard.com,haochi123.com,hexieshe.cn,hexieshe.com,hexieshe.xyz,hggard.com,hmghmg.com,hmoe11.net,idanmu.ee,ifenpaidy.com,jitapu.com,jitashe.org,jiyingw.vip,kelatv.com,kisssub.org,languang.co,llss.bz,mtrend.cn,mydrivers.com,mzh.ren,nxing.cn,oyksoft.com,souxue8.com,speedtest.cn,tingroom.com,whsir.com,xxshe.info,xxshe.xyz##a[href*=".taobao.com"]
 52niuyan.cc##.top_fixed
 52niuyan.cc##a[onclick][rel][style*="toutiaoimg.com"]
@@ -6519,7 +6519,7 @@ $websocket,domain=wap.yushuwu.cloud
 @@||sudupan.com^*/*.gif
 @@||sumeronline.com^$generichide
 @@||suning.cn/project/msIndex/js/??
-@@||supercloudsms.com/js/ad
+@@||supercloudsms.com^*/ad
 @@||surirt.com/ad/ads.php?id=$script,domain=surirt.com
 @@||swagbucks.com^$generichide
 @@||sweclockers.com/js/ad.js$script
@@ -11374,9 +11374,6 @@ icourse163.org##.promotion-banner-wrapper
 icourse163.org#@#.sns-link
 icu##.banner-layout-box
 id97.cc##.fed-part-case > a
-idanmu.ee##.entry-body > div[class]:first-child
-idanmu.ee##aside > div[class="widget "]
-idanmu.ee##div[class^="g "]
 ideya-biznesa.ru##.admania_adblock_detector
 idiva.com#?#div:-abp-has(> h2:-abp-contains(More From Web))
 idnes.cz##.cookie-info
@@ -16098,6 +16095,7 @@ super.cz##iframe[frameborder][scrolling][src^="https://www.super.cz/"]
 super.cz##img[id^="rs-bg-img"]
 super.cz#$#override-property-read sspPositions null
 super.sina.cn##.call_up_banner
+supercloudsms.com##.container > img
 supercloudsms.com##a[href^="/redirect?"]
 superlife.ca##.sidebar-ad-zone
 supertaste.tvbs.com.tw###ad_m_bottom
@@ -18083,8 +18081,8 @@ zj.qq.com##.mod-side + div[style="width:300px;height:257px;"]
 zjhlcp.com##.middle_list
 zjst.net##body > style ~ *,.vod-gd
 zk001.cc##section[class^="ch"]
-zn513.cc###klp_hdp
-zn513.cc#?##portal_block_69_content > li:has(a[href^="http"])
+zn524.cc###klp_hdp
+zn524.cc#?##portal_block_69_content > li:has(a[href^="http"])
 znds.com###diy_mobanbus_view_right2
 znews.vn#$#abort-on-property-read adtimaConfig
 zol.com.cn###Article_Top_Banner
@@ -21114,6 +21112,7 @@ zzzyk.com###Tinfo
 ||awzbijw.com^$third-party
 ||ax.*.ifeng.com^
 ||ax.ifeng.com^
+||ax07in8xkr.com^
 ||ax1x.com/2020/06/14/NSoyHe.png
 ||ax1x.com^$domain=caibaojian.com|hktvyb.com|zzvips.com
 ||axbdlox.cn^
@@ -27552,6 +27551,7 @@ zzzyk.com###Tinfo
 ||joshedsnight.com^
 ||jothvz.xyz^
 ||jovcbp.top^
+||joyacg.top/wp-content/uploads/*-640
 ||joyoussurprise.com^$third-party
 ||jp1357.com/addon/
 ||jp2468.com/addon/
@@ -30886,6 +30886,7 @@ zzzyk.com###Tinfo
 ||programmer-club.com.tw/images/uuu/
 ||progress12.com^
 ||prokyrn.icu^
+||prologue23.com^
 ||promotion-partner.kuaishou.com^
 ||pronpic.org/52mp/index.php/adhandler/
 ||propeller-tracking.com^
@@ -31075,6 +31076,7 @@ zzzyk.com###Tinfo
 ||qfnoyix.cn^
 ||qfwhko.icu^
 ||qgaxkkv.top^
+||qgreedreau.com^
 ||qguwoq.cn^$third-party
 ||qhaarkie.com^
 ||qhaazaduez.com^
@@ -32493,6 +32495,7 @@ zzzyk.com###Tinfo
 ||sneakystew.com^$third-party
 ||sngmta.qq.com^
 ||snickers44.com^
+||snlyplsoli.com^
 ||snmi.cn^$third-party
 ||snoresmile.com^$third-party
 ||snowflake.qq.com^
@@ -34211,6 +34214,7 @@ zzzyk.com###Tinfo
 ||uxbd4id.xyz^
 ||uxcnhsf.cn^
 ||uxfa.cn^
+||uxfe.cn^
 ||uxlqwra.cn^
 ||uxmwh0f.xyz^
 ||uxtlrah.com^
@@ -34432,6 +34436,7 @@ zzzyk.com###Tinfo
 ||vinoinqih.com^
 ||vinsgcs.com^
 ||violetop33.top^
+||violoncello21.top^
 ||vip.luanren.com/data/*.gif
 ||vip.ludu319.com^$third-party
 ||vip.min1319.com^$third-party
@@ -34665,6 +34670,7 @@ zzzyk.com###Tinfo
 ||w537a7.cc^
 ||w58547.cc^
 ||w58ce6.cc^
+||w5ba5b.cc^
 ||w5bi16f3co.com^
 ||w5ftl8bhu3.com^
 ||w6xbr7hc.xyz^
