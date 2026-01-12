@@ -4,8 +4,8 @@
 ! Powerd by Cats-Team
 ! Expires: 1 day (update frequency)
 ! Description: AdRules AdBlock List's Lite Version, And Remove Some Filters
-! ! Version: 2026-01-12 20:06:06(GMT+8)
-! Total count: 36736
+! ! Version: 2026-01-13 02:05:21(GMT+8)
+! Total count: 36730
  
 ###ADtip
 ###AdBlockDialog
@@ -7123,7 +7123,7 @@ animeflv.cc#$#abort-current-inline-script JSON.parse
 animeflv.net##iframe[style="position: fixed; width: 100%; height: 100%; inset: 0px; opacity: 0; z-index: 2147483647;"]
 animeflv.net#$#abort-current-inline-script globalThis break;case; abort-current-inline-script EventTarget.prototype.addEventListener delete window;
 animeflv.net,estrenosdoramas.net#$#abort-on-property-read __DOMAIN; abort-on-property-read window.open
-animehay.life#$#abort-current-inline-script document.addEventListener window.open; override-property-read list_link_popup emptyArray
+animehay.vc#$#abort-current-inline-script document.addEventListener window.open; override-property-read list_link_popup emptyArray
 animekun.ru,doramakun.ru,nnmclub.to#$#abort-current-inline-script document.createElement Math.random; abort-current-inline-script setInterval Math.random
 animeland.su,itcats.ru,nekto.me,noadsradio.ru,sharkgame.ru,studies.in.ua,w10.jeanzzz.ru##.no-adb
 animeonline.ninja#$#override-property-read custom_ads_time null; abort-current-inline-script document.createElement script;
@@ -8604,7 +8604,7 @@ clicknupload.co,clicknupload.link,clicknupload.org,clicknupload.to#$#abort-curre
 client=ca-pub-$subdocument,domain=expres.cz|auto.cz|autorevue.cz|maminka.cz|reflex.cz|blesk.cz|dama.cz|e15.cz|mojezdravi.cz|zeny.cz|zive.cz
 client=ca-pub-$subdocument,domain=iprima.cz|www.ahaonline.cz|info.cz|onetv.cz
 clikcoin.pl#@##adsense
-cliphubs.com,fmgalicia.com#$#abort-current-inline-script document.addEventListener pop
+cliphubs.com,olivierperu.com#$#abort-current-inline-script document.addEventListener pop
 clipphot.biz#$#abort-current-inline-script document.addEventListener POP
 closermag.fr##div[id^="detection-block"]
 closermag.fr,grazia.fr,topsante.com##.dfp-slot
@@ -9422,7 +9422,7 @@ dstar.pzk.pl#@#.adsbygoogle
 dtarihi.com#$#simulate-mouse-event 'xpath(.//div[@class][contains(@style,"display: block;")][@id]//following-sibling::div[@class]/div[contains(@class," ")][1])$delay=0'
 dtf.ru#$#override-property-read Object.prototype.detectAdblock undefined
 dtf.ru,vc.ru##.layout__right-column > div[class*=" "][style] > div[class*=" "] > div:only-child
-dualeotruyenhp.com#$#abort-current-inline-script document.addEventListener popunder
+dualeotruyenyk.com#$#abort-current-inline-script document.addEventListener popunder
 duangks.com###a_d_sidebar
 duba.com###J_BottomAdBan
 duba.com###J_BottomAdBan_bg
@@ -10571,7 +10571,7 @@ go4up.com##IMG[src="http://go4up.com/assets/img/downloadfr.gif"]
 go4up.com##[href^="http://go.ad2up.com/afu.php?id="]
 go4up.com##[href^="http://liversely.com/g4u?q="]
 gocmod.com#$#abort-current-inline-script jQuery popup
-goctruyentranhvui17.com,sextop1.at,hhvsub1.com#$#abort-current-inline-script WebAssembly globalThis
+goctruyentranhvui19.com,sextop1.cloud,hhvsub1.com#$#abort-current-inline-script WebAssembly globalThis
 godt.no##.adblock-info
 gofilmes.me#$#abort-on-property-read zfgformats
 gogi.in#@#.ad300-250
@@ -11035,7 +11035,7 @@ hh010.com##.a_hong_t
 hh2d.tv#$#abort-current-inline-script $ adblock
 hh3dhay.life#$#abort-current-inline-script Symbol break;case
 hh3dhay.life,hh3dhay.xyz#$#abort-current-inline-script document.createElement /break|case/
-hh3dhay.life,tram3d.me,animevietsub.show#$#abort-current-inline-script eval $._Eu
+hh3dhay.life,tram3d.me,animevietsub.now#$#abort-current-inline-script eval $._Eu
 hianime.*#$#hide-if-matches-xpath './/a[contains(@href,"flix")]/img[@alt="flix"][@style]/ancestor::div[@style]'
 hianime.*#$#prevent-listener pointerdown; abort-on-iframe-property-read localStorage; abort-on-iframe-property-read Math.random
 hibox.hinet.net#@#.adarea
@@ -11570,7 +11570,6 @@ ikjzd.com##.foot-advert-box
 ikjzd.com##.wv-head-img > .wv-head-item-img:last-child
 ikjzd.com##.wv-right-content > .imgTop-right
 ikjzd.com##a[href*="/redirect-ad-url?"]
-ilcorvopasta.com#$#abort-on-property-read adsRedirectPopups
 ilive.lenovo.com.cn#@#.adTop
 ilive.to###ad_overlay
 ilive.to###ad_overlay_content
@@ -14521,7 +14520,7 @@ pheclip.love,phim18vip.one,sieudam.sh#$#abort-current-inline-script $ pop
 phimhdplus.com#$#json-prune ads;abort-current-inline-script setTimeout click_time
 phimlongtieng.net#$#abort-current-inline-script document.createElement script
 phimmoi.club,motphimww.biz#$#abort-current-inline-script addEvent popu
-phimmoii.sh,motchillie.io#$#prevent-listener click ads
+phimmoii.ac,motchillie.io#$#prevent-listener click ads
 phimtho.cc#$#abort-current-inline-script $ p0pUpRandom
 phone-book.tw#%#//scriptlet('remove-node-text', 'script', 'yumayishop')
 phonearena.com##.adblock_awareness
@@ -15455,9 +15454,6 @@ shulink.com##.er_g
 shuowan.com##.side_flash
 si.com##div[id][class][style]:has(div[id][data-gpid]) {remove:true;}
 si.com##iframe[src*="report.error-report.com/modal"]
-si.com#$#abort-on-property-write window.alert
-si.com#$#abort-on-property-write window.confirm
-si.com#$#override-property-read Element.prototype.remove noopFunc
 sibnet.ru#$#prevent-listener DOMContentLoaded '/EventTracker|utm_campaign/'
 sigure.tw##.Ads-Sidebar
 sigure.tw##.reds
@@ -15625,9 +15621,6 @@ skyscanner.*,tianxun.com#$#hide-if-matches-xpath './/button[contains(@class,"Spo
 skyscanner.*,tianxun.com#$#hide-if-matches-xpath './/button[contains(@class,"SponsoredInfoButton_adInfoBtn")]/ancestor-or-self::div[@aria-label]/parent::div[1]'
 skyscanner.*,tianxun.com#$#hide-if-matches-xpath './/button[contains(@class,"SponsoredInfoButton_adInfoBtn")]/preceding::div[contains(@class,"ItineraryInlinePlusWrapperHeader_header")][@role="group"][@aria-label]/parent::div[1]'
 slashdot.org##iframe[src*="report.error-report.com/modal"]
-slashdot.org#$#abort-on-property-write window.alert
-slashdot.org#$#abort-on-property-write window.confirm
-slashdot.org#$#override-property-read Element.prototype.remove noopFunc
 slashlook.com###AdvertisementBottom
 slashlook.com###AdvertismentInline
 slashlook.com#$##mdAdsAnnouncement { display: none!important; }
@@ -16533,7 +16526,7 @@ trafictube.ro#@#.widget-adv
 trakt.tv###huckster-desktop-bottom
 trakt.tv###huckster-desktop-top
 trakt.tv##.huckster-dfp
-tram3d.xyz#$#abort-current-inline-script setTimeout appendChild
+tram3d.org#$#abort-current-inline-script setTimeout appendChild
 transkarpatia.net#$#abort-current-inline-script document.createElement redtram
 tree.tv#@##adverts
 tripadvisor.com##[data-sponsored]
@@ -16559,8 +16552,8 @@ truyen-hentai.com#$#abort-on-property-read Math.random; prevent-listener getexol
 truyen-hentai.com#$#hide-if-matches-xpath './/*[@class]/ancestor-or-self::div[contains(@class,"reklam")][1]'; hide-if-matches-xpath './/a[contains(@href,"zlinkd.com")][@rel="sponsored"]/ancestor::div[@class][1]';
 truyen247.pro#$#abort-current-inline-script eval
 truyenqqtto.com,phim.haysex.asia#$#abort-current-inline-script Promise break;case
-truyensextv.com,yanhh3d.org,z.chinav.sex#$#abort-current-inline-script document.addEventListener opup
-truyensieuhay.com,quangcaoyenbai.com,phimchill.life,tv.tvhayhd.org,thefaplive.com,mv.dailyphimz.com,mv.phimbathu.one,newshound.org.uk,anime47.best,teamlanhlung8.shop,forum.timfshare.com,ungtycomicsi.com,honghotduongpho.vn,chich69.top,comong.info#$#abort-on-property-read document.cookie
+truyensextv.com,yanhh3d.pro,z.chinav.sex#$#abort-current-inline-script document.addEventListener opup
+truyensieuhay.com,quangcaoyenbai.com,phimchill.life,tv.tvhayhd.org,thefaplive.com,mv.dailyphimz.com,mv.phimbathu.one,sexhihi.fit,anime47.best,teamlanhlung8.shop,forum.timfshare.com,ungtycomicsao.com,honghotduongpho.vn,chich69.top,comong.info#$#abort-on-property-read document.cookie
 tsdm.live###ts_sidebar_base
 tsdm39.com###ct > div > a[target="_blank"] > img
 tsubasa.im#%#//scriptlet('prevent-setInterval', '/home/?adblock=')
@@ -16934,7 +16927,7 @@ vidmoly.to#$#abort-current-inline-script addEventListener DOMContentLoaded; abor
 vidshare.tv,govid.*,hdvid.tv,gomovies.*,gostream.nu,openloadmovies.*,flashx.tv,cloudvideo.tv#$#abort-on-property-write Fingerprint2
 vidshare.tv,vidshar.tv,series.movie,gowatchseries.movie,gowatchseries.tv#$#abort-current-inline-script Object.defineProperty XMLHttpRequest
 vidsrc.*,cucuflix.*#$#abort-current-inline-script document.createElement /referrerPolicy.*no-referrer-when-downgrade/;
-viet69.se,dualeotruyenhp.com,yurineko.my,krasotulki.vip,cliphot69.shop,doctruyen3qui20.com,ihentai.network,animehay.life,hentaivc.pro,streamvl.top,buomtv.media,truyenvn.shop,javtiful.com,quatvn.my,phimsexhayvn92.com,phim18hdxx.com,vn6.sexviet88.xyz,demo.14412882.com,xxmupsex.com,hhtq5.vip,sexdiary.club,vn2.xvideos69.xxx,umetruyenz.org,damconuong.onl,truyenqqno.com,clipsexsub3x.net,sayhentai.live,motphim.pokemonviet.com,lxmanga.space,phimlongtieng.net,newtruyenhot.pro,www.sieutamphim.pro,vevocloud.com,sex.xinh3x.me,sexviet88.xyz#$#abort-current-inline-script WebAssembly instantiate
+viet69.sx,dualeotruyenyk.com,yurineko.my,nikeshoes.me.uk,cliphot69.shop,doctruyen3qhub.com,ihentai.network,animehay.vc,hentaivc.pro,streamvl.top,buomtv.media,truyenvn.shop,javtiful.com,quatvn.my,phimsexhayvn94.com,phim18hdxx.com,vn6.sexviet88.xyz,demo.14412882.com,xxmupsex.com,hhtq5.vip,sexdiary.club,vn2.xvideos69.xxx,umetruyenz.org,damconuong.app,truyenqqno.com,clipsexsub3x.net,sayhentai.live,motphim.pokemonviet.com,lxmanga.space,phimlongtieng.net,newtruyenhot.pro,www.sieutamphim.pro,vevocloud.com,sex.xinh3x.me,sexviet88.xyz#$#abort-current-inline-script WebAssembly instantiate
 view.inews.qq.com##div[class^="article-recommend_wrapper"]
 view.inews.qq.com##div[class^="bottom-bar_buttonWrap"]
 view.inews.qq.com##div[class^="infinite-comment-list_subText"]
@@ -17428,8 +17421,8 @@ www.sina.com.cn##.mod-01
 www.sina.com.cn##.part-l
 www.sina.com.cn##.secondtj-wrapper
 www.sogou.com##.tgad-box + div
-www.toptruyentv12.com#$#abort-current-inline-script Promise instance
-www.toptruyentv12.com#$#abort-current-inline-script setTimeout open
+www.toptruyentv15.com#$#abort-current-inline-script Promise instance
+www.toptruyentv15.com#$#abort-current-inline-script setTimeout open
 www.truyen35zz.com#$#abort-current-inline-script jQuery click_ads
 www.wangjing.cn##.content > div[style*="980px;"]
 www.wdbay.com##[class][classname]
@@ -17618,9 +17611,10 @@ xnxx-sex-videos.com#$#abort-current-inline-script setTimeout /window.location/
 xnxx-sex-videos.com#$#override-property-read user_out false
 xnxx-sexfilme.com#$#abort-on-property-read open; abort-on-property-write SpacialUp;
 xnxx-sexfilme.com#$#hide-if-matches-xpath './/span[contains(text(),"Advertisement")]/parent::div[@class][1]'; hide-if-matches-xpath './/div[contains(@class,"logo")]/ancestor::div[@data-ga_action="join"]/ancestor::aside[@id][1]';
-xoilaczzqzz.tv#$#abort-current-inline-script jQuery open
-xoilaczzqzz.tv#$#hide-if-matches-xpath './/div[@id or @class]/p/a[@title]/ancestor-or-self::div[1]'
-xoilaczzqzz.tv#$#override-property-read adsPlayer '';override-property-read adsTvcs ''
+xoilac86a.tv#$#abort-on-property-read adsRedirectPopups
+xoilaczzmzz.tv#$#abort-current-inline-script jQuery open
+xoilaczzmzz.tv#$#hide-if-matches-xpath './/div[@id or @class]/p/a[@title]/ancestor-or-self::div[1]'
+xoilaczzmzz.tv#$#override-property-read adsPlayer '';override-property-read adsTvcs ''
 xpiaotian.net#@#.pagead
 xslca.cc##.footer ~ div[class$="fanye"][onclick$="fanye()"]
 xslca.cc##div:not([id]):not([class]) > div[style="width: 412px;"]
