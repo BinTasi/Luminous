@@ -4,8 +4,8 @@
 ! Powerd by Cats-Team
 ! Expires: 1 day (update frequency)
 ! Description: AdRules AdBlock List's Lite Version, And Remove Some Filters
-! ! Version: 2026-01-12 02:04:19(GMT+8)
-! Total count: 36716
+! ! Version: 2026-01-12 08:15:11(GMT+8)
+! Total count: 36720
  
 ###ADtip
 ###AdBlockDialog
@@ -19491,6 +19491,7 @@ zzzyk.com###Tinfo
 ||7mmtv.tv/js/ad_js/
 ||7mmtv.tv/u_banner/
 ||7moor.com^$third-party
+||7mx63ygcti.com^
 ||7mxn77h4vr.com^
 ||7nb71ub2xi.com^
 ||7o2l520r0a.com^
@@ -22005,6 +22006,7 @@ zzzyk.com###Tinfo
 ||bugs01101ko.com^
 ||bugs01110ko.com^
 ||bugs01111ko.com^
+||bugs01120ko.com^
 ||buhgalter.com.ua^*/blocker.
 ||buhgalter911.com^*/blocker.
 ||buhvjv.icu^
@@ -34824,6 +34826,7 @@ zzzyk.com###Tinfo
 ||wfvs.cn^
 ||wgceetonr.com^
 ||wgoeisdnlk.com^
+||wh2mu9uj5f.com^
 ||whackyvidz.com/Webservices/jsParseLinks.aspx$script,third-party
 ||whackyvidz.com/visitScript/$script,third-party
 ||whazrm9wa.com^
@@ -35533,6 +35536,7 @@ zzzyk.com###Tinfo
 ||xoiz.cn^
 ||xokcaxw.cn^
 ||xolerkr.cn^
+||xommzrn.com^
 ||xonlines.com/upload/gg/
 ||xonlines.com/yyh_qp_200_200.png
 ||xopxptn.cn^
