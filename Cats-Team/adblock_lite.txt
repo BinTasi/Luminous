@@ -4,8 +4,8 @@
 ! Powerd by Cats-Team
 ! Expires: 1 day (update frequency)
 ! Description: AdRules AdBlock List's Lite Version, And Remove Some Filters
-! ! Version: 2026-01-13 02:05:21(GMT+8)
-! Total count: 36730
+! ! Version: 2026-01-13 08:12:05(GMT+8)
+! Total count: 36741
  
 ###ADtip
 ###AdBlockDialog
@@ -22261,6 +22261,7 @@ zzzyk.com###Tinfo
 ||cautols.com^
 ||cavecurtain.com^$third-party
 ||caxhuuzto.com^
+||cayosunhairs.com^
 ||cb.baidu.com^
 ||cb.com.cn/index/ad/
 ||cbaokk.icu^
@@ -22859,6 +22860,7 @@ zzzyk.com###Tinfo
 ||collect.kugou.com^
 ||collector.dcdn.baidu.com^
 ||collegepre.net^
+||colordownbye.com^
 ||colorfulafterthought.com^$third-party
 ||colossalclouds.com^$third-party
 ||colossalcoat.com^$third-party
@@ -24309,6 +24311,7 @@ zzzyk.com###Tinfo
 ||elephantqueue.com^$third-party
 ||eletys.icu^
 ||elevatorpartsbuy.com^
+||elfdomistles.com^
 ||eliezerpmsa.com^
 ||elinvarpayola.com^
 ||elopatchwork.com^
@@ -24326,6 +24329,7 @@ zzzyk.com###Tinfo
 ||emberwhisper.com^$third-party
 ||embnvut.com^
 ||emdcadvertise.eastmoney.com^
+||emeerunoily.com^
 ||emilyz.top^
 ||eminentbubble.com^$third-party
 ||eminentend.com^$third-party
@@ -25968,6 +25972,7 @@ zzzyk.com###Tinfo
 ||hapying.com^
 ||harborcaption.com^$third-party
 ||harborcub.com^$third-party
+||hardyforges.com^
 ||harmful26.top^
 ||harmony573.top^
 ||harpsichord34.com^
@@ -28231,6 +28236,7 @@ zzzyk.com###Tinfo
 ||lapj.cn^
 ||laprovence.com/fatalistic^
 ||larbcc.xyz^
+||larinpayment.com^
 ||latcherjeannieturrets.click^
 ||launcher.smart-tv.cn^
 ||launcherimg.smart-tv.cn^
@@ -31596,6 +31602,7 @@ zzzyk.com###Tinfo
 ||reversible68.com^
 ||review.gdtimg.com^
 ||revk.cn^
+||rewrapssmeary.com^
 ||rewvfghoya.com^
 ||rf.cnlongshou.com^
 ||rf10b9mq8.com^
@@ -32201,6 +32208,7 @@ zzzyk.com###Tinfo
 ||shangxueba.com/ask/images/woxiaoyun.jpg
 ||shanhaimiwenlu.com/sh
 ||shanjewelry.com^
+||shanksmagh.com^
 ||shanvezhu.com^
 ||shanxicloud.net^
 ||shanyu178.com/agg$script
@@ -32635,6 +32643,7 @@ zzzyk.com###Tinfo
 ||spellbind33.com^
 ||spellsalsa.com^$third-party
 ||sphdigital.com.sg/_plat/$domain=zaobao.com.sg
+||sphinxillbred.com^
 ||spiffymachine.com^$third-party
 ||spirebaboon.com^$third-party
 ||spiritednow.xyz/ad^$subdocument,domain=pressian.com
@@ -34322,6 +34331,7 @@ zzzyk.com###Tinfo
 ||vcjzjnef.icu^
 ||vcvbnmto.xyz^
 ||vcydyzd.icu^
+||vd.7vid.net^
 ||vd6.l.qq.com^
 ||vdhatq0co.com^
 ||vdianying.cc/img/youhuiquan250.gif
@@ -35621,6 +35631,7 @@ zzzyk.com###Tinfo
 ||xv98.com/js/daohang
 ||xv98.com/js/hengfu
 ||xve4ww01l.com^
+||xvhttu3c9.com^
 ||xvideo.cc/etology2.js
 ||xvideo.cc/im4.js
 ||xvideo.cc/wefong2.js
