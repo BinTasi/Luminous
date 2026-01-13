@@ -4,8 +4,8 @@
 ! Powerd by Cats-Team
 ! Expires: 1 day (update frequency)
 ! Description: AdRules AdBlock List's Lite Version, And Remove Some Filters
-! ! Version: 2026-01-13 08:12:05(GMT+8)
-! Total count: 36741
+! ! Version: 2026-01-13 14:55:04(GMT+8)
+! Total count: 36751
  
 ###ADtip
 ###AdBlockDialog
@@ -18781,6 +18781,7 @@ zzzyk.com###Tinfo
 ||2hl.fun^
 ||2i0lliongn.com^
 ||2jse6.icu^
+||2juyabihe.com^
 ||2kandy.com/js/123/
 ||2kbmdtlgme.com^
 ||2lb.cc^
@@ -19021,6 +19022,7 @@ zzzyk.com###Tinfo
 ||4e9ynqm47d.com^
 ||4etsr.xyz^
 ||4f3tsea1m.com^
+||4fd0jlybx.com^
 ||4fptsi5zxo.com^
 ||4fzfc1irq.com^
 ||4gamers.com.tw/ads-
@@ -19485,6 +19487,7 @@ zzzyk.com###Tinfo
 ||7moor.com^$third-party
 ||7mx63ygcti.com^
 ||7mxn77h4vr.com^
+||7na721c64.com^
 ||7nb71ub2xi.com^
 ||7o2l520r0a.com^
 ||7p5ruxflv0.com^
@@ -22001,6 +22004,8 @@ zzzyk.com###Tinfo
 ||bugs01111ko.com^
 ||bugs01120ko.com^
 ||bugs01121ko.com^
+||bugs01130ko.com^
+||bugs01131ko.com^
 ||buhgalter.com.ua^*/blocker.
 ||buhgalter911.com^*/blocker.
 ||buhvjv.icu^
@@ -23152,6 +23157,7 @@ zzzyk.com###Tinfo
 ||cww.net.cn/include/show.asp?boardID=
 ||cww.net.cn/js/urdev.js
 ||cx0001.cn^
+||cxafybp.com^
 ||cxdcn9c.fjshxjs.cn^$third-party
 ||cxgfq.pinlue.com^
 ||cxs.mibaoge.com^
@@ -28661,6 +28667,7 @@ zzzyk.com###Tinfo
 ||loveshang.com/api.php?mod=ad&adid=custom_
 ||lowadec.cn^
 ||lp3tdqle.com^$third-party
+||lpalartra.com^
 ||lpasdfgwer.com^
 ||lpeolfa.top^
 ||lpjxzs.com^
@@ -33009,6 +33016,7 @@ zzzyk.com###Tinfo
 ||syncope12.top^
 ||syndication.exosrv.com/splash.php?$xmlhttprequest,redirect=nooptext,important,domain=hboav.com
 ||synochaauca.com^
+||synopsis95.com^
 ||syr66.com.cn^
 ||syseen.com/content/uploadfile/*/hongbao.png
 ||sysin.org/img/promotion-
@@ -34338,6 +34346,7 @@ zzzyk.com###Tinfo
 ||vdianying.cc/wp-content/plugins/wp-adblock-dedect/
 ||vdpwuxmo.icu^
 ||vdrfes.site^
+||vdxu.cn^
 ||vedhalmin.com^
 ||vehohx.icu^
 ||veilengh.com^
@@ -36502,6 +36511,7 @@ zzzyk.com###Tinfo
 ||ziravd.xyz^
 ||zisnuthz.com^
 ||zisu.cn.com^
+||zither89.com^
 ||ziweuu.com^
 ||ziyuanm.com/js/g11.js
 ||zj-yxw.com^
