@@ -4,8 +4,8 @@
 ! Powerd by Cats-Team
 ! Expires: 1 day (update frequency)
 ! Description: AdRules AdBlock List's Lite Version, And Remove Some Filters
-! ! Version: 2026-01-13 14:55:04(GMT+8)
-! Total count: 36751
+! ! Version: 2026-01-13 20:06:06(GMT+8)
+! Total count: 36757
  
 ###ADtip
 ###AdBlockDialog
@@ -219,6 +219,7 @@
 ###index_banner[src*=".imgdd.com"]
 ###index_banner[src*=".meituan.net"]
 ###index_content_ad
+###interstitial_fade[style^="display: block"]
 ###j-new-ad
 ###js-ad-map
 ###js-popup-blocker
@@ -14520,7 +14521,7 @@ pheclip.love,phim18vip.one,sieudam.sh#$#abort-current-inline-script $ pop
 phimhdplus.com#$#json-prune ads;abort-current-inline-script setTimeout click_time
 phimlongtieng.net#$#abort-current-inline-script document.createElement script
 phimmoi.club,motphimww.biz#$#abort-current-inline-script addEvent popu
-phimmoii.ac,motchillie.io#$#prevent-listener click ads
+phimmoii.cx,motchillb.io#$#prevent-listener click ads
 phimtho.cc#$#abort-current-inline-script $ p0pUpRandom
 phone-book.tw#%#//scriptlet('remove-node-text', 'script', 'yumayishop')
 phonearena.com##.adblock_awareness
@@ -17611,10 +17612,10 @@ xnxx-sex-videos.com#$#abort-current-inline-script setTimeout /window.location/
 xnxx-sex-videos.com#$#override-property-read user_out false
 xnxx-sexfilme.com#$#abort-on-property-read open; abort-on-property-write SpacialUp;
 xnxx-sexfilme.com#$#hide-if-matches-xpath './/span[contains(text(),"Advertisement")]/parent::div[@class][1]'; hide-if-matches-xpath './/div[contains(@class,"logo")]/ancestor::div[@data-ga_action="join"]/ancestor::aside[@id][1]';
-xoilac86a.tv#$#abort-on-property-read adsRedirectPopups
-xoilaczzmzz.tv#$#abort-current-inline-script jQuery open
-xoilaczzmzz.tv#$#hide-if-matches-xpath './/div[@id or @class]/p/a[@title]/ancestor-or-self::div[1]'
-xoilaczzmzz.tv#$#override-property-read adsPlayer '';override-property-read adsTvcs ''
+xoilac86aa.tv#$#abort-on-property-read adsRedirectPopups
+xoilaczzizz.tv#$#abort-current-inline-script jQuery open
+xoilaczzizz.tv#$#hide-if-matches-xpath './/div[@id or @class]/p/a[@title]/ancestor-or-self::div[1]'
+xoilaczzizz.tv#$#override-property-read adsPlayer '';override-property-read adsTvcs ''
 xpiaotian.net#@#.pagead
 xslca.cc##.footer ~ div[class$="fanye"][onclick$="fanye()"]
 xslca.cc##div:not([id]):not([class]) > div[style="width: 412px;"]
@@ -19294,6 +19295,7 @@ zzzyk.com###Tinfo
 ||5xdmw.com/tb.jpg
 ||5y9nfpes.52pk.com^
 ||5ydj.com/images/banner/
+||5yqi3kg1g.com^
 ||6.cn/coop/pub/getRand.php?
 ||60.190.139.164^
 ||600g3yf2p.com^
@@ -25202,6 +25204,7 @@ zzzyk.com###Tinfo
 ||g3f3.com/love/
 ||g3m92egwo.com^
 ||g4yk4cyyw.com^
+||g66ryy88z.com^
 ||g7htk7ls7.com^
 ||g8hi6r3odr.com^
 ||g8ygkqhm9p.com^
@@ -25992,6 +25995,7 @@ zzzyk.com###Tinfo
 ||hax.co.id/dist/js/ajax.js
 ||hb8g86k.mom/mz.js
 ||hbandier.com^
+||hbcjdwm.com^
 ||hbdruktekf.com^
 ||hbeafcac.top^
 ||hbfpml.cn^
@@ -28142,6 +28146,7 @@ zzzyk.com###Tinfo
 ||kvsqa.xyz^
 ||kvzscvzk0t.com^
 ||kw17vswzu.com^
+||kw7addjwr.com^
 ||kwcmrfb.cn^
 ||kwcnmtd.top^
 ||kwdgudw.cn^
@@ -34689,6 +34694,7 @@ zzzyk.com###Tinfo
 ||w505cb.cc^
 ||w51t.com^$subdocument
 ||w537a7.cc^
+||w56ff7.cc^
 ||w58547.cc^
 ||w58ce6.cc^
 ||w5ba5b.cc^
