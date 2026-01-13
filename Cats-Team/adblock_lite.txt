@@ -4,8 +4,8 @@
 ! Powerd by Cats-Team
 ! Expires: 1 day (update frequency)
 ! Description: AdRules AdBlock List's Lite Version, And Remove Some Filters
-! ! Version: 2026-01-13 20:06:06(GMT+8)
-! Total count: 36757
+! ! Version: 2026-01-14 02:05:34(GMT+8)
+! Total count: 36758
  
 ###ADtip
 ###AdBlockDialog
@@ -23061,6 +23061,7 @@ zzzyk.com###Tinfo
 ||crpoy.com^$domain=pronpic.org
 ||crs.baidu.com^
 ||cruhliip.com^
+||cruietoge.com^
 ||cruzietv.com^
 ||crxs.me/plugins/jquery.modal/
 ||crxs.me/scripts/my_
