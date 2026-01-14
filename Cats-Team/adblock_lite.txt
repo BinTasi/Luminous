@@ -4,8 +4,8 @@
 ! Powerd by Cats-Team
 ! Expires: 1 day (update frequency)
 ! Description: AdRules AdBlock List's Lite Version, And Remove Some Filters
-! ! Version: 2026-01-14 08:14:54(GMT+8)
-! Total count: 36763
+! ! Version: 2026-01-14 12:35:46(GMT+8)
+! Total count: 36780
  
 ###ADtip
 ###AdBlockDialog
@@ -18498,6 +18498,7 @@ zzzyk.com###Tinfo
 ||159i.com^*.php|
 ||15ftgllk1.com^
 ||15hn.net/data/content
+||15mxfnk6sw.com^
 ||15tianqi.com^$third-party
 ||160.com/statics/statics/js/code_13.js
 ||160.com/statics/statics/js/code_15.js
@@ -19888,6 +19889,7 @@ zzzyk.com###Tinfo
 ||a4xvv2g18l.com^
 ||a5xiazai.com/z/
 ||a6.hujiang.com^$domain=~class.hujiang.com
+||a6cfvavw1.xyz^
 ||a7wiuh3she.com^
 ||a8.net^$third-party,domain=suzusoku.blog.jp
 ||a85t9mxnj.com^
@@ -22010,6 +22012,8 @@ zzzyk.com###Tinfo
 ||bugs01121ko.com^
 ||bugs01130ko.com^
 ||bugs01131ko.com^
+||bugs01140ko.com^
+||bugs01141ko.com^
 ||buhgalter.com.ua^*/blocker.
 ||buhgalter911.com^*/blocker.
 ||buhvjv.icu^
@@ -22183,6 +22187,7 @@ zzzyk.com###Tinfo
 ||calistaadama.com^
 ||callousbrake.com^$third-party
 ||calmcactus.com^$third-party
+||calmlydagesh.com^
 ||calypsocapsule.com^$third-party
 ||calyxesdefames.com^
 ||camconnections.live^$xmlhttprequest,domain=gayporntube.com
@@ -24180,6 +24185,7 @@ zzzyk.com###Tinfo
 ||ebioweb.com/jslibrary/js
 ||ebioweb.com/newsf/js/inpic.js
 ||ebioweb.com/newsf/js/news_top_banner.js
+||eblindap.com^
 ||eblnzoq.cn^
 ||eboobuv0rk.com^
 ||ebp.renren.com^
@@ -24982,6 +24988,7 @@ zzzyk.com###Tinfo
 ||foot.footstream.tv/js/compteur1.js$script
 ||footfetishvid.com/*/*.php^$domain=footfetishvid.com
 ||foothotgoback.com^
+||foraystaboo.com^
 ||forecasttiger.com^$third-party
 ||forestseasons.com.cn^
 ||foretellfifth.com^$third-party
@@ -24992,6 +24999,7 @@ zzzyk.com###Tinfo
 ||forflygonom.com^
 ||forgetfulflowers.com^$third-party
 ||forgetfulsnail.com^$third-party
+||formicflob.com^
 ||fortunatemark.com^$third-party
 ||fortune59.com^
 ||forzubatr.com^
@@ -27596,6 +27604,7 @@ zzzyk.com###Tinfo
 ||jrblfv.icu^
 ||jrbnxw.top^
 ||jrds.net.cn^
+||jrge.cn^
 ||jrj.com.cn/h5Ad?
 ||jrj.com.cn/s?z=
 ||jrjimg.cn/ad/
@@ -27699,6 +27708,7 @@ zzzyk.com###Tinfo
 ||jswz8.com/images/
 ||jsx.luyouwang.com^
 ||jsyefc.com^
+||jsyunjihui.com^
 ||jsyunmy.com^
 ||jszavs1.com^
 ||jszctech.com^
@@ -28812,6 +28822,7 @@ zzzyk.com###Tinfo
 ||lywww.com/header_pic.php
 ||lyz.radio366.com^
 ||lzbao.net/mtvbox.
+||lzbao.net/syster.
 ||lzep.cn/ep/sda/
 ||lzfzkedp.icu^
 ||lzjzyjh.com^
@@ -28952,6 +28963,7 @@ zzzyk.com###Tinfo
 ||maljxp.cn^
 ||mall.xinkuaituan.com/zhuanti/
 ||mall0.qiyipic.com^
+||maltobrolly.com^
 ||mamecn.com/style/pcjs/bgimg.
 ||mamibuy.com.tw/Ad/Period.aspx
 ||manage.wdfans.cn^
@@ -31360,6 +31372,7 @@ zzzyk.com###Tinfo
 ||qucnwty.top^
 ||qudajie.com^
 ||qudao.com/common/minisite.js
+||quellersolvend.com^
 ||quge66.com/jdjd/
 ||quietknowledge.com^$third-party
 ||quillkick.com^$third-party
@@ -32632,6 +32645,7 @@ zzzyk.com###Tinfo
 ||soulsoul.xyz^
 ||soulu365.com/images/zhuce.jpg
 ||soup.v.qq.com^
+||sourdine34.com^
 ||southmoney.com/page/pc/
 ||southmoney.com/page/top
 ||southmoney.com^*/Inc/
@@ -32699,6 +32713,7 @@ zzzyk.com###Tinfo
 ||sqif.cn^
 ||sqiorli2w.com^
 ||squalidscrew.com^$third-party
+||squaremarbler.com^
 ||squarewave.top^
 ||squeakzinc.com^$third-party
 ||squealingturn.com^$third-party
@@ -34095,6 +34110,7 @@ zzzyk.com###Tinfo
 ||unknowncrate.com^$third-party
 ||unknowntray.com^$third-party
 ||unlashchaule.qpon^
+||unpawedchoule.cfd^
 ||unpkg.com/hjadu/
 ||unpkg.com/sejie
 ||unpkg.com^$badfilter
@@ -34323,6 +34339,7 @@ zzzyk.com###Tinfo
 ||variflight.com/carnoc/ad/
 ||vast.doublemax.net/adserver/vast.xml$script,xmlhttprequest,other,redirect=noopvast-2.0
 ||vasz.cn^
+||vaudeville44.top^
 ||vaxgyly.cn^
 ||vaykjwn.top^
 ||vazhno.ru/cdn-cgi/apps/head/*.js
