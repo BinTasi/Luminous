@@ -4,8 +4,8 @@
 ! Powerd by Cats-Team
 ! Expires: 1 day (update frequency)
 ! Description: AdRules AdBlock List's Lite Version, And Remove Some Filters
-! ! Version: 2026-01-14 02:05:34(GMT+8)
-! Total count: 36758
+! ! Version: 2026-01-14 08:14:54(GMT+8)
+! Total count: 36763
  
 ###ADtip
 ###AdBlockDialog
@@ -18233,6 +18233,7 @@ zzzyk.com###Tinfo
 ||027dir.com^
 ||027pbj.net^
 ||02asdf.com^
+||02exl1ql2l.com^
 ||02wq.com/script/
 ||02wq.com/script1/
 ||0310cn.com^
@@ -18630,6 +18631,7 @@ zzzyk.com###Tinfo
 ||1lqw75ogo.com^
 ||1mb71rr5oo.com^
 ||1nrlydgrr.com^
+||1o0g85u7k1.com^
 ||1ov2pp0.$script,xmlhttprequest,domain=ign.com|ignboards.com
 ||1paujqtq9.com^
 ||1ppt.com/ad$image
@@ -26494,6 +26496,7 @@ zzzyk.com###Tinfo
 ||hujiang.com/ciku/getDetailSoftText/
 ||hujiang.com/ciku/getLesson
 ||hujunhao.name^
+||humiliatedaboveboardwho.com^
 ||hummingexam.com^
 ||hunzlj.icu^
 ||huo07091hy.com^
@@ -35849,6 +35852,7 @@ zzzyk.com###Tinfo
 ||yfhtbdn.com^
 ||yflieu.cn^
 ||yfminw.cn^
+||yfmwnkd1ti.com^
 ||yfsp.tv/app/*.js$replace=/this\.shouldSkipAds\|\|/!0||/
 ||yg006.com/attachment/js/
 ||yg006.com/attachment/xjdb.jpg
@@ -36711,6 +36715,7 @@ zzzyk.com###Tinfo
 ||zzad.com^$third-party
 ||zzccseo.com/statics/js/di.js
 ||zzdsjxsb.com^
+||zzfxfz.com^
 ||zzgxqlzh.com^
 ||zzisnvb.cn^
 ||zzmyrz.com^
