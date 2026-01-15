@@ -4,8 +4,8 @@
 ! Powerd by Cats-Team
 ! Expires: 1 day (update frequency)
 ! Description: AdRules AdBlock List's Lite Version, And Remove Some Filters
-! ! Version: 2026-01-15 20:05:59(GMT+8)
-! Total count: 36802
+! ! Version: 2026-01-16 02:07:55(GMT+8)
+! Total count: 36794
  
 ###ADtip
 ###AdBlockDialog
@@ -7093,6 +7093,7 @@ amanmi.com##.leaderboardcontainer
 amap.com##.app-download-panel
 amap.com##.app_download_box
 amazon.cn#?#.s-result-item:has(> .s-item-container > h5 .s-sponsored-info-icon)
+americansecuritytoday.com#$#abort-on-property-read adsRedirectPopups
 amyscans.com##div[class*="code-block"]
 amz123.com##.two-activity-style
 ana1.me##.videopos
@@ -7395,7 +7396,6 @@ avjd014.com##a[href^="http://163qp.xyz"]
 avple.tv##.MuiSkeleton-root
 avple.tv##.jss13
 avple.tv##.jss20
-avsforum.com#$#override-property-read window.navigator.connection.rtt 1001
 avsuggest.com,qiaobutang.com##.overlay
 avtb01.com##.ads-player
 avtb01.com##a[href^="http://xgn66.com/?aff="]
@@ -8406,6 +8406,7 @@ chexun.com##.ad1100
 chexun.com##.ad794
 chexun.com##.attr-outside-ad
 chexun.com##a[attr-outside-ad]
+chfestival.org,europsi.org#$#prevent-listener click ads
 chigua69.com##.video-list > div.video-item:has(> a[adv_id])
 childish2x1.fun,childish2x2.fun,tekora.space,lottedira.store,tekora.fun#$#abort-current-inline-script $ aff
 china.cn###pic_banner
@@ -12533,8 +12534,6 @@ kpw6.com###daojs
 kpzpw.com##.header-pic
 kpzpw.com##.littlebanner
 kq7.com##.J_appFromLen
-kreuzwortraetsel.de#$#hide-if-matches-xpath './/div[contains(@class,"mta-label")]/parent::div[1]'
-kreuzwortraetsel.de#$#override-property-read window.navigator.connection.rtt 1001
 krolik.biz#$#abort-current-inline-script document.createElement
 ks.js.cn##.height200
 ks.js.cn##.height60
@@ -14523,7 +14522,6 @@ pheclip.love,phim18vip.one,sieudam.sh#$#abort-current-inline-script $ pop
 phimhdplus.com#$#json-prune ads;abort-current-inline-script setTimeout click_time
 phimlongtieng.net#$#abort-current-inline-script document.createElement script
 phimmoi.club,motphimww.biz#$#abort-current-inline-script addEvent popu
-phimmoii.cx,motchillb.io#$#prevent-listener click ads
 phimtho.cc#$#abort-current-inline-script $ p0pUpRandom
 phone-book.tw#%#//scriptlet('remove-node-text', 'script', 'yumayishop')
 phonearena.com##.adblock_awareness
@@ -15122,8 +15120,6 @@ radio.yandex.by,radio.yandex.kz,radio.yandex.ru##.notify
 radiox.com##.notifyjs-corner
 raenonx.cc##.main_ads-content + div
 raenonx.cc##div[style="display: flex; justify-content: center; align-items: center; position: relative;"] > iframe
-raetsel-hilfe.de#$#hide-if-matches-xpath './/div[contains(@class,"ad-container")]/parent::div[1]'
-raetsel-hilfe.de#$#override-property-read window.navigator.connection.rtt 1001
 rainanime.net#$#abort-on-property-read NativeAd
 rakuten.com###second_promo
 rakuten.com#$#hide-if-contains-visible-text /Sponsorisée/ 'div[class*="flex"]' 'div[class*="sponsoredAds"]'
@@ -17303,7 +17299,6 @@ woniupai.net##.wnp-adbox
 woolworths.com.au#$#hide-if-contains-visible-text /\s*Promoted\s*/ 'div .ng-star-inserted wc-product-tile' 'wc-product-tile ^^sh^^ div.sponsored-text'
 woolworths.com.au#$#hide-if-contains-visible-text /\s*Promoted\s*/ 'div>wc-product-tile' 'wc-product-tile ^^sh^^ div.sponsored-text'
 woozooo.com##.ves
-word-grabber.com#$#override-property-read window.navigator.connection.rtt 1001
 wordhippo.com#$#override-property-read window.navigator.connection.rtt 1001
 workercn.cn#@#.ad_main
 world.huanqiu.com##.ad_bot
@@ -17405,8 +17400,8 @@ www.ksksy.com##[style$='vw;background:#000;opacity:0.01;']
 www.lezhutv.com##[style='bottom: 132px;']
 www.linkedin.com#$#simulate-mouse-event 'xpath(//*[text()="Promoted" or text()="Sponsored" or text()="Dipromosikan" or text()="Propagováno" or text()="Promoveret" or text()="Anzeige" or text()="Promocionado" or text()="促銷內容" or text()="Post sponsorisé" or text()="프로모션" or text()="Post sponsorizzato" or text()="广告" or text()="プロモーション" or text()="Treść promowana" or text()="Patrocinado" or text()="Promovat" or text()="Продвигается" or text()="Marknadsfört" or text()="Nai-promote" or text()="ได้รับการโปรโมท" or text()="Öne çıkarılan içerik" or text()="الترويج"]/ancestor::div[@data-id]//video[@autoplay="autoplay"])$delay=3';
 www.meijuii.cc##DIV[style*='vw; display: block;']
-www.motchill38.com,trumtruyen.xyz#$#abort-current-inline-script setTimeout Aff
-www.motchill38.com,xnhau.hot,teamlanhlung8.shop,xemphimjav.xyz#$#abort-on-property-read localStorage
+www.motchill40.com,trumtruyen.xyz#$#abort-current-inline-script setTimeout Aff
+www.motchill40.com,xnhau.hot,teamlanhlung8.shop,xemphimjav.xyz#$#abort-on-property-read localStorage
 www.nettruyenupp.com#$#abort-on-property-read sp
 www.olevod.com##.B1Lss,.B1Rss
 www.pixnet.net###extradiv2
@@ -17620,7 +17615,6 @@ xnxx-sex-videos.com#$#abort-current-inline-script setTimeout /window.location/
 xnxx-sex-videos.com#$#override-property-read user_out false
 xnxx-sexfilme.com#$#abort-on-property-read open; abort-on-property-write SpacialUp;
 xnxx-sexfilme.com#$#hide-if-matches-xpath './/span[contains(text(),"Advertisement")]/parent::div[@class][1]'; hide-if-matches-xpath './/div[contains(@class,"logo")]/ancestor::div[@data-ga_action="join"]/ancestor::aside[@id][1]';
-xoilac86el.tv#$#abort-on-property-read adsRedirectPopups
 xoilaczzgzz.tv#$#abort-current-inline-script jQuery open
 xoilaczzgzz.tv#$#hide-if-matches-xpath './/div[@id or @class]/p/a[@title]/ancestor-or-self::div[1]'
 xoilaczzgzz.tv#$#override-property-read adsPlayer '';override-property-read adsTvcs ''
@@ -18182,7 +18176,6 @@ zzzyk.com###Tinfo
 ||*.kameleoon.eu^$domain=20minutes.fr|20min.fr
 ||*.website/*^$xmlhttprequest,domain=knaben.xyz
 ||*/ad/$redirect=noopmp3-0.1s,domain=huaren.tv
-||*/loader.min.js|$script,domain=avsforum.com
 ||*/loader.min.js|$script,domain=cool-style.com.tw
 ||*/loader.min.js|$script,domain=dictionary.cambridge.org
 ||*/loader.min.js|$script,domain=ecouter-en-direct.com
@@ -18190,14 +18183,12 @@ zzzyk.com###Tinfo
 ||*/loader.min.js|$script,domain=flatpanelshd.com
 ||*/loader.min.js|$script,domain=inven.co.kr
 ||*/loader.min.js|$script,domain=issuya.com
-||*/loader.min.js|$script,domain=kreuzwortraetsel.de
 ||*/loader.min.js|$script,domain=laleggepertutti.it
 ||*/loader.min.js|$script,domain=motorbikecatalog.com
 ||*/loader.min.js|$script,domain=oraridiapertura24.it
 ||*/loader.min.js|$script,domain=oxfordlearnersdictionaries.com
 ||*/loader.min.js|$script,domain=percentagecalculator.net
 ||*/loader.min.js|$script,domain=pressian.com
-||*/loader.min.js|$script,domain=raetsel-hilfe.de
 ||*/loader.min.js|$script,domain=si.com
 ||*/loader.min.js|$script,domain=slashdot.org
 ||*/loader.min.js|$script,domain=sportsseoul.com
@@ -18205,7 +18196,6 @@ zzzyk.com###Tinfo
 ||*/loader.min.js|$script,domain=the-crossword-solver.com
 ||*/loader.min.js|$script,domain=vwvortex.com
 ||*/loader.min.js|$script,domain=watchuseek.com
-||*/loader.min.js|$script,domain=word-grabber.com
 ||*/loader.min.js|$script,domain=wordhippo.com
 ||*/loader.min.js|$script,domain=worldhistory.org
 ||*/loader.min.js|$script,domain=woxikon.de
@@ -18301,6 +18291,7 @@ zzzyk.com###Tinfo
 ||0b6rvr210q.com^
 ||0bb8jytek.com^
 ||0e1y8x7ft.com^
+||0e7mnbmbb.com^
 ||0e9knynfb.com^
 ||0er7pc8.xyz^
 ||0h9yewgei.com^
@@ -19063,6 +19054,7 @@ zzzyk.com###Tinfo
 ||4shared.com/js/blockDetect/blockDetect.4min.js$script
 ||4taoxs.com/api/accept/
 ||4totls9uh.com^
+||4u3222y7.xyz^
 ||4ufutzmihl.com^
 ||4v6a7i3dkz.com^
 ||4ve.fun^
@@ -22028,6 +22020,7 @@ zzzyk.com###Tinfo
 ||bugs01140ko.com^
 ||bugs01141ko.com^
 ||bugs01150ko.com^
+||bugs01151ko.com^
 ||buhgalter.com.ua^*/blocker.
 ||buhgalter911.com^*/blocker.
 ||buhvjv.icu^
@@ -24470,7 +24463,6 @@ zzzyk.com###Tinfo
 ||erlirscid.com^
 ||erodiumvodums.com^
 ||err.ifengcloud.ifeng.com^
-||error-report.com^$domain=avsforum.com
 ||error-report.com^$domain=cool-style.com.tw
 ||error-report.com^$domain=crosswordsolver.com
 ||error-report.com^$domain=dictionary.cambridge.org
@@ -24479,14 +24471,12 @@ zzzyk.com###Tinfo
 ||error-report.com^$domain=flatpanelshd.com
 ||error-report.com^$domain=inven.co.kr
 ||error-report.com^$domain=issuya.com
-||error-report.com^$domain=kreuzwortraetsel.de
 ||error-report.com^$domain=laleggepertutti.it
 ||error-report.com^$domain=motorbikecatalog.com
 ||error-report.com^$domain=oraridiapertura24.it
 ||error-report.com^$domain=oxfordlearnersdictionaries.com
 ||error-report.com^$domain=percentagecalculator.net
 ||error-report.com^$domain=pressian.com
-||error-report.com^$domain=raetsel-hilfe.de
 ||error-report.com^$domain=si.com
 ||error-report.com^$domain=slashdot.org
 ||error-report.com^$domain=sourceforge.net|bab.la|pons.com|loawa.com|gazetaprawna.pl|malaymail.com|tz.de|winfuture.de|gutefrage.net|dictionary.cambridge.org|huffpost.com|collinsdictionary.com|sankei.com|timesofindia.indiatimes.com|gutefrage.net
@@ -24496,7 +24486,6 @@ zzzyk.com###Tinfo
 ||error-report.com^$domain=verkaufsoffener-sonntag.com
 ||error-report.com^$domain=vwvortex.com
 ||error-report.com^$domain=watchuseek.com
-||error-report.com^$domain=word-grabber.com
 ||error-report.com^$domain=wordhippo.com
 ||error-report.com^$domain=worldhistory.org
 ||error-report.com^$domain=woxikon.de
@@ -25307,6 +25296,7 @@ zzzyk.com###Tinfo
 ||gbsp002.com^
 ||gca.sh/static/linkreplacer.js$script,third-party
 ||gcbflvx.cn^
+||gcjg3ry7m.com^
 ||gcqciiqk.com^
 ||gcsh3bxck.com^
 ||gcw*.2liang.cn^
@@ -26843,6 +26833,7 @@ zzzyk.com###Tinfo
 ||ikronzealu.com^
 ||ikstatic.cn^*.gif
 ||ikuailian.com^$third-party
+||ikuaiquwan6.com^
 ||ikunikun.xyz^
 ||ilade.xyz^
 ||ilcq.cn^
@@ -34425,6 +34416,7 @@ zzzyk.com###Tinfo
 ||vfjsa6do.icu^
 ||vfjxvt.icu^
 ||vfnq.cn^
+||vfpkraveam.com^
 ||vfrdewsdg.xyz^
 ||vfsb.cn^
 ||vfsdgjrr.xyz^
