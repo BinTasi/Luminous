@@ -4,8 +4,8 @@
 ! Powerd by Cats-Team
 ! Expires: 1 day (update frequency)
 ! Description: AdRules AdBlock List's Lite Version, And Remove Some Filters
-! ! Version: 2026-01-15 02:05:07(GMT+8)
-! Total count: 36788
+! ! Version: 2026-01-15 08:14:14(GMT+8)
+! Total count: 36790
  
 ###ADtip
 ###AdBlockDialog
@@ -21774,6 +21774,7 @@ zzzyk.com###Tinfo
 ||bkqa.cn^
 ||bl.emotionalworld.cn^
 ||blackbrake.com^$third-party
+||blazeoccamy.com^
 ||bld.mobi^
 ||bleachbubble.com^$third-party
 ||bleachmx.fr/wp-content/plugins/yeptmixnsykgrb/bjns-fcknj.js
@@ -32944,6 +32945,7 @@ zzzyk.com###Tinfo
 ||success.ctobsnssdk.com^
 ||successfulscent.com^$third-party
 ||succinwafer.com^
+||succubmisship.com^
 ||sucloud.xyz/js/tou.js
 ||sucnwtb.top^
 ||suddensidewalk.com^$third-party
