@@ -4,8 +4,8 @@
 ! Powerd by Cats-Team
 ! Expires: 1 day (update frequency)
 ! Description: AdRules AdBlock List's Lite Version, And Remove Some Filters
-! ! Version: 2026-01-15 08:14:14(GMT+8)
-! Total count: 36790
+! ! Version: 2026-01-15 14:05:21(GMT+8)
+! Total count: 36802
  
 ###ADtip
 ###AdBlockDialog
@@ -17413,6 +17413,7 @@ www.pixnet.net###extradiv2
 www.pixnet.net###extradiv5
 www.playno1.com##.eis_box_s
 www.qianwen.com##.leading-7.text-center.w-16.h-7.rounded-8.text-theme.text-12.bg-weaken
+www.qianwen.com#?#button:contains(下载电脑版)
 www.qq.com##div[class^="adRight"]
 www.rkanr.com##div[id^="rkrCp"]
 www.seznam.cz#$#cookie-remover adform
@@ -18984,6 +18985,7 @@ zzzyk.com###Tinfo
 ||3wk.cc/images/*.gif
 ||3x5h6x434.com^
 ||3x8zapzon.com^
+||3xeo00tqz.com^
 ||3yej.xyz^
 ||3yq51wjim.com^
 ||3yx95kv3at.com^
@@ -22024,6 +22026,7 @@ zzzyk.com###Tinfo
 ||bugs01131ko.com^
 ||bugs01140ko.com^
 ||bugs01141ko.com^
+||bugs01150ko.com^
 ||buhgalter.com.ua^*/blocker.
 ||buhgalter911.com^*/blocker.
 ||buhvjv.icu^
@@ -23407,6 +23410,7 @@ zzzyk.com###Tinfo
 ||dbmp4.com/js/foot.js
 ||dbnsd2viud.xyz^
 ||dbnwlp.xyz^
+||dbraulmat.com^
 ||dbraxb.icu^
 ||dbt6ga5v6d15f.cloudfront.net/slf^$domain=vikacg.com
 ||dbvo.cn^
@@ -24615,6 +24619,7 @@ zzzyk.com###Tinfo
 ||ezprice.com.tw/ezysm/
 ||ezprice.com.tw/js/*_ysm_
 ||ezraahdn.icu^
+||eztravude.com^
 ||ezu6rd5.houge.in^
 ||ezzwechiiewt.com^
 ||f*.baidu.com/it/u=*,*&fm=$third-party,domain=~hao123.com|~haokan.com|~yoojia.com
@@ -27394,6 +27399,7 @@ zzzyk.com###Tinfo
 ||jgapcsi.icu^
 ||jghklz.xyz^
 ||jgid.cn^
+||jgpo1zqhj.com^
 ||jgsajfggv.xyz^
 ||jgstny.com^$third-party
 ||jgtjw.com^
@@ -27724,6 +27730,7 @@ zzzyk.com###Tinfo
 ||jsztl.com/img/particular/tbyhq.jpg
 ||jt01151knd.com^
 ||jt5.dangbei.net/site/$domain=kan.znds.com,image
+||jtav.cn^
 ||jtbunh.xyz^
 ||jtdltu.top^
 ||jtienla.top^
@@ -30793,6 +30800,7 @@ zzzyk.com###Tinfo
 ||plbs9k.icu^
 ||plbslog.umeng.com^
 ||pleasantpump.com^$third-party
+||plectrum53.top^
 ||plmn5.com^
 ||plnshao.xyz^
 ||plof69.com^
@@ -31454,6 +31462,7 @@ zzzyk.com###Tinfo
 ||qzq1hq3mt.com^
 ||qzqd2.com^
 ||qzs.gdtimg.com^
+||qzs43ai3p.com^
 ||qzwb.com/phpstat/
 ||r.99waiyu.com^
 ||r.bat.bing.com/?ld=$script,redirect=noopjs,domain=mcappx.com
@@ -32620,6 +32629,7 @@ zzzyk.com###Tinfo
 ||sojson.com/ui/images/upyun
 ||solarislabyrinth.com^$third-party
 ||solaron.top^
+||solitaire47.com^
 ||somaliainc.com^
 ||somanhua.com/smh/
 ||somberscarecrow.com^$third-party
@@ -34007,6 +34017,7 @@ zzzyk.com###Tinfo
 ||ufeuca.icu^
 ||ufgg55.xyz^
 ||ufgl.cn^
+||ufihgd3ck.com^
 ||ufile.cc/crod.js
 ||ufile.cc/pps.js
 ||ufile.cc^
@@ -34725,6 +34736,7 @@ zzzyk.com###Tinfo
 ||w505cb.cc^
 ||w51t.com^$subdocument
 ||w537a7.cc^
+||w54551.cc^
 ||w56ff7.cc^
 ||w58547.cc^
 ||w58ce6.cc^
