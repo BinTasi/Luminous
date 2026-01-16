@@ -4,8 +4,8 @@
 ! Powerd by Cats-Team
 ! Expires: 1 day (update frequency)
 ! Description: AdRules AdBlock List's Lite Version, And Remove Some Filters
-! ! Version: 2026-01-16 08:15:00(GMT+8)
-! Total count: 36803
+! ! Version: 2026-01-16 14:05:26(GMT+8)
+! Total count: 36808
  
 ###ADtip
 ###AdBlockDialog
@@ -18290,6 +18290,7 @@ zzzyk.com###Tinfo
 ||0b4qu3nxa.com^
 ||0b6rvr210q.com^
 ||0bb8jytek.com^
+||0d1oo8jp69.com^
 ||0e1y8x7ft.com^
 ||0e7mnbmbb.com^
 ||0e9knynfb.com^
@@ -22112,6 +22113,7 @@ zzzyk.com###Tinfo
 ||bzhn9y.icu^
 ||bzkmqr6vo4.com^
 ||bzlmtuniv.com^
+||bzmbrsm.com^
 ||bzp2fqad7o.com^
 ||bzqqftz.icu^
 ||bzxvtj.xyz^
@@ -29386,6 +29388,7 @@ zzzyk.com###Tinfo
 ||monitor.music.qq.com^
 ||monitor.uu.qq.com^
 ||monnsutogatya.com/himg/monst/
+||monopoly36.top^
 ||monsetting.toutiao.com^
 ||monsteredward.com^
 ||moobtcnse.xyz^
@@ -29670,6 +29673,7 @@ zzzyk.com###Tinfo
 ||naukreatn.com^
 ||nawpush.com^
 ||nawpyd.icu^
+||naxqhla.com^
 ||nb.zol.com.cn/detail_*.html
 ||nbdtdt.icu^
 ||nbegame.com/nbeos/*.jpg
@@ -35120,6 +35124,7 @@ zzzyk.com###Tinfo
 ||wvcnmte.top^
 ||wvepppysvo.com^
 ||wvyqks.xyz^
+||wvzd.cn^
 ||ww7814.win/pic
 ||ww9874.com/asset/playerInit.js
 ||wwads.cn^
