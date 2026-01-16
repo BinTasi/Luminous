@@ -4,8 +4,8 @@
 ! Powerd by Cats-Team
 ! Expires: 1 day (update frequency)
 ! Description: AdRules AdBlock List's Lite Version, And Remove Some Filters
-! ! Version: 2026-01-16 02:07:55(GMT+8)
-! Total count: 36794
+! ! Version: 2026-01-16 08:15:00(GMT+8)
+! Total count: 36803
  
 ###ADtip
 ###AdBlockDialog
@@ -18642,6 +18642,7 @@ zzzyk.com###Tinfo
 ||1qboss9.ejuslehq.com^$script,xmlhttprequest,domain=pch.com
 ||1qfxm8hgqd.com^
 ||1qkssfop4l.com^
+||1qocqk1fho.com^
 ||1qv.fun^
 ||1r7efqo.tjfmd.com^$script,xmlhttprequest,domain=pch.com
 ||1rtb.com^
@@ -19616,6 +19617,7 @@ zzzyk.com###Tinfo
 ||8u6stvyww.top^
 ||8uuxq3tvn.com^
 ||8v08mjri7.com^
+||8w6hovz0d2.com^
 ||8wvb8xoqgq.com^
 ||8x14khzwmi.com^
 ||8x3wolchw.com^
@@ -22021,6 +22023,7 @@ zzzyk.com###Tinfo
 ||bugs01141ko.com^
 ||bugs01150ko.com^
 ||bugs01151ko.com^
+||bugs01160ko.com^
 ||buhgalter.com.ua^*/blocker.
 ||buhgalter911.com^*/blocker.
 ||buhvjv.icu^
@@ -24789,6 +24792,7 @@ zzzyk.com###Tinfo
 ||fenxiangdashi.com/Res/js/detail_
 ||fenxiangdashi.com/img/banner/
 ||feq853.com^
+||fermataintima.com^
 ||feronyv.com^
 ||fesnaed.com^
 ||fevrvd.top^
@@ -28658,6 +28662,7 @@ zzzyk.com###Tinfo
 ||lokngd.com^
 ||loldyttw.com/blr.js
 ||loldyttw.com/skin/lol/js/ds.js
+||loleteal.com^
 ||loli.io^$domain=kisssub.org
 ||loli.net/2019/04/24/5cc0027b4f2f1.png
 ||loli.net/2020/06/17/gpRx7AzGwI4kQmV.gif
@@ -29583,6 +29588,7 @@ zzzyk.com###Tinfo
 ||myqcloud.com/ad/
 ||myqcloud.com/uploads/m3u8/*.ts$third-party
 ||myqcloud.com/wp-content/uploads/huoxingyun.
+||myricylhoihere.com^
 ||mysteel.com/ads/
 ||mysteelcdn.com/advert/
 ||mysteelcdn.com/common/*/js/img_ad.
@@ -31917,6 +31923,7 @@ zzzyk.com###Tinfo
 ||s.zixuntop.com^
 ||s06g9qvr5.com^
 ||s0drxaq4v7.com^
+||s0p6s02x28.com^
 ||s1-a1.dnvodcdn.me^*.mp4
 ||s1-a1.dnvodcdn.me^*.svg
 ||s1.cdn-sg.advlion.com^
@@ -33684,6 +33691,7 @@ zzzyk.com###Tinfo
 ||trmn.cn^
 ||trognoi.com^
 ||trohycv.top^
+||trombone48.com^
 ||trorqaeao.com^
 ||troubleshade.com^$third-party
 ||trp69.top^
@@ -34131,6 +34139,7 @@ zzzyk.com###Tinfo
 ||unpw0czu7.com^
 ||unqvaof.xyz^
 ||unrigscsc.com^
+||unsinwusser.com^
 ||untidyquestion.com^$third-party
 ||untidyrice.com^$third-party
 ||untitled.dwstatic.com^
