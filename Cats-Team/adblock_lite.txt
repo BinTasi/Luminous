@@ -4,8 +4,8 @@
 ! Powerd by Cats-Team
 ! Expires: 1 day (update frequency)
 ! Description: AdRules AdBlock List's Lite Version, And Remove Some Filters
-! ! Version: 2026-01-17 14:04:57(GMT+8)
-! Total count: 36834
+! ! Version: 2026-01-17 20:05:22(GMT+8)
+! Total count: 36840
  
 ###ADtip
 ###AdBlockDialog
@@ -18613,6 +18613,7 @@ zzzyk.com###Tinfo
 ||1f0l.top^
 ||1futnsio0.com^
 ||1fxs.com^$third-party
+||1gj8lhfa1.com^
 ||1gp3p6fkio.com^
 ||1gqd0o687z.com^
 ||1hmklj60i.com^
@@ -18861,6 +18862,7 @@ zzzyk.com###Tinfo
 ||34mede82hj.com^
 ||3520.cc/js/3520/
 ||35336.net/35336.jpg
+||354xxcdt1.com^
 ||3562wsgkbcm.xyz^
 ||35vc.com^
 ||360.cn/apis/qss/soweb/ad_proxy/internal/
@@ -22030,6 +22032,7 @@ zzzyk.com###Tinfo
 ||bugs01160ko.com^
 ||bugs01161ko.com^
 ||bugs01170ko.com^
+||bugs01171ko.com^
 ||buhgalter.com.ua^*/blocker.
 ||buhgalter911.com^*/blocker.
 ||buhvjv.icu^
@@ -26041,6 +26044,7 @@ zzzyk.com###Tinfo
 ||hbv.tobeacon.cn^
 ||hbxhnqj.cn^
 ||hbxmdf.icu^
+||hbz8v.com^
 ||hbzhenquan.cn^
 ||hbzjht.com^$third-party
 ||hbzshoes.com^
@@ -28724,6 +28728,7 @@ zzzyk.com###Tinfo
 ||lppfnf.icu^
 ||lpuqhego.com^
 ||lpxmall.com^
+||lqbe7i5gf.com^
 ||lqdcvj.top^
 ||lqe3.icu^
 ||lqfctb.icu^
@@ -34771,6 +34776,7 @@ zzzyk.com###Tinfo
 ||w58ce6.cc^
 ||w5ba5b.cc^
 ||w5bi16f3co.com^
+||w5c6d9.cc^
 ||w5ftl8bhu3.com^
 ||w6xbr7hc.xyz^
 ||w6xdba54n.com^
