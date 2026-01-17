@@ -4,8 +4,8 @@
 ! Powerd by Cats-Team
 ! Expires: 1 day (update frequency)
 ! Description: AdRules AdBlock List's Lite Version, And Remove Some Filters
-! ! Version: 2026-01-17 08:14:03(GMT+8)
-! Total count: 36820
+! ! Version: 2026-01-17 14:04:57(GMT+8)
+! Total count: 36834
  
 ###ADtip
 ###AdBlockDialog
@@ -17332,6 +17332,7 @@ wpworld.pl,windowsowo.pl#@##adBanner
 ws://*/api/wss/GetNotReadCount$third-party
 wss://*.*.top/$third-party
 wss://*.com:29*/$third-party
+wss://*.com:800*/$third-party
 wss://*.top/|
 wss://*.xyz:*?e=$third-party
 wss://*.xyz:*?x=$third-party
@@ -19366,6 +19367,7 @@ zzzyk.com###Tinfo
 ||6avz.com^$script,third-party
 ||6c641lgikp.top^
 ||6cjdya3djn.com^
+||6cmxoje5k.com^
 ||6cyfvvs.com^
 ||6fm4dcpj31.com^
 ||6functf.com^
@@ -22027,6 +22029,7 @@ zzzyk.com###Tinfo
 ||bugs01151ko.com^
 ||bugs01160ko.com^
 ||bugs01161ko.com^
+||bugs01170ko.com^
 ||buhgalter.com.ua^*/blocker.
 ||buhgalter911.com^*/blocker.
 ||buhvjv.icu^
@@ -23898,6 +23901,7 @@ zzzyk.com###Tinfo
 ||downmz.com^$popup,third-party
 ||downxia.com/dgjs/download.js
 ||downyi.com/tg/
+||dowrrav.com^
 ||dozu5h9yql.com^
 ||dp3.qq.com/qqcom/
 ||dp3.qq.com^
@@ -24561,6 +24565,7 @@ zzzyk.com###Tinfo
 ||everyonepiano.cn/Public/*0x
 ||evidhjksdtgyxrh.xyz^
 ||evkc.cn^
+||evpxl9a8h.com^
 ||evreiks.com^
 ||evtubescms.phncdn.com^
 ||ewbaenkiu.com^
@@ -24834,6 +24839,7 @@ zzzyk.com###Tinfo
 ||fhddnh.xyz^
 ||fheiu43bcdhsj.top^
 ||fhfgg.com^
+||fhgaikrolq.com^
 ||fhglcpf.icu^
 ||fhhctb.icu^
 ||fhitagd.cn^
@@ -25828,6 +25834,7 @@ zzzyk.com###Tinfo
 ||gv0oi9ecji.com^
 ||gvbhae0.com^
 ||gvideo.qpic.cn^
+||gvje.cn^
 ||gw1jvhs.com^
 ||gw7jpuouik.com^
 ||gwbnsh.net.cn/hd/unicom/ad.html
@@ -30032,6 +30039,7 @@ zzzyk.com###Tinfo
 ||nxhwvt.xyz^
 ||nxing.cn/uploads/uploads/*-size1220x
 ||nxjuvt.icu^
+||nxkyiwh.com^
 ||nxnjw.com^
 ||nxu3l4c8u.com^
 ||nxwm44neo.com^
@@ -31500,6 +31508,7 @@ zzzyk.com###Tinfo
 ||r6yigjfvp.com^
 ||r75tia.cn^
 ||r7tqkqrvuz.com^
+||ra0mpyy93.com^
 ||ra1.xyz^
 ||ra10.xyz^
 ||rabbitbreath.com^$third-party
@@ -32025,6 +32034,7 @@ zzzyk.com###Tinfo
 ||saviourketonic.com^
 ||savoryorange.com^$third-party
 ||sax*.sina.
+||saxophone90.top^
 ||saxysec.com^
 ||sb4you1.com^
 ||sb6k.top^
@@ -32569,6 +32579,7 @@ zzzyk.com###Tinfo
 ||snmi.cn^$third-party
 ||snoresmile.com^$third-party
 ||snowflake.qq.com^
+||snowman77.com^
 ||snwuamb.top^
 ||snwucnb.top^
 ||snxyf.com^$third-party
@@ -33956,6 +33967,7 @@ zzzyk.com###Tinfo
 ||u62x055tr.com^
 ||u6421d8aqt.com^
 ||u6uy9lzdcj.com^
+||u6yzoru6u.com^
 ||u6zsr2xn1.com^
 ||u7em6.xyz^
 ||u7em9v4hp.com^
@@ -34458,6 +34470,7 @@ zzzyk.com###Tinfo
 ||vgnyli.top^
 ||vgovvoinf.com^
 ||vgragvory.com^
+||vgtmosn.com^
 ||vgxj.cn^
 ||vhaugmotn.com^
 ||vhgu5ivtew.com^
@@ -36247,6 +36260,7 @@ zzzyk.com###Tinfo
 ||yyselrqpyu.com^
 ||yystzl.cn^
 ||yyuivw6.com^
+||yyutfzv.com^
 ||yyv.co/Webservices/jsParseLinks.aspx$script,third-party
 ||yyv.co/visitScript/$script,third-party
 ||yywridi.cn^
