@@ -4,8 +4,8 @@
 ! Powerd by Cats-Team
 ! Expires: 1 day (update frequency)
 ! Description: AdRules AdBlock List's Lite Version, And Remove Some Filters
-! ! Version: 2026-01-18 12:42:05(GMT+8)
-! Total count: 36852
+! ! Version: 2026-01-18 14:05:06(GMT+8)
+! Total count: 36854
  
 ###ADtip
 ###AdBlockDialog
@@ -29837,6 +29837,7 @@ zzzyk.com###Tinfo
 ||niangaoxiansheng.com^
 ||nicelinks.site/ad-block-
 ||nidckjnc.com^
+||nie8fe9far.com^
 ||nieae.xyz^
 ||niebiaoyyds.com^
 ||nievolmqn.com^
@@ -36711,6 +36712,7 @@ zzzyk.com###Tinfo
 ||zq.lansedir.com^
 ||zqifmyt.icu^
 ||zqntbc.top^
+||zqqwr9snx1.com^
 ||zqydulfzxb.com^
 ||zrakpxsf.com^
 ||zrblog.net*/gg/
