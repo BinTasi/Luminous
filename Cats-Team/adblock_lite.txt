@@ -4,8 +4,8 @@
 ! Powerd by Cats-Team
 ! Expires: 1 day (update frequency)
 ! Description: AdRules AdBlock List's Lite Version, And Remove Some Filters
-! ! Version: 2026-01-18 08:16:04(GMT+8)
-! Total count: 36842
+! ! Version: 2026-01-18 12:42:05(GMT+8)
+! Total count: 36852
  
 ###ADtip
 ###AdBlockDialog
@@ -1126,6 +1126,7 @@
 ##DIV.duilian[style*='z-index: 9999; top: 0px; ']
 ##DIV.ec-ad.tim-box
 ##DIV.fixed-bottom.d-block.d-sm-none.movies_ad
+##DIV.floating-ad
 ##DIV.footer-appload.js-footer-appload
 ##DIV.hidden-lg[style='position: absolute;bottom: 0px;z-index: 10;']
 ##DIV.index_adpic
@@ -19352,6 +19353,7 @@ zzzyk.com###Tinfo
 ||670t5x.cn^
 ||6726lmym.top^
 ||6789.net^$third-party
+||67qlvj0jcj.com^
 ||67u36vmzm.com^
 ||6820tp1.com^
 ||68287zubo85737.com^
@@ -19596,6 +19598,7 @@ zzzyk.com###Tinfo
 ||8cnd.com^
 ||8d7hhh8x.com^
 ||8d8d.me/images/dealer.gif
+||8fdmj67f5e.com^
 ||8feichai.com^
 ||8ff0.cn^
 ||8g0j.cn^
@@ -22033,6 +22036,7 @@ zzzyk.com###Tinfo
 ||bugs01161ko.com^
 ||bugs01170ko.com^
 ||bugs01171ko.com^
+||bugs01180ko.com^
 ||buhgalter.com.ua^*/blocker.
 ||buhgalter911.com^*/blocker.
 ||buhvjv.icu^
@@ -22778,6 +22782,7 @@ zzzyk.com###Tinfo
 ||cmath.fr/images/fond2.gif
 ||cmath.fr/images/fondsticky.gif
 ||cmbkgmx.cn^
+||cmesgpqq8z.com^
 ||cmgjqqu.cn^
 ||cmh2pw.com^
 ||cmm.xmfish.com^
@@ -26116,6 +26121,7 @@ zzzyk.com###Tinfo
 ||hebstsmgs.com^
 ||hebtv.com/d/a/thea
 ||hectorstatic.baidu.com^
+||hecwgmokvc.com^
 ||heemphaers.com^
 ||hefei.cc/templates/default/index_ad
 ||hefei64.com^
@@ -27855,6 +27861,7 @@ zzzyk.com###Tinfo
 ||k8mb640mta.com^
 ||k99.cc^$third-party
 ||k9w4m.xyz^
+||kacq.cn^
 ||kagdf.com^
 ||kahgjjd.com^
 ||kai5741.xyz^
@@ -28346,6 +28353,7 @@ zzzyk.com###Tinfo
 ||ledfjl.icu^
 ||ledni.xyz^
 ||ledwtz.icu^
+||leektiylpi.com^
 ||leeleo.top^$third-party
 ||leftliquid.com^$third-party
 ||legdeh.fun^
@@ -32660,6 +32668,7 @@ zzzyk.com###Tinfo
 ||solarislabyrinth.com^$third-party
 ||solaron.top^
 ||solitaire47.com^
+||solitaire50.top^
 ||somaliainc.com^
 ||somanhua.com/smh/
 ||somberscarecrow.com^$third-party
@@ -35804,6 +35813,7 @@ zzzyk.com###Tinfo
 ||xyizgh.cn^
 ||xyj321.com/static/xyj/js/foot_slide_bar_
 ||xyj321.com/static/zx/js/zx-con-jsq_
+||xylophone37.com^
 ||xywy.com/gk?a=
 ||xywy.com/zhixing/
 ||xzji.com/data/block_js/softShow_
