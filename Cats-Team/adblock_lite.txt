@@ -4,8 +4,8 @@
 ! Powerd by Cats-Team
 ! Expires: 1 day (update frequency)
 ! Description: AdRules AdBlock List's Lite Version, And Remove Some Filters
-! ! Version: 2026-01-19 20:06:22(GMT+8)
-! Total count: 36876
+! ! Version: 2026-01-20 02:05:17(GMT+8)
+! Total count: 36878
  
 ###ADtip
 ###AdBlockDialog
@@ -8404,7 +8404,7 @@ chexun.com##.ad1100
 chexun.com##.ad794
 chexun.com##.attr-outside-ad
 chexun.com##a[attr-outside-ad]
-chfestival.org,europsi.org#$#prevent-listener click ads
+chfestival.org,motchilll.bz#$#prevent-listener click ads
 chigua69.com##.video-list > div.video-item:has(> a[adv_id])
 childish2x1.fun,childish2x2.fun,tekora.space,lottedira.store,tekora.fun#$#abort-current-inline-script $ aff
 china.cn###pic_banner
@@ -15213,6 +15213,7 @@ rk.plcdn.xyz#$#abort-on-property-read adsTvc; abort-on-property-read adsPlayer; 
 rkanr.com##.bill
 rlsbb.com###contentArea > .information
 rlsbb.movie7share.net##.information > [color="red"] > H3
+robong.cc#$#simulate-mouse-event '.show.modal-backdrop.fade$delay=1100'
 robotcoingame.com,monstercoingame.com,wonderlandco.in#@#.adsbygoogle
 rojadirecta.*#$#abort-on-property-read smrtSB; abort-on-property-read smrtSP
 rojadirecta.me#@##adserver
@@ -30957,6 +30958,7 @@ zzzyk.com###Tinfo
 ||pretension48.top^
 ||prettyvirgin.com/images/banners/
 ||prettyvirgin.com/js/show.html
+||preuquqre.com^
 ||previousplayground.com^$third-party
 ||preyfultarried.com^
 ||price.com.hk/dfp_price.php?
