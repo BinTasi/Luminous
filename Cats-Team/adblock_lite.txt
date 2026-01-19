@@ -4,8 +4,8 @@
 ! Powerd by Cats-Team
 ! Expires: 1 day (update frequency)
 ! Description: AdRules AdBlock List's Lite Version, And Remove Some Filters
-! ! Version: 2026-01-19 08:15:20(GMT+8)
-! Total count: 36862
+! ! Version: 2026-01-19 14:07:32(GMT+8)
+! Total count: 36868
  
 ###ADtip
 ###AdBlockDialog
@@ -22066,6 +22066,7 @@ zzzyk.com###Tinfo
 ||bustles1.com^
 ||bustlingbook.com^$third-party
 ||buteopung.com^
+||butoqj0vh.com^
 ||butterbulb.com^$third-party
 ||butterburst.com^$third-party
 ||buttocks33.com^
@@ -29106,6 +29107,7 @@ zzzyk.com###Tinfo
 ||me4b65enw.com^
 ||me680.com/js/*.js
 ||meadowlullaby.com^$third-party
+||meander32.com^
 ||meaqcj.cn^
 ||meatydime.com^$third-party
 ||mecv.cn^
@@ -34126,6 +34128,7 @@ zzzyk.com###Tinfo
 ||ultraimg.com^$domain=18board.com|18p2p.com
 ||ultraoranges.com^$third-party
 ||ulwzinqlh0.com^
+||ulx1cpf68.com^
 ||ulyuom.xyz^
 ||um5xcgngmart.xyz^
 ||umbrella6.top^
@@ -35589,6 +35592,8 @@ zzzyk.com###Tinfo
 ||xklv.cn^
 ||xkmwxwy.cn^
 ||xkqit.com^
+||xktoy8fub.com^
+||xkum.cn^
 ||xkyn.com/imgs/js/al.js
 ||xkyn.com/imgs/js/xx.js
 ||xkzjq.cn^
@@ -36651,6 +36656,7 @@ zzzyk.com###Tinfo
 ||zlgame.top^
 ||zlgenuyiu.com^
 ||zljnwzp.cn^
+||zlnitethia.com^
 ||zlnmzc.top^
 ||zlongad.com^$third-party
 ||zlp6s.pw^$third-party
