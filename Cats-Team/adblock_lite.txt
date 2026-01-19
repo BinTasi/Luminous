@@ -4,8 +4,8 @@
 ! Powerd by Cats-Team
 ! Expires: 1 day (update frequency)
 ! Description: AdRules AdBlock List's Lite Version, And Remove Some Filters
-! ! Version: 2026-01-19 02:04:42(GMT+8)
-! Total count: 36858
+! ! Version: 2026-01-19 08:15:20(GMT+8)
+! Total count: 36862
  
 ###ADtip
 ###AdBlockDialog
@@ -22038,6 +22038,7 @@ zzzyk.com###Tinfo
 ||bugs01171ko.com^
 ||bugs01180ko.com^
 ||bugs01181ko.com^
+||bugs01190ko.com^
 ||buhgalter.com.ua^*/blocker.
 ||buhgalter911.com^*/blocker.
 ||buhvjv.icu^
@@ -31919,6 +31920,7 @@ zzzyk.com###Tinfo
 ||rwbqll.top^
 ||rwix.cn^
 ||rwtezd.icu^
+||rwtzv9ehv.com^
 ||rxaqwhu54d.com^
 ||rxdxzb.top^
 ||rxi8jcy0aq.com^
@@ -35331,6 +35333,7 @@ zzzyk.com###Tinfo
 ||wxddid.cn^
 ||wxdqgmr.cn^
 ||wxfdmri.xyz^
+||wxikfd89f.com^
 ||wximg.wxs.qq.com^
 ||wxl0gfw.icu^
 ||wxsmw.wxs.qq.com^
@@ -36270,6 +36273,7 @@ zzzyk.com###Tinfo
 ||yy17173.dtime.com^
 ||yy18.info/yyads/
 ||yy18.info^*thanks$popup
+||yy1veaxhf.com^
 ||yy4480qpgyy.com^
 ||yy8090.vip/js/abc/
 ||yyax.cn^
