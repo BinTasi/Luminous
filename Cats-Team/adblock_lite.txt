@@ -4,8 +4,8 @@
 ! Powerd by Cats-Team
 ! Expires: 1 day (update frequency)
 ! Description: AdRules AdBlock List's Lite Version, And Remove Some Filters
-! ! Version: 2026-01-20 02:05:17(GMT+8)
-! Total count: 36878
+! ! Version: 2026-01-20 08:14:10(GMT+8)
+! Total count: 36889
  
 ###ADtip
 ###AdBlockDialog
@@ -21894,7 +21894,9 @@ zzzyk.com###Tinfo
 ||boundlessargument.com^$third-party
 ||boundlessbrake.com^$third-party
 ||boundlessveil.com^$third-party
+||boutomeeshaul.com^
 ||bouzechoby.net^
+||bowwowspumy.cfd^
 ||boxmp4.com/js/foot.js
 ||boxwcr.icu^
 ||boyidianqi.com.cn^
@@ -21942,6 +21944,7 @@ zzzyk.com###Tinfo
 ||brfgbn.xyz^
 ||brfvyrrp.com^
 ||brianwould.com^$third-party
+||brichenamylum.com^
 ||bridgetnbe.com^
 ||briefcase95.com^
 ||brighttoe.com^$third-party
@@ -24363,6 +24366,7 @@ zzzyk.com###Tinfo
 ||elevatorpartsbuy.com^
 ||elfdomistles.com^
 ||eliezerpmsa.com^
+||elihucyprus.com^
 ||elinvarpayola.com^
 ||elopatchwork.com^
 ||eloquenceeye.com^$third-party
@@ -30922,6 +30926,7 @@ zzzyk.com###Tinfo
 ||postserviceuk.com^
 ||potatosa6.com^
 ||potentymoa.com^
+||powdryround.com^
 ||powedw.com^
 ||power.adhacker.online^$third-party
 ||poxiao.com/template/default/images/12345.js
@@ -31631,6 +31636,7 @@ zzzyk.com###Tinfo
 ||redbuckzincate.com^
 ||redcapsunlime.com^
 ||redmx.cn^$third-party
+||redoutsologist.com^
 ||redshu.com/js/pcAdv.js
 ||redshu.com/js/www/jquerygg.js
 ||reek.github.io/anti-adblock-killer/k2Uw7isHrMm5JXP1Vwdxc567ZKc1aZ4I.js|$script
@@ -32014,6 +32020,7 @@ zzzyk.com###Tinfo
 ||sa8zdui.com^
 ||saad.ms.zhangyue.net^
 ||saas.hpplay.cn^
+||sabbathendow.com^
 ||sablesmile.com^$third-party
 ||sablesong.com^$third-party
 ||saccac11.com^
@@ -32407,6 +32414,7 @@ zzzyk.com###Tinfo
 ||shulihua.net/js/topcen.js
 ||shulihua.net/js/yegonggao.js
 ||shulsbs.cn^
+||shumackeels.com^
 ||shumilou.co/style/html5.js
 ||shuneiya.com/js/wcnm/foot.js
 ||shuneiya.com/static/js/ding.js
@@ -32998,6 +33006,7 @@ zzzyk.com###Tinfo
 ||stupendoussleet.com^$third-party
 ||stupendoussnow.com^$third-party
 ||stupidscene.com^$third-party
+||sturthagdin.com^
 ||su.bdimg.com/static/dspui/js/
 ||su0k43kcy.com^
 ||sub.powerapple.com^
@@ -34168,6 +34177,7 @@ zzzyk.com###Tinfo
 ||unecne.com/wp-content/uploads/*ad-
 ||unequalbrake.com^$third-party
 ||unetall.com^
+||unfretarara.com^
 ||ungreeninwrit.com^
 ||unhangignore.com^
 ||uniformer.biz^
@@ -34564,6 +34574,7 @@ zzzyk.com###Tinfo
 ||vijnhyru.xyz^
 ||vinelethoner.com^
 ||vinoinqih.com^
+||vinostempus.com^
 ||vinsgcs.com^
 ||violetop33.top^
 ||violoncello21.top^
