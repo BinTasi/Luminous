@@ -4,8 +4,8 @@
 ! Powerd by Cats-Team
 ! Expires: 1 day (update frequency)
 ! Description: AdRules AdBlock List's Lite Version, And Remove Some Filters
-! ! Version: 2026-01-20 08:14:10(GMT+8)
-! Total count: 36889
+! ! Version: 2026-01-20 14:06:27(GMT+8)
+! Total count: 36900
  
 ###ADtip
 ###AdBlockDialog
@@ -19528,6 +19528,7 @@ zzzyk.com###Tinfo
 ||7xsf3h.com1.z0.glb.clouddn.com^
 ||7y50wscnc8.com^
 ||7yt.org^
+||7yy69rrqpz.com^
 ||7zb.fun^
 ||7zivoy6qs.com^
 ||8052qydk7.com^
@@ -22045,6 +22046,7 @@ zzzyk.com###Tinfo
 ||bugs01181ko.com^
 ||bugs01190ko.com^
 ||bugs01191ko.com^
+||bugs01200ko.com^
 ||buhgalter.com.ua^*/blocker.
 ||buhgalter911.com^*/blocker.
 ||buhvjv.icu^
@@ -22950,6 +22952,7 @@ zzzyk.com###Tinfo
 ||config.unityads.unity3d.com^
 ||configchain.com^$third-party
 ||confirmglobal.com^$third-party
+||confluent54.top^
 ||confusedcart.com^$third-party
 ||connect.cointent.com^$domain=themarysue.com
 ||connect.facebook.net/en_US/fbevents.js$script,redirect=noopjs,domain=linetv.tw
@@ -24666,6 +24669,7 @@ zzzyk.com###Tinfo
 ||f8dy.tv/template/m1938/js/b
 ||f8dy.tv/template/m1938/js/foot.js
 ||f8ejqxp.cn^
+||f92l2orpu3.com^
 ||f9gv87zoq2.com^
 ||faamhel.com^
 ||fabricforrel.com^
@@ -25535,6 +25539,7 @@ zzzyk.com###Tinfo
 ||gjkame6.com^
 ||gjkbyt.com^
 ||gjwind.com/xxmh.gif
+||gjzpwnuifk.com^
 ||gk1.582582.com^
 ||gk1.zjbiz.net^
 ||gk99.com/static/js/a-d-sys.js
@@ -25736,6 +25741,8 @@ zzzyk.com###Tinfo
 ||gshsne.xyz^
 ||gsjdzx.com^$third-party
 ||gsjzlssws.com^
+||gsk801200hh.com^
+||gsk801201hh.com^
 ||gslb.hpplay.cn^
 ||gsnlc.cn^
 ||gsp0.kj-gov.cn^
@@ -28736,6 +28743,7 @@ zzzyk.com###Tinfo
 ||loveseashore.com^$third-party
 ||loveshang.com/api.php?mod=ad&adid=custom_
 ||lowadec.cn^
+||lp340p7czf.com^
 ||lp3tdqle.com^$third-party
 ||lpalartra.com^
 ||lpasdfgwer.com^
@@ -32010,6 +32018,7 @@ zzzyk.com###Tinfo
 ||s7ki0dcd96.com^
 ||s7tu.com/images/*.gif
 ||s7vf.cn^
+||s7xrlzfa.top^
 ||s8.pw^$third-party
 ||s83.fun^
 ||s8bbs.com/ad/
@@ -34461,6 +34470,7 @@ zzzyk.com###Tinfo
 ||vdhatq0co.com^
 ||vdianying.cc/img/youhuiquan250.gif
 ||vdianying.cc/wp-content/plugins/wp-adblock-dedect/
+||vdnh.cn^
 ||vdpwuxmo.icu^
 ||vdrfes.site^
 ||vdxu.cn^
@@ -35878,6 +35888,7 @@ zzzyk.com###Tinfo
 ||yaacdn.top^
 ||yaaumqa.top^
 ||yac5t.cn^
+||yah3ph65tc.com^
 ||yahekby.cn^
 ||yahoo.com/embed/tv?site=buzzhand&
 ||yahoo.com/gdsale/gdsale.asp$domain=beephone.com.tw
