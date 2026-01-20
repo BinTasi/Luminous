@@ -4,8 +4,8 @@
 ! Powerd by Cats-Team
 ! Expires: 1 day (update frequency)
 ! Description: AdRules AdBlock List's Lite Version, And Remove Some Filters
-! ! Version: 2026-01-20 14:06:27(GMT+8)
-! Total count: 36900
+! ! Version: 2026-01-20 20:06:17(GMT+8)
+! Total count: 36903
  
 ###ADtip
 ###AdBlockDialog
@@ -10113,9 +10113,6 @@ firefoxchina.cn,taoyitu.com##.float-banner
 firstrowas.co###ad_overlabut
 firstrowfr.eu###adblockplus
 firstrowfr.eu###fanback
-fishfight.net#$#abort-current-inline-script jQuery open
-fishfight.net#$#hide-if-matches-xpath './/div[@id or @class]/p/a[@title]/ancestor-or-self::div[1]'
-fishfight.net#$#override-property-read adsPlayer '';override-property-read adsTvcs ''
 fishpi.cn##a[href*="guangdianhong.com"]
 fishpi.cn#?#.module:has(>.ad)
 fitacg.com##a[href*="ifift.com"]
@@ -16869,7 +16866,7 @@ v2rayssr.com#$##wrapfabtest { height: 1px!important; }
 v2rayssr.com#?#.content-area > .single-bottom-html:has(> div[align="center"] > .adsbygoogle)
 v2rayssr.com#?#.sidebar-innter > .widget:has(.adsbygoogle)
 v2rayssr.com#?#.single-top-html:has(> div:only-child > a[target="_blank"] > img)
-vailonxx.co#$#abort-current-inline-script jQuery window.open
+vailonxx.live#$#abort-current-inline-script jQuery window.open
 vanpeople.com##.advlr
 vanpeople.com##.banneradv-newbox
 vanpeople.com##.main-adv
@@ -16955,7 +16952,7 @@ vikacg.com,vikacg.icu,vikacg.xyz##div[class^="my-"] > a[href^="http"]:not([href*
 ville-ideale.com###antyp
 ville-ideale.com###enc
 ville-ideale.com###espace
-vinaurl.net,anime13.site,anh.moe,maclife.io,xemphimjav.xyz,hoctot.hocmai.vn,keysmatterinc.com,samtruyentranh.com,player.phimapi.com,noitu.site,sachmoi.net,xfast.sbs,anime47.best,phimsexvn1.blog#$#abort-on-property-read open
+vinaurl.net,anime13.site,anh.moe,maclife.io,xemphimjav.xyz,hoctot.hocmai.vn,keysmatterinc.com,samtruyentranh.com,player.phimapi.com,noitu.site,sachmoi.net,xfast.sbs,anime47.best,phimsexvn1.co.uk#$#abort-on-property-read open
 vip.com##.sidebarcom-qrcode
 vip.com##.wp-phone
 vip.diaoyu18.com##.container > a[target="_blank"]
@@ -17622,6 +17619,9 @@ xnxx-sex-videos.com#$#abort-current-inline-script setTimeout /window.location/
 xnxx-sex-videos.com#$#override-property-read user_out false
 xnxx-sexfilme.com#$#abort-on-property-read open; abort-on-property-write SpacialUp;
 xnxx-sexfilme.com#$#hide-if-matches-xpath './/span[contains(text(),"Advertisement")]/parent::div[@class][1]'; hide-if-matches-xpath './/div[contains(@class,"logo")]/ancestor::div[@data-ga_action="join"]/ancestor::aside[@id][1]';
+xoilaczzyzz.tv#$#abort-current-inline-script jQuery open
+xoilaczzyzz.tv#$#hide-if-matches-xpath './/div[@id or @class]/p/a[@title]/ancestor-or-self::div[1]'
+xoilaczzyzz.tv#$#override-property-read adsPlayer '';override-property-read adsTvcs ''
 xpiaotian.net#@#.pagead
 xslca.cc##.footer ~ div[class$="fanye"][onclick$="fanye()"]
 xslca.cc##div:not([id]):not([class]) > div[style="width: 412px;"]
@@ -22047,6 +22047,7 @@ zzzyk.com###Tinfo
 ||bugs01190ko.com^
 ||bugs01191ko.com^
 ||bugs01200ko.com^
+||bugs01201ko.com^
 ||buhgalter.com.ua^*/blocker.
 ||buhgalter911.com^*/blocker.
 ||buhvjv.icu^
@@ -23931,6 +23932,7 @@ zzzyk.com###Tinfo
 ||dpjzr.top^
 ||dpjzzgw.cn^
 ||dpsusqs20.com^
+||dpuhlinevz.com^
 ||dpw202504.com^
 ||dpxadf.icu^
 ||dq06u9lt5akr2.cloudfront.net^
@@ -31547,6 +31549,7 @@ zzzyk.com###Tinfo
 ||r6yigjfvp.com^
 ||r75tia.cn^
 ||r7tqkqrvuz.com^
+||r8ln4v4nef.com^
 ||ra0mpyy93.com^
 ||ra1.xyz^
 ||ra10.xyz^
