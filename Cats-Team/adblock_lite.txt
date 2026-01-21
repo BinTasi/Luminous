@@ -4,8 +4,8 @@
 ! Powerd by Cats-Team
 ! Expires: 1 day (update frequency)
 ! Description: AdRules AdBlock List's Lite Version, And Remove Some Filters
-! ! Version: 2026-01-21 08:15:17(GMT+8)
-! Total count: 36898
+! ! Version: 2026-01-21 14:06:28(GMT+8)
+! Total count: 36903
  
 ###ADtip
 ###AdBlockDialog
@@ -22040,6 +22040,7 @@ zzzyk.com###Tinfo
 ||bugs01191ko.com^
 ||bugs01200ko.com^
 ||bugs01201ko.com^
+||bugs01210ko.com^
 ||buhgalter.com.ua^*/blocker.
 ||buhgalter911.com^*/blocker.
 ||buhvjv.icu^
@@ -24316,6 +24317,7 @@ zzzyk.com###Tinfo
 ||ehfjup.xyz^
 ||ehk.trenhdg.com^
 ||ehox67pahs.com^
+||ehvkaakviw.com^
 ||ei7buknu82.com^
 ||eiadf.xyz^
 ||eic.org.cn/api/Popup?
@@ -27874,6 +27876,7 @@ zzzyk.com###Tinfo
 ||k9w4m.xyz^
 ||kacq.cn^
 ||kagdf.com^
+||kagxyvk.com^
 ||kahgjjd.com^
 ||kai5741.xyz^
 ||kaiguangdou.com^
@@ -28022,6 +28025,7 @@ zzzyk.com###Tinfo
 ||kiwi8.top/media/plugins/jquery_confirm/
 ||kiwihk.net^$third-party
 ||kizu.org/adv-$popup
+||kj4gddo30.com^
 ||kjanfwss.xyz^
 ||kje9v2ic57.com^
 ||kjggk1.xyz^
@@ -31976,6 +31980,7 @@ zzzyk.com###Tinfo
 ||s.ufile.cc^
 ||s.union.360.cn^
 ||s.weibo.com/widget.html
+||s.yimg.com/cv/apiv2/tw/bwchou25/
 ||s.yimg.com/ja/ap/$script,subdocument,domain=hk.news.yahoo.com|hk.yahoo.com|tw.news.yahoo.com|tw.stock.yahoo.com|tw.yahoo.com
 ||s.yimg.com/ja/ap/tw/js/
 ||s.yimg.com/ma/auc/common/js/ext_y_straas_shell_*.js$domain=tw.bid.yahoo.com
