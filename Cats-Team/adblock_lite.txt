@@ -4,8 +4,8 @@
 ! Powerd by Cats-Team
 ! Expires: 1 day (update frequency)
 ! Description: AdRules AdBlock List's Lite Version, And Remove Some Filters
-! ! Version: 2026-01-21 14:06:28(GMT+8)
-! Total count: 36903
+! ! Version: 2026-01-21 20:06:16(GMT+8)
+! Total count: 36910
  
 ###ADtip
 ###AdBlockDialog
@@ -19597,6 +19597,7 @@ zzzyk.com###Tinfo
 ||8feichai.com^
 ||8ff0.cn^
 ||8g0j.cn^
+||8g2a7mifv.com^
 ||8gp4wjq3.com^
 ||8h93.com^*.gif
 ||8jkx.com^
@@ -22041,6 +22042,7 @@ zzzyk.com###Tinfo
 ||bugs01200ko.com^
 ||bugs01201ko.com^
 ||bugs01210ko.com^
+||bugs01211ko.com^
 ||buhgalter.com.ua^*/blocker.
 ||buhgalter911.com^*/blocker.
 ||buhvjv.icu^
@@ -25737,6 +25739,7 @@ zzzyk.com###Tinfo
 ||gsjzlssws.com^
 ||gsk801200hh.com^
 ||gsk801201hh.com^
+||gsk801211hh.com^
 ||gslb.hpplay.cn^
 ||gsnlc.cn^
 ||gsp0.kj-gov.cn^
@@ -29577,6 +29580,7 @@ zzzyk.com###Tinfo
 ||mvdrecrull.com^
 ||mvgucp.com^
 ||mvlkvth.cn^
+||mvt0e2s72.com^
 ||mvwitz.xyz^
 ||mvxh.cn^
 ||mvxz.com/bar3.js
@@ -33092,6 +33096,7 @@ zzzyk.com###Tinfo
 ||svcnmtb.top^
 ||svdpgmt.cn^
 ||svhk4bt874.com^
+||svhw.cn^
 ||svjj.cn^
 ||svnf.cn^
 ||svrj.cn^
@@ -33997,6 +34002,7 @@ zzzyk.com###Tinfo
 ||u1099.com^
 ||u10nte4ba.com^
 ||u1102.com^
+||u16d4beu5.com^
 ||u22011.com^
 ||u22066.com^
 ||u22088.com^
@@ -34825,6 +34831,7 @@ zzzyk.com###Tinfo
 ||w56ff7.cc^
 ||w58547.cc^
 ||w58ce6.cc^
+||w592be.cc^
 ||w5ba5b.cc^
 ||w5bi16f3co.com^
 ||w5c6d9.cc^
