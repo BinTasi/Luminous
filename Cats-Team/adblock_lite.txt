@@ -4,8 +4,8 @@
 ! Powerd by Cats-Team
 ! Expires: 1 day (update frequency)
 ! Description: AdRules AdBlock List's Lite Version, And Remove Some Filters
-! ! Version: 2026-01-21 02:06:03(GMT+8)
-! Total count: 36893
+! ! Version: 2026-01-21 08:15:17(GMT+8)
+! Total count: 36898
  
 ###ADtip
 ###AdBlockDialog
@@ -27869,6 +27869,7 @@ zzzyk.com###Tinfo
 ||k7f67a6s7.xyz^
 ||k8dm.com/960x70.
 ||k8mb640mta.com^
+||k90ey77nx.com^
 ||k99.cc^$third-party
 ||k9w4m.xyz^
 ||kacq.cn^
@@ -31572,6 +31573,7 @@ zzzyk.com###Tinfo
 ||raresummer.com^$third-party
 ||raspberry55o.com^
 ||ratedxbiz.com/d/
+||rattitripos.cyou^
 ||razlozhi.ru^$script,header=report-to
 ||razrzh.xyz^
 ||rb51rh02h.com^
@@ -33125,6 +33127,7 @@ zzzyk.com###Tinfo
 ||synacast.com^
 ||syncope12.top^
 ||syndication.exosrv.com/splash.php?$xmlhttprequest,redirect=nooptext,important,domain=hboav.com
+||synedawtit.com^
 ||synochaauca.com^
 ||synopsis95.com^
 ||syr66.com.cn^
@@ -35643,6 +35646,7 @@ zzzyk.com###Tinfo
 ||xmbfrn.icu^
 ||xmcdn.com/storages/f651-customerservice/E3/40/GAqhntALzRUHAAJ3LgOTtToZ.
 ||xmcimg.com/js/m.js
+||xmgi1tqka.com^
 ||xmjajv.xyz^
 ||xmkbrfyu.cn^
 ||xmlsxar.cn^
@@ -36349,6 +36353,7 @@ zzzyk.com###Tinfo
 ||z1.pclady.com.cn^
 ||z1hihu.xmcimg.com^
 ||z2.fakutownee.cn^
+||z2ubj8bpk.com^
 ||z3yfkdjd.icu^
 ||z4a.net/images/*/960-60.
 ||z4a.net^$domain=9xav.cc
