@@ -4,8 +4,8 @@
 ! Powerd by Cats-Team
 ! Expires: 1 day (update frequency)
 ! Description: AdRules AdBlock List's Lite Version, And Remove Some Filters
-! ! Version: 2026-01-22 08:15:25(GMT+8)
-! Total count: 36918
+! ! Version: 2026-01-22 14:05:57(GMT+8)
+! Total count: 36928
  
 ###ADtip
 ###AdBlockDialog
@@ -22042,6 +22042,8 @@ zzzyk.com###Tinfo
 ||bugs01201ko.com^
 ||bugs01210ko.com^
 ||bugs01211ko.com^
+||bugs01220ko.com^
+||bugs01221ko.com^
 ||buhgalter.com.ua^*/blocker.
 ||buhgalter911.com^*/blocker.
 ||buhvjv.icu^
@@ -22292,6 +22294,7 @@ zzzyk.com###Tinfo
 ||catalog.fjwhcbsh.com^
 ||catalogcake.com^$third-party
 ||catalysis39.top^
+||cataract40.com^
 ||catbox.moe/bb5wdv.jpg
 ||catherineagnesmj.com^
 ||catschickens.com^$third-party
@@ -24381,6 +24384,7 @@ zzzyk.com###Tinfo
 ||elusivebreeze.com^$third-party
 ||elusivecascade.com^$third-party
 ||elysiantraverse.com^$third-party
+||em7ky342lo.com^
 ||embellishedmeadow.com^$third-party
 ||embermosaic.com^$third-party
 ||emberwhisper.com^$third-party
@@ -25741,6 +25745,7 @@ zzzyk.com###Tinfo
 ||gsk801200hh.com^
 ||gsk801201hh.com^
 ||gsk801211hh.com^
+||gsk801220hh.com^
 ||gslb.hpplay.cn^
 ||gsnlc.cn^
 ||gsp0.kj-gov.cn^
@@ -26177,6 +26182,7 @@ zzzyk.com###Tinfo
 ||hentaicomic.*/data/ds/
 ||hentaicomic.*/data/game/*/wap.gif
 ||hentaistream.com^$popup
+||heoddikvdm.com^
 ||herogame.com^$subdocument,domain=gamer.com.tw
 ||heshun365.cn^
 ||hesramfi.com^
@@ -27057,6 +27063,7 @@ zzzyk.com###Tinfo
 ||inkuae.com^
 ||inlishui.com/index.php?m=poster&
 ||innocentwax.com^$third-party
+||innveu2ji6.com^
 ||inone517.com^
 ||inoreader.com/adv/$domain=inoreader.com
 ||inowe.xyz^
@@ -27801,6 +27808,7 @@ zzzyk.com###Tinfo
 ||juxia.com/jxtp/indexbg.jpg
 ||juzi6.com/js/dp.js
 ||juzi6.com/js/gd.js
+||juzn.cn^
 ||jv0rlf.com^
 ||jvekga.cn^
 ||jvjlkih.com^
@@ -31469,6 +31477,7 @@ zzzyk.com###Tinfo
 ||qunar.com/vata?chan=
 ||qunar.com/vataframe/b.html?
 ||qunlove.com^*.gif
+||quoits96.top^
 ||qurl.f.360.cn^
 ||qushucheng.com/public/
 ||quspga.xyz^
@@ -35410,6 +35419,7 @@ zzzyk.com###Tinfo
 ||x.yaohuo.me^
 ||x0.ifengimg.com/feprod/c/web/d/pc_bottom.js
 ||x05occvjw.com^
+||x0lkimaixh.com^
 ||x1.52aoteman.com^
 ||x1abo.com^
 ||x1c9gze9i.com^
