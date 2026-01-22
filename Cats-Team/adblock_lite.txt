@@ -4,8 +4,8 @@
 ! Powerd by Cats-Team
 ! Expires: 1 day (update frequency)
 ! Description: AdRules AdBlock List's Lite Version, And Remove Some Filters
-! ! Version: 2026-01-22 02:13:45(GMT+8)
-! Total count: 36911
+! ! Version: 2026-01-22 08:15:25(GMT+8)
+! Total count: 36918
  
 ###ADtip
 ###AdBlockDialog
@@ -23653,6 +23653,7 @@ zzzyk.com###Tinfo
 ||dicancele.fun^
 ||dict.youdao.com/vip/privilege/show/V*?bannerType=fanyiTop$domain=fanyi.youdao.com
 ||dididy.xyz^
+||didosegba.com^
 ||didspack.com^
 ||dieka888.com/app_ad/
 ||dieka888.com^
@@ -24013,6 +24014,7 @@ zzzyk.com###Tinfo
 ||duba.net/skins/2009/images/db300_250.gif
 ||duboku.net/static/images/20201111
 ||duboku.net/static/images/yabo
+||ductilevoider.com^
 ||dufile.com/jsa/
 ||duier.top^
 ||duiwai.baidu.com^
@@ -25858,6 +25860,7 @@ zzzyk.com###Tinfo
 ||gvje.cn^
 ||gw1jvhs.com^
 ||gw7jpuouik.com^
+||gwbb1p2t9s.com^
 ||gwbnsh.net.cn/hd/unicom/ad.html
 ||gwertyuadf.com^
 ||gwg51.com^
@@ -28872,6 +28875,7 @@ zzzyk.com###Tinfo
 ||lyfdrh.icu^
 ||lygjgzc.com^
 ||lyjq9gwob.com^
+||lyk35otqfm.com^
 ||lyo1dkdbp.com^
 ||lysq.com/data/attachment/portal/
 ||lyszsz.cn^
@@ -31834,6 +31838,7 @@ zzzyk.com###Tinfo
 ||rnhqxh.com^
 ||rnvwzd0t9.com^
 ||rnxhdv.icu^
+||rockiesamianth.qpon^
 ||rockradio.com^*/blockadblock-$script,domain=rockradio.com
 ||rockstargame.su/adb_script$script
 ||roi.soulapp.cn^
@@ -34631,6 +34636,7 @@ zzzyk.com###Tinfo
 ||vkandian.cn/peitu/
 ||vkjqbb.xyz^
 ||vkjsnvk.com^
+||vkoq4kyzmj.com^
 ||vksy.cn^
 ||vktztp.xyz^
 ||vkur.cn^
@@ -35788,6 +35794,7 @@ zzzyk.com###Tinfo
 ||xuzhi.net/uploadfile/poster/960x50.jpg
 ||xv98.com/js/daohang
 ||xv98.com/js/hengfu
+||xvbwjd.icu^
 ||xve4ww01l.com^
 ||xvhttu3c9.com^
 ||xvideo.cc/etology2.js
