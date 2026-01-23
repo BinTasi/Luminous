@@ -4,8 +4,8 @@
 ! Powerd by Cats-Team
 ! Expires: 1 day (update frequency)
 ! Description: AdRules AdBlock List's Lite Version, And Remove Some Filters
-! ! Version: 2026-01-23 08:15:27(GMT+8)
-! Total count: 36935
+! ! Version: 2026-01-23 14:05:28(GMT+8)
+! Total count: 36938
  
 ###ADtip
 ###AdBlockDialog
@@ -21331,6 +21331,7 @@ zzzyk.com###Tinfo
 ||baj.fanwenzhan.com^
 ||balanicextreat.com^
 ||balerdoits.com^
+||ballasshwebo.com^
 ||ballive.*/addm/
 ||balloonbelieve.com^$third-party
 ||ballsbanana.com^$third-party
@@ -28655,6 +28656,7 @@ zzzyk.com###Tinfo
 ||lnzqw.net/js/
 ||lo42y56tmy.com^
 ||loadsurprise.com^$third-party
+||lobbecalm.com^
 ||lobiwearies.com^
 ||localau.vip/plugin/ad_
 ||localau.vip/plugin/pause.php
@@ -30307,6 +30309,7 @@ zzzyk.com###Tinfo
 ||onegreen.net/MyFile/
 ||oneinstack.com/images/oneinstack-
 ||onemob.mobi^$third-party
+||onerukh.com^
 ||onesignal.com^$third-party
 ||onetvb.com/assets/javascripts/
 ||oneyearonechange.com^
