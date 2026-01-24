@@ -4,8 +4,8 @@
 ! Powerd by Cats-Team
 ! Expires: 1 day (update frequency)
 ! Description: AdRules AdBlock List's Lite Version, And Remove Some Filters
-! ! Version: 2026-01-24 02:05:23(GMT+8)
-! Total count: 36957
+! ! Version: 2026-01-24 08:14:16(GMT+8)
+! Total count: 36961
  
 ###ADtip
 ###AdBlockDialog
@@ -28008,6 +28008,7 @@ zzzyk.com###Tinfo
 ||kewaishu.org/m-
 ||key8.com/cache/www/banner_
 ||keyboard88.top^
+||keyhamates.com^
 ||keywin.org/templates/kw_v2/images/youbianad.png
 ||keywordbara.com^
 ||kf.qingwk.com^
@@ -31039,6 +31040,7 @@ zzzyk.com###Tinfo
 ||propertypotato.com^$third-party
 ||providentsopport.site^
 ||proxy.advp.apple.com^
+||prudentskatol.com^
 ||ps123.net/MyFile/
 ||ps557.com/link/
 ||ps886.us/js/*.js
@@ -33001,6 +33003,7 @@ zzzyk.com###Tinfo
 ||stgowan.com^$third-party
 ||stgxau.icu^
 ||stheadline.com/images/heading-jm
+||stibilpirra.com^
 ||stienlb.top^
 ||stiffgame.com^$third-party
 ||stiffstem.com^$third-party
@@ -33130,6 +33133,7 @@ zzzyk.com###Tinfo
 ||surperverse.com^
 ||surveys.hotjar.com^
 ||suy5x8.com^
+||suzanathold.cfd^
 ||sv-video.play.aiseet.atianqi.com^
 ||svarub.xyz^
 ||svcnmtb.top^
