@@ -4,8 +4,8 @@
 ! Powerd by Cats-Team
 ! Expires: 1 day (update frequency)
 ! Description: AdRules AdBlock List's Lite Version, And Remove Some Filters
-! ! Version: 2026-01-25 14:05:14(GMT+8)
-! Total count: 36983
+! ! Version: 2026-01-25 20:05:41(GMT+8)
+! Total count: 36988
  
 ###ADtip
 ###AdBlockDialog
@@ -18597,6 +18597,7 @@ zzzyk.com###Tinfo
 ||1990tu.com/i/*.png
 ||1990tu.com^$third-party
 ||1999019.com^
+||19dkfu1wg.com^
 ||19o8hzj117.com^
 ||1biqug.com/js/ajax.js
 ||1buu1.penyouw.com^
@@ -23046,6 +23047,7 @@ zzzyk.com###Tinfo
 ||cp.qbaobei.com^
 ||cp121.com/js2/
 ||cp2.eastmoney.com^
+||cp7iys8fp.com^
 ||cpatrendreklam.com^$third-party,script
 ||cpbl-elta.cdn.hinet.net/web/images/ad_
 ||cpc-service-square.aiclk.com^
@@ -24860,6 +24862,7 @@ zzzyk.com###Tinfo
 ||ffmovies.lol/jss/dectector-2025.js
 ||ffnvhig.cn^
 ||ffriedadl.com^
+||ffuakv5nl.com^
 ||ffvmgevrid.com^
 ||ffxe.cn^
 ||ffzz71.com^
@@ -25774,6 +25777,7 @@ zzzyk.com###Tinfo
 ||gsk801240hh.com^
 ||gsk801241hh.com^
 ||gsk801250hh.com^
+||gsk801251hh.com^
 ||gslb.hpplay.cn^
 ||gsnlc.cn^
 ||gsp0.kj-gov.cn^
@@ -31483,6 +31487,7 @@ zzzyk.com###Tinfo
 ||qsko05061mas.com^
 ||qslbahy.top^
 ||qslhdidxkazlzuuelsz.top^
+||qsne.cn^
 ||qsoc.cn^
 ||qsptv.com/tpl/newstyle/js/extension.js
 ||qsptv.net/tpl/newstyle/js/pv.js
