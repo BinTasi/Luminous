@@ -4,8 +4,8 @@
 ! Powerd by Cats-Team
 ! Expires: 1 day (update frequency)
 ! Description: AdRules AdBlock List's Lite Version, And Remove Some Filters
-! ! Version: 2026-01-26 20:06:51(GMT+8)
-! Total count: 37011
+! ! Version: 2026-01-27 02:05:55(GMT+8)
+! Total count: 37015
  
 ###ADtip
 ###AdBlockDialog
@@ -16558,7 +16558,7 @@ truyen-hentai.com#$#hide-if-matches-xpath './/*[@class]/ancestor-or-self::div[co
 truyen247.pro#$#abort-current-inline-script eval
 truyenqqtto.com,phim.haysex.asia#$#abort-current-inline-script Promise break;case
 truyensextv.com,yanhh3d.gg,z.chinav.sex#$#abort-current-inline-script document.addEventListener opup
-truyensieuhay.com,quangcaoyenbai.com,phimchill.life,tv.tvhayhd.org,thefaplive.com,mv.dailyphimz.com,mv.phimbathu.one,sexhihi.fit,anime47.best,teamlanhlung8.shop,forum.timfshare.com,ungtycomicsao.com,honghotduongpho.vn,chich69.top,comong.info#$#abort-on-property-read document.cookie
+truyensieuhay.com,quangcaoyenbai.com,phimchill.life,tv.tvhayhd.org,thefaplive.com,mv.dailyphimz.com,mv.phimbathu.one,sexhihi.fit,anime47.best,teamlanhlung8.shop,forum.timfshare.com,ungtycomicseo.com,honghotduongpho.vn,chich69.top,comong.info#$#abort-on-property-read document.cookie
 tsdm.live###ts_sidebar_base
 tsdm39.com###ct > div > a[target="_blank"] > img
 tsubasa.im#%#//scriptlet('prevent-setInterval', '/home/?adblock=')
@@ -31127,6 +31127,7 @@ zzzyk.com###Tinfo
 ||puffypull.com^$third-party
 ||puffypurpose.com^$third-party
 ||pufhzpt.cn^
+||pugzutzi.com^
 ||pulfinik.com^
 ||puma.com^$popup,domain=hupu.com
 ||pumpedpancake.com^$third-party
@@ -32892,6 +32893,7 @@ zzzyk.com###Tinfo
 ||sqevnrb.com^
 ||sqif.cn^
 ||sqiorli2w.com^
+||sqmn4wncty.com^
 ||squalidscrew.com^$third-party
 ||squaremarbler.com^
 ||squarewave.top^
@@ -33667,6 +33669,7 @@ zzzyk.com###Tinfo
 ||tltyygb.cn^
 ||tlula507.com/Public/js/dui
 ||tlula507.com/Public/js/float
+||tluutoido.com^
 ||tmall.com^$popup,domain=eyusky.net|iqiyi.com
 ||tmatch.simba.taobao.com^*&name=tbuad&pid=
 ||tmdqlk.top^
@@ -34241,6 +34244,7 @@ zzzyk.com###Tinfo
 ||uljg.cn^
 ||ulkoxbra.com^
 ||ullc.cn^
+||ulny.cn^
 ||ulog-sdk.gifshow.com^
 ||ulogjs.gifshow.com^
 ||ulogs.umeng.com^
