@@ -4,8 +4,8 @@
 ! Powerd by Cats-Team
 ! Expires: 1 day (update frequency)
 ! Description: AdRules AdBlock List's Lite Version, And Remove Some Filters
-! ! Version: 2026-01-26 08:15:51(GMT+8)
-! Total count: 36991
+! ! Version: 2026-01-26 14:06:53(GMT+8)
+! Total count: 37003
  
 ###ADtip
 ###AdBlockDialog
@@ -23775,6 +23775,7 @@ zzzyk.com###Tinfo
 ||dl12349.net^
 ||dlads.cn^
 ||dlads.cn^$third-party
+||dldhulolw.com^
 ||dleicukp.com^
 ||dlelkindp.com^
 ||dlig.cn^
@@ -25578,6 +25579,7 @@ zzzyk.com###Tinfo
 ||gl.ali213.net/images/jsq_gl.jpg
 ||gl.zle.com^
 ||glacier32.com^
+||glacier48.top^
 ||gladglen.com^$third-party
 ||gladysway.com^$third-party
 ||glamhawk.com^$third-party
@@ -25778,6 +25780,8 @@ zzzyk.com###Tinfo
 ||gsk801241hh.com^
 ||gsk801250hh.com^
 ||gsk801251hh.com^
+||gsk801260hh.com^
+||gsk801261hh.com^
 ||gslb.hpplay.cn^
 ||gsnlc.cn^
 ||gsp0.kj-gov.cn^
@@ -26125,6 +26129,7 @@ zzzyk.com###Tinfo
 ||hcinvdu.top^
 ||hcirentgh.360doc.cn^
 ||hcjs.nv7s.com/xif*/*.js$domain=hclips.com
+||hcl6pwowqv.com^
 ||hcokamiu.top^
 ||hcvegu.com^
 ||hdapp1003-a.akamaihd.net^
@@ -27054,6 +27059,7 @@ zzzyk.com###Tinfo
 ||imgwdyey.com^
 ||imgxr.com^$domain=xiuren.org
 ||imgzxr.cn^
+||imjll5rwuq.com^
 ||imjtv.cc^$third-party
 ||immensehoney.com^$third-party
 ||imminentshake.com^$third-party
@@ -29773,6 +29779,7 @@ zzzyk.com###Tinfo
 ||nawpyd.icu^
 ||naxqhla.com^
 ||nb.zol.com.cn/detail_*.html
+||nb4ds7c13d.com^
 ||nbdtdt.icu^
 ||nbegame.com/nbeos/*.jpg
 ||nbehzi.cn^
@@ -30170,6 +30177,7 @@ zzzyk.com###Tinfo
 ||o02231aokk.com^
 ||o02251aokk.com^
 ||o02260aokk.com^
+||o0rnzwzst5.com^
 ||o1.jyjyj.cn^
 ||o2.jyjyj.cn^
 ||o2o.api.xiaomi.com^
@@ -30234,6 +30242,7 @@ zzzyk.com###Tinfo
 ||ofincm.icu^
 ||ofja.cn^
 ||ofkccsp35i.com^
+||ofoltekbn.com^
 ||ofooe.cn^
 ||ofreadingand.biz^
 ||ofweek.com/pop/ad/
@@ -31605,6 +31614,7 @@ zzzyk.com###Tinfo
 ||r4uws5iu3g.com^
 ||r528e.cn^$third-party
 ||r5dfwjtb.icu^
+||r5gcp9.com^
 ||r5twojylmzsym.top^
 ||r6pt6kfz.com^
 ||r6q4mtfno.com^
@@ -32033,6 +32043,7 @@ zzzyk.com###Tinfo
 ||rz6jf5oqz.com^
 ||rzbvxn.icu^
 ||rzcruzullr.com^
+||rzjdsm7tgz.com^
 ||rzkptd.com^
 ||rznscya.cn^
 ||rzsgxmm.cn^
@@ -33969,6 +33980,7 @@ zzzyk.com###Tinfo
 ||tw.partner.buy.yahoo.com^$domain=cool3c.com
 ||tw.rd.yahoo.com^$image
 ||tw0ihhb04.com^
+||twa735xojg.com^
 ||twavtv.com/js/jquery.colorbox
 ||twbymc.cn^
 ||twcnmti.top^
