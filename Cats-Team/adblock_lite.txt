@@ -4,8 +4,8 @@
 ! Powerd by Cats-Team
 ! Expires: 1 day (update frequency)
 ! Description: AdRules AdBlock List's Lite Version, And Remove Some Filters
-! ! Version: 2026-01-27 08:16:00(GMT+8)
-! Total count: 37025
+! ! Version: 2026-01-27 14:05:43(GMT+8)
+! Total count: 37032
  
 ###ADtip
 ###AdBlockDialog
@@ -24334,6 +24334,7 @@ zzzyk.com###Tinfo
 ||effulgenttempest.com^$third-party
 ||efg.zle.com^
 ||efgh.5lu.com^
+||efmh.cn^
 ||eftd.cn^
 ||efusc.com^
 ||efvsyhbf.xyz^
@@ -25084,6 +25085,7 @@ zzzyk.com###Tinfo
 ||fourier.taobao.com^
 ||fourlaile.com^
 ||fourpawsahead.com^$third-party
+||fovyoqbhjnpvr7.cfd^
 ||fp.nanrenwo.net^
 ||fp2nn4zxlp.com^
 ||fpb*.51edu.com^
@@ -25841,6 +25843,7 @@ zzzyk.com###Tinfo
 ||gtimg.com/www/mobi/js/app-bar-
 ||gtimg.com^*/ad/
 ||gtimg.com^*/adv/
+||gtj1myjla.com^
 ||gtlpa*.com^
 ||gtlpaj.com^
 ||gtokii.icu^
@@ -31046,6 +31049,7 @@ zzzyk.com###Tinfo
 ||praairfo.com^
 ||prbibo.top^
 ||prdohgp.cn^
+||precipice55.com^
 ||prefixpatriot.com^$third-party
 ||prelandappslab.com^
 ||prelude69.com^
@@ -32308,6 +32312,7 @@ zzzyk.com###Tinfo
 ||sdzhongke.cn^
 ||se533.com/template/new/css/*.js
 ||sealine.youku.com^
+||seaquake54.com^
 ||search.ixigua.com^
 ||search3-search.ixigua.com^
 ||search5-search-hl.ixigua.com^
@@ -34936,6 +34941,7 @@ zzzyk.com###Tinfo
 ||w537a7.cc^
 ||w54551.cc^
 ||w55b76.cc^
+||w562f5.cc^
 ||w56953.cc^
 ||w56ff7.cc^
 ||w58547.cc^
@@ -35283,6 +35289,7 @@ zzzyk.com###Tinfo
 ||wthrarner.com^
 ||wtiaw.top^
 ||wtienle.top^
+||wtreqnine.com^
 ||wtrevvit.com^
 ||wtrotilloye.com^
 ||wu2088-603.shop^
