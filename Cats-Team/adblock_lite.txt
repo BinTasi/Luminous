@@ -4,8 +4,8 @@
 ! Powerd by Cats-Team
 ! Expires: 1 day (update frequency)
 ! Description: AdRules AdBlock List's Lite Version, And Remove Some Filters
-! ! Version: 2026-01-27 20:06:15(GMT+8)
-! Total count: 37039
+! ! Version: 2026-01-28 02:06:52(GMT+8)
+! Total count: 37048
  
 ###ADtip
 ###AdBlockDialog
@@ -19312,6 +19312,7 @@ zzzyk.com###Tinfo
 ||5x17591y3b.com^
 ||5xdmw.com/tb.jpg
 ||5y9nfpes.52pk.com^
+||5yahh8v3.xyz^
 ||5ydj.com/images/banner/
 ||5yqi3kg1g.com^
 ||5zxkdat6t8.com^
@@ -20125,6 +20126,7 @@ zzzyk.com###Tinfo
 ||ad.v3mh.com^
 ||ad.walkgame.com^
 ||ad.wamxb.info^
+||ad.weibo.com^
 ||ad.winrar.com.cn^
 ||ad.wurangxian.top^
 ||ad.ximalaya.com^
@@ -20187,6 +20189,7 @@ zzzyk.com###Tinfo
 ||adhdsb.cn^
 ||adi*.cnool.net^
 ||adimg.liba.com^
+||adimg.uve.weibo.com^
 ||adintl.cn^
 ||aditibelen.com^
 ||adjb.5nd.com^
@@ -20309,6 +20312,7 @@ zzzyk.com###Tinfo
 ||adstats.tencentmusic.com^
 ||adstore-1252524079.file.myqcloud.com^
 ||adstore-index-1252524079.file.myqcloud.com^
+||adstrategy.biz.weibo.com^
 ||adstudio-assets.scdn.co^
 ||adstudio.spotify.com^
 ||adsv.svc.litv.tv/ads?ad_unit=$xmlhttprequest,redirect=noopvast-3.0,important,domain=ani.gamer.com.tw
@@ -20319,6 +20323,7 @@ zzzyk.com###Tinfo
 ||adtrack.quark.cn^
 ||adtracker.medproad.com^
 ||adtx2.cn^
+||adui.tg.meitu.com^
 ||adunblock.com/code/*.html
 ||adunite.com^$third-party
 ||adutp.com^$third-party
@@ -20349,6 +20354,7 @@ zzzyk.com###Tinfo
 ||adx-open-service.youku.com^
 ||adx-os.anythinktech.com^
 ||adx-saas.advlion.com^
+||adx-strategy-api-cn.statisticslinks.com^
 ||adx.36kr.com^
 ||adx.ads.heytapmobi.com^
 ||adx.ads.oppomobile.com^
@@ -29521,6 +29527,7 @@ zzzyk.com###Tinfo
 ||mop.com/js/common/watermark.js
 ||mop.com/newIndex/gg.html
 ||moratame.tw/img/contents/banner
+||mores.toponad.com^
 ||morsalurluch.com^
 ||mortgagecentres.net/banner.gif
 ||mos05110o9i.com^
@@ -33329,6 +33336,7 @@ zzzyk.com###Tinfo
 ||tag.*/scripts/px.gif?ch=2$domain=golfgalaxy.com|dickssportinggoods.com
 ||tagalodrome.com^
 ||tagtd.cn^
+||tagtic.cn^
 ||tagtoo.co^$third-party
 ||tahltanboutell.com^
 ||taijuba.com/js/*_
@@ -33960,6 +33968,7 @@ zzzyk.com###Tinfo
 ||tui555.com/public/gong/js/a_
 ||tui56.com/guanggao*.html
 ||tuicool.com/images/upload/aliyun
+||tuiguang.meitu.com^
 ||tuisong.baidu.com^
 ||tumbleicicle.com^$third-party
 ||tumeite.cn^
