@@ -4,8 +4,8 @@
 ! Powerd by Cats-Team
 ! Expires: 1 day (update frequency)
 ! Description: AdRules AdBlock List's Lite Version, And Remove Some Filters
-! ! Version: 2026-01-27 02:05:55(GMT+8)
-! Total count: 37015
+! ! Version: 2026-01-27 08:16:00(GMT+8)
+! Total count: 37025
  
 ###ADtip
 ###AdBlockDialog
@@ -21389,6 +21389,7 @@ zzzyk.com###Tinfo
 ||baphullpet.com^
 ||baqwo74y8.com^
 ||barbarousbase.com^$third-party
+||bardiersilexes.com^
 ||bariesnaw.com^
 ||barscreative1.com^
 ||bas.boshi.tv^
@@ -24598,6 +24599,7 @@ zzzyk.com###Tinfo
 ||europacash.com^$third-party,script
 ||euuh.cn^
 ||evanescentedge.com^$third-party
+||evangelbagworm.com^
 ||evasivejar.com^$third-party
 ||evb0gxo.icu^
 ||evbb.xyz^
@@ -25110,6 +25112,7 @@ zzzyk.com###Tinfo
 ||fqxkj.cn^
 ||fr701hx5vi.com^
 ||fractalcoast.com^$third-party
+||fraelaputback.com^
 ||fragment.firefoxchina.cn/html/
 ||frailfruit.com^$third-party
 ||frame.enet.com.cn/a.php
@@ -25736,6 +25739,7 @@ zzzyk.com###Tinfo
 ||grainmass.com^$third-party
 ||grandcomms.cn^
 ||grandfatherguitar.com^$third-party
+||grandmatootsy.com^
 ||granlite.com^$third-party
 ||granteesixtes.com^
 ||grarnuns.com^
@@ -25790,6 +25794,7 @@ zzzyk.com###Tinfo
 ||gsk801251hh.com^
 ||gsk801260hh.com^
 ||gsk801261hh.com^
+||gsk801270hh.com^
 ||gslb.hpplay.cn^
 ||gsnlc.cn^
 ||gsp0.kj-gov.cn^
@@ -26727,6 +26732,7 @@ zzzyk.com###Tinfo
 ||i3z.cn^$third-party
 ||i3zh.com/wp-content/plugins/cm-pop-up-banners/
 ||i5q1t8vj9.com^
+||i5qquywfz.com^
 ||i73u6dnnh.com^
 ||i7akpd1.xyz^
 ||i7mfm1hl44.com^
@@ -27098,6 +27104,7 @@ zzzyk.com###Tinfo
 ||indiatimes.com/detector/$script
 ||indiatimes.in/*/detector.js$script
 ||indriwhats.com^
+||indulinrayful.com^
 ||indusacta.com^
 ||infamousstream.com^$third-party
 ||info.vip.iqiyi.com/promotion/
@@ -28804,6 +28811,7 @@ zzzyk.com###Tinfo
 ||lowadec.cn^
 ||lp340p7czf.com^
 ||lp3tdqle.com^$third-party
+||lp780937a.com^
 ||lpalartra.com^
 ||lpasdfgwer.com^
 ||lpeolfa.top^
@@ -30449,6 +30457,7 @@ zzzyk.com###Tinfo
 ||oschina.net/promotion/
 ||oschina.net/uploads/ad/
 ||oschina.net/uploads/cooperation/
+||oshacampelis.com^
 ||osjt.cn^
 ||oslbahk.top^
 ||osnignsk.xyz^
@@ -35175,6 +35184,7 @@ zzzyk.com###Tinfo
 ||wm.mipcdn.com^
 ||wm.szdushi.com.cn^
 ||wm02x4gcnx.com^
+||wm0qv5zg3.com^
 ||wm6b9l1av.com^
 ||wmbd.gamersky.com^
 ||wmeng.feihuadns.com^
