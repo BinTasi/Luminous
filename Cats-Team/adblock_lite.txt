@@ -4,8 +4,8 @@
 ! Powerd by Cats-Team
 ! Expires: 1 day (update frequency)
 ! Description: AdRules AdBlock List's Lite Version, And Remove Some Filters
-! ! Version: 2026-01-28 02:06:52(GMT+8)
-! Total count: 37048
+! ! Version: 2026-01-28 08:15:15(GMT+8)
+! Total count: 37053
  
 ###ADtip
 ###AdBlockDialog
@@ -18244,6 +18244,7 @@ zzzyk.com###Tinfo
 ||036e.cn^
 ||039nez.com^
 ||03asdf.com^
+||03in08p3r1.com^
 ||03t441b8w.com^
 ||042.cn/adver/
 ||0439.com/javascript.php?part=advertisement&
@@ -18816,6 +18817,7 @@ zzzyk.com###Tinfo
 ||2wgolxk.com^
 ||2wq9u06jq.com^
 ||2xmzazd.cn^
+||2xx63f0bfy.com^
 ||2yjw.com/statics/js/jquery.min.
 ||2za.fun^
 ||2zjftxgl5s.com^
@@ -20389,8 +20391,7 @@ zzzyk.com###Tinfo
 ||afd.baidu.com^
 ||afdunaui.com^
 ||afenx.top^
-||affxc.com/topbanner-
-||affxc.com^*-792-180.
+||affxc.com^$third-party
 ||affyun.com/wp-content/uploads/*-ad.
 ||affyun.com/wp-content/uploads/*/ad-
 ||affyun.com/wp-content/uploads/*/affffff.png
@@ -25808,6 +25809,7 @@ zzzyk.com###Tinfo
 ||gsk801261hh.com^
 ||gsk801270hh.com^
 ||gsk801271hh.com^
+||gsk801280hh.com^
 ||gslb.hpplay.cn^
 ||gsnlc.cn^
 ||gsp0.kj-gov.cn^
@@ -29053,6 +29055,7 @@ zzzyk.com###Tinfo
 ||m2.lelemh.com^
 ||m2k3j7x8.com^
 ||m3cqjc3og6.com^
+||m3ks1o8jz.com^
 ||m43ocq1uoj.com^
 ||m4fxreb5s.com^
 ||m4pgay.com^
@@ -30062,6 +30065,7 @@ zzzyk.com###Tinfo
 ||no1.168abc.net/upload/
 ||nodejs.cn/_static/js/common.js
 ||nodethisweek.com^$third-party
+||noemisnakier.com^
 ||nogff.top^
 ||nogogey.top^
 ||nohcff.xyz^
@@ -30175,6 +30179,7 @@ zzzyk.com###Tinfo
 ||nyahentai.pw/js/check_cat.js
 ||nychinaren.com/houbei/
 ||nyokruzoir.com^
+||nyv388w6lc.com^
 ||nyvgbt.xyz^
 ||nyzrbx.icu^
 ||nz04com.com/aabdd/
