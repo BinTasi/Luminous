@@ -4,8 +4,8 @@
 ! Powerd by Cats-Team
 ! Expires: 1 day (update frequency)
 ! Description: AdRules AdBlock List's Lite Version, And Remove Some Filters
-! ! Version: 2026-01-28 08:15:15(GMT+8)
-! Total count: 37053
+! ! Version: 2026-01-28 14:06:36(GMT+8)
+! Total count: 37063
  
 ###ADtip
 ###AdBlockDialog
@@ -17582,6 +17582,8 @@ xiaoz.me##.gg6
 xiaoz.me##.sidebar a > img
 xiaozhongjishu.com##.apd > a[target="_blank"] > img
 xiashanet.com###top_content
+xiazai.zol.com.cn##.soft-summary__buttons > div[style^="width"]:not([class])
+xiazai.zol.com.cn##div[onclick^="zol_niux_tongji"]
 xiazai.zol.com.cn##img[alt^="AiPPT"]
 xiazaizhijia.com###gg_2
 xiazaizhijia.com###public_right_mid_ad
@@ -18706,6 +18708,7 @@ zzzyk.com###Tinfo
 ||21yq.com/mg/21yq/
 ||222aa333bb.com^
 ||222xs.com/js/greentea.js
+||224oztn8dq.com^
 ||22588888.com^$popup
 ||22pixx.xyz/l/
 ||23.224.89.2^$third-party
@@ -19380,6 +19383,7 @@ zzzyk.com###Tinfo
 ||69shuba.cx^*/shu.js
 ||69shux.com/js/otherad.
 ||69t49.com/floating/layer.js
+||6acupxubky.com^
 ||6avz.com^$script,third-party
 ||6c641lgikp.top^
 ||6cjdya3djn.com^
@@ -20248,6 +20252,7 @@ zzzyk.com###Tinfo
 ||ads.95516.com^
 ||ads.adaptv.advertising.com/*roll&pageUrl=4gtv.tv$script,xmlhttprequest,other,redirect=noopvast-2.0
 ||ads.aralego.com^
+||ads.auctions.yahoo.com^
 ||ads.cup.com.cn^
 ||ads.exoclick.com^
 ||ads.google.cn^
@@ -20959,7 +20964,6 @@ zzzyk.com###Tinfo
 ||apptime.xyz^
 ||apptry.easylife.tw/pub/js/common/common.js
 ||appuifloreal.com^
-||appversion.115.com^
 ||apsgo.com/assets/js/union.
 ||apsgo.com/go/
 ||aqc.gucheng.com^
@@ -25810,6 +25814,7 @@ zzzyk.com###Tinfo
 ||gsk801270hh.com^
 ||gsk801271hh.com^
 ||gsk801280hh.com^
+||gsk801281hh.com^
 ||gslb.hpplay.cn^
 ||gsnlc.cn^
 ||gsp0.kj-gov.cn^
@@ -29057,6 +29062,7 @@ zzzyk.com###Tinfo
 ||m3cqjc3og6.com^
 ||m3ks1o8jz.com^
 ||m43ocq1uoj.com^
+||m485oq2gym.top^
 ||m4fxreb5s.com^
 ||m4pgay.com^
 ||m4r.fun^
@@ -29416,6 +29422,7 @@ zzzyk.com###Tinfo
 ||mjvr.cn^
 ||mk10ow7zoi.com^
 ||mkd88.cc/16.32.jpg
+||mkff.cn^
 ||mkjnba.com^
 ||mkjnbg.com^
 ||mkjnha.com^
@@ -33454,6 +33461,7 @@ zzzyk.com###Tinfo
 ||telephoneapparatus.com^$third-party
 ||telulr.golfgalaxy.com^$domain=golfgalaxy.com|dickssportinggoods.com
 ||tempertrick.com^$third-party
+||tempest33.com^
 ||templates_pc/default/scripts/chapter_bottom.js
 ||tempttalk.com^$third-party
 ||temptteam.com^$third-party
@@ -34809,6 +34817,7 @@ zzzyk.com###Tinfo
 ||vokwlch.xyz^
 ||volatileprofit.com^$third-party
 ||volc.bj.ad.track.66mobi.com^
+||volcano93.top^
 ||volcano98.com^
 ||volceapplog.com^
 ||volgreal.com^
@@ -35351,6 +35360,7 @@ zzzyk.com###Tinfo
 ||wv.inner-active.mobi^
 ||wvcnmte.top^
 ||wvepppysvo.com^
+||wvrp.cn^
 ||wvyqks.xyz^
 ||wvzd.cn^
 ||ww7814.win/pic
