@@ -105,6 +105,14 @@ export interface Settings {
          */
         MostVisited?: boolean;
     /**
+         * [动态] “最常访问”仅显示直播
+         *
+         * 是否启用此处修改
+         *
+         * @defaultValue false
+         */
+        MostVisitedLiveOnly?: boolean;
+    /**
          * [动态] 去除广告卡片
          *
          * 是否启用此处修改
@@ -159,7 +167,7 @@ export interface Settings {
      * @remarks
      *
      * Possible values:
-     * - `'OFF'` - 关闭
+     * - `'OFF'` - 🔴 关闭
      * - `'ERROR'` - ❌ 错误
      * - `'WARN'` - ⚠️ 警告
      * - `'INFO'` - ℹ️ 信息
