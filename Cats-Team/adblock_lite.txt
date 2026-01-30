@@ -4,7 +4,7 @@
 ! Powerd by Cats-Team
 ! Expires: 1 day (update frequency)
 ! Description: AdRules AdBlock List's Lite Version, And Remove Some Filters
-! ! Version: 2026-01-30 14:14:18(GMT+8)
+! ! Version: 2026-01-30 20:08:15(GMT+8)
 ! Total count: 14765
  
 ###AdBlockDialog
@@ -5011,6 +5011,9 @@ maxedtech.com#@#.a160x600
 maxstream.video#$#hide-if-matches-xpath './/div[@style="pointer-events: none; position: absolute; top: 0px; left: 0px; width: 1298px; height: 554px; z-index: 2147483647;"]/ancestor-or-self::div[1]'
 mayi.com###floatingLayer
 mcmod.cn###McmodDonate
+mcortechnologies.com#$#abort-current-inline-script jQuery open
+mcortechnologies.com#$#hide-if-matches-xpath './/div[@id or @class]/p/a[@title]/ancestor-or-self::div[1]'
+mcortechnologies.com#$#override-property-read adsPlayer '';override-property-read adsTvcs ''
 md4u.ru###pagecontent > div[style*="background-color"]
 me360.com##.footer-booking-open
 med66.com##.banner
@@ -5807,9 +5810,6 @@ rutab.net##div[class^="ggmodale"]
 ruten.com.tw##.act-promo
 rutor.org#$#abort-on-property-read Light.Popup
 rutube.ru#$#override-property-read Object.prototype.advert undefined
-ruwenzori.net#$#abort-current-inline-script jQuery open
-ruwenzori.net#$#hide-if-matches-xpath './/div[@id or @class]/p/a[@title]/ancestor-or-self::div[1]'
-ruwenzori.net#$#override-property-read adsPlayer '';override-property-read adsTvcs ''
 rychlost.cz###cpcbsd9z1
 s.m2pub.com###adk2_img
 sac.net.cn###ad
