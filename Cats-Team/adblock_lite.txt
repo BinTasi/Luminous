@@ -4,8 +4,8 @@
 ! Powerd by Cats-Team
 ! Expires: 1 day (update frequency)
 ! Description: AdRules AdBlock List's Lite Version, And Remove Some Filters
-! ! Version: 2026-01-31 02:09:50(GMT+8)
-! Total count: 14771
+! ! Version: 2026-01-31 08:16:50(GMT+8)
+! Total count: 14774
  
 ###AdBlockDialog
 ###Page-1[stroke='none'][fill='none'][fill-rule='evenodd']
@@ -10136,6 +10136,7 @@ zybang.com##.top_download
 ||guessdetail.com^$third-party
 ||guidecent.com^$third-party
 ||guildalpha.com^$third-party
+||guilfatagelast.qpon^
 ||guiliangtechnology.com^
 ||guiltlessbasketball.com^$third-party
 ||guizhouxinsheng.com^
@@ -11743,7 +11744,9 @@ zybang.com##.top_download
 ||niobefrogeye.com^
 ||nisihu.com.cn^
 ||nissifresh.com^
+||niterforeact.com^
 ||nithisp.cn^
+||nitrogencloudelevationsystems.com^
 ||niuacc.com/static/common/js/145.js
 ||niulai0323166.space^
 ||njcengpianwang.cn^
