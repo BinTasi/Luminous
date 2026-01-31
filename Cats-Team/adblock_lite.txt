@@ -4,8 +4,8 @@
 ! Powerd by Cats-Team
 ! Expires: 1 day (update frequency)
 ! Description: AdRules AdBlock List's Lite Version, And Remove Some Filters
-! ! Version: 2026-01-31 08:16:50(GMT+8)
-! Total count: 14774
+! ! Version: 2026-01-31 11:50:07(GMT+8)
+! Total count: 14775
  
 ###AdBlockDialog
 ###Page-1[stroke='none'][fill='none'][fill-rule='evenodd']
@@ -1915,6 +1915,7 @@
 @@||investing.com/js/ads.js$script
 @@||ios-blog.co.uk/*/showads.js$script
 @@||iptvforever.com/js/adsbygoogle.js$script
+@@||iqiyi.com/static/js/adfe.5aa3302c.js
 @@||item-voyage.fr/ads.css
 @@||itsrainingbitcoins.com/banner.gif$image
 @@||izzylaif.com/en/js/ad$script,~third-party
