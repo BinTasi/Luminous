@@ -4,7 +4,7 @@
 ! Powerd by Cats-Team
 ! Expires: 1 day (update frequency)
 ! Description: AdRules AdBlock List's Lite Version, And Remove Some Filters
-! ! Version: 2026-01-31 11:50:07(GMT+8)
+! ! Version: 2026-01-31 14:09:42(GMT+8)
 ! Total count: 14775
  
 ###AdBlockDialog
