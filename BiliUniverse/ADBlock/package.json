@@ -34,7 +34,8 @@
 		"build:dev": "rspack build -c rspack.dev.config.js --mode=development",
 		"build:args": "arguments-builder build",
 		"dts": "arguments-builder dts",
-		"submodule": "git submodule update --remote"
+		"submodule": "git submodule update --remote",
+		"update": "npm update --save"
 	},
 	"browserslist": [
 		"iOS >= 15"
@@ -42,14 +43,14 @@
 	"devDependencies": {
 		"@iringo/arguments-builder": "^1.8.5",
 		"@protobuf-ts/plugin": "^2.11.1",
-		"@rspack/cli": "^1.5.2",
-		"@rspack/core": "^1.5.2",
+		"@rspack/cli": "^1.7.4",
+		"@rspack/core": "^1.7.4",
 		"node-polyfill-webpack-plugin": "^4.1.0",
-		"typescript": "^5.9.2"
+		"typescript": "^5.9.3"
 	},
 	"dependencies": {
 		"@nsnanocat/grpc": "^1.0.0",
-		"@nsnanocat/util": "^1.8.10",
+		"@nsnanocat/util": "^2.0.0",
 		"@protobuf-ts/runtime": "^2.11.1",
 		"@protobuf-ts/runtime-rpc": "^2.11.1",
 		"crypto-js": "^4.2.0"
