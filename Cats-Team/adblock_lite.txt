@@ -4,8 +4,8 @@
 ! Powerd by Cats-Team
 ! Expires: 1 day (update frequency)
 ! Description: AdRules AdBlock List's Lite Version, And Remove Some Filters
-! ! Version: 2026-02-02 08:18:15(GMT+8)
-! Total count: 14776
+! ! Version: 2026-02-02 14:22:48(GMT+8)
+! Total count: 14778
  
 ###AdBlockDialog
 ###Page-1[stroke='none'][fill='none'][fill-rule='evenodd']
@@ -4545,6 +4545,8 @@ kickassanime.*,vidco.pro#$#override-property-read ifmax true
 kickassanime.io##.ka-ax-wrapper
 kickassanime.io##.ka-ax-wrp.mb-3
 kimcartoon.*#$#abort-on-property-read NativeAd
+kimi.com##.download-app-btn
+kimi.com##.download-button
 kimi.moonshot.cn##.app-download
 kimo.ma##.adb
 kingkong.com.tw##.public-activity
