@@ -1,4 +1,5 @@
-import { $app, Console, done, fetch, gRPC, Lodash as _ } from "@nsnanocat/util";
+import { $app, Console, done, fetch, Lodash as _ } from "@nsnanocat/util";
+import gRPC from "@nsnanocat/grpc";
 import { URL } from "@nsnanocat/url";
 import database from "./function/database.mjs";
 import setENV from "./function/setENV.mjs";
@@ -119,6 +120,7 @@ Console.info(`FORMAT: ${FORMAT}`);
 												case "View": // 播放页
 													body = ViewReq.fromBinary(rawBody);
 													Console.debug(`ViewUniteReq: ${JSON.stringify(body, null, 2)}`);
+													body.playerArgs.forceHost = Settings?.ForceHost ?? 1;
 													rawBody = ViewReq.toBinary(body);
 													// 判断线路
 													infoGroup.seasonId = body?.extraContent?.season_id || infoGroup.seasonId;

@@ -1,9 +1,11 @@
-import { $app, Console, done, gRPC, Lodash as _, Storage } from "@nsnanocat/util";
+import { $app, Console, done, Lodash as _, Storage } from "@nsnanocat/util";
+import gRPC from "@nsnanocat/grpc";
 import { URL } from "@nsnanocat/url";
 import database from "./function/database.mjs";
 import setENV from "./function/setENV.mjs";
 import { ViewReply } from "./protobuf/bilibili/app/viewunite/v1/viewunite.js";
 import { ViewPgcAny } from "./protobuf/bilibili/app/viewunite/pgcanymodel.js";
+import fixHeaders from "./function/fixHeaders.mjs";
 /***************** Processing *****************/
 // 解构URL
 const url = new URL($request.url);
@@ -123,7 +125,8 @@ Console.info(`FORMAT: ${FORMAT}`);
 						}
 						case "/pgc/view/web/season": // 番剧-内容-web
 						case "/pgc/view/pc/season": // 番剧-内容-pc
-						case "/pgc/view/web/ep/list": { // 番剧-剧集列表-web
+						case "/pgc/view/web/ep/list": {
+							// 番剧-剧集列表-web
 							const result = body.result;
 							infoGroup.seasonTitle = result.season_title ?? infoGroup.seasonTitle;
 							infoGroup.seasonId = result.season_id ?? infoGroup.seasonId;
@@ -169,6 +172,8 @@ Console.info(`FORMAT: ${FORMAT}`);
 					break;
 				case "application/grpc":
 				case "application/grpc+proto":
+					// headers修复
+					$response.headers = fixHeaders($request.headers, $response.headers);
 					rawBody = gRPC.decode(rawBody);
 					// 解析链接并处理protobuf数据
 					// 主机判断
@@ -190,18 +195,32 @@ Console.info(`FORMAT: ${FORMAT}`);
 											switch (body?.supplement?.typeUrl) {
 												case "type.googleapis.com/bilibili.app.viewunite.pgcanymodel.ViewPgcAny": {
 													infoGroup.type = "PGC";
-													// 先处理 tab
+													// 先处理 arc.right
+													if (body?.arc)
+														body.arc.right = {
+															onlyVipDownload: false,
+															noReprint: false,
+															download: true,
+														};
+													// 再处理 tab
 													body.tab.tabModule = body.tab.tabModule.map(tabModule => {
 														switch (tabModule?.tabType) {
 															case 1: // introduction
 																// 解锁剧集信息限制
-																tabModule.tab.introduction.modules = setModules(tabModule.tab.introduction.modules)
+																tabModule.tab.introduction.modules = setModules(tabModule.tab.introduction.modules);
+																break;
+															case 2: // reply
+																// 解锁评论区限制
+																tabModule.tab.reply.control = {
+																	limit: false,
+																	disable: false,
+																};
 																break;
 															default:
 																break;
 														}
 														return tabModule;
-													})
+													});
 													// 再处理 supplement
 													const PgcBody = ViewPgcAny.fromBinary(body.supplement.value);
 													Console.debug(`PgcBody: ${JSON.stringify(PgcBody, null, 2)}`);
@@ -211,7 +230,10 @@ Console.info(`FORMAT: ${FORMAT}`);
 													_.set(PgcBody, "ogvData.rights.allowReview", 1);
 													_.set(PgcBody, "ogvData.rights.allowBp", 1);
 													_.set(PgcBody, "ogvData.rights.areaLimit", 0);
+													_.set(PgcBody, "ogvData.rights.isPreview", 1);
 													_.set(PgcBody, "ogvData.rights.banAreaShow", 1);
+													_.set(PgcBody, "ogvData.rights.allowBpRank", 1);
+													_.set(PgcBody, "ogvData.rights.newAllowDownload", 1);
 													Console.debug(`PgcBody: ${JSON.stringify(PgcBody, null, 2)}`);
 													body.supplement.value = ViewPgcAny.toBinary(PgcBody);
 													break;
@@ -400,9 +422,11 @@ function setEpisodes(episodes = []) {
  */
 function detectLocales(infoGroup = { seasonTitle: undefined, seasonId: undefined, epId: undefined, mId: undefined, evaluate: undefined }) {
 	Console.log("☑️ Detect Locales", `seasonTitle: ${infoGroup.seasonTitle}`, `seasonId: ${infoGroup.seasonId}`, `epId: ${infoGroup.epId}`, `mId: ${infoGroup.mId}`);
-	if (infoGroup.seasonTitle) infoGroup.locales = detectSeasonTitle(infoGroup.seasonTitle) // 有标题先测标题
+	if (infoGroup.seasonTitle)
+		infoGroup.locales = detectSeasonTitle(infoGroup.seasonTitle); // 有标题先测标题
 	else if (infoGroup.mId) infoGroup.locales = detectMId(infoGroup.mId); // 无标题再测 mId
-	if (infoGroup.locales.length === 0) { // infoGroup.locales 为空再测 evaluate
+	if (infoGroup.locales.length === 0) {
+		// infoGroup.locales 为空再测 evaluate
 		if (infoGroup.seasonTitle && infoGroup.evaluate) infoGroup.locales = detectTraditional(infoGroup.seasonTitle, infoGroup.evaluate);
 	}
 	Console.log("✅ Detect Locales", `locales: ${infoGroup.locales}`);
