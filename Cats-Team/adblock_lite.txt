@@ -4,8 +4,8 @@
 ! Powerd by Cats-Team
 ! Expires: 1 day (update frequency)
 ! Description: AdRules AdBlock List's Lite Version, And Remove Some Filters
-! ! Version: 2026-02-03 08:19:02(GMT+8)
-! Total count: 14785
+! ! Version: 2026-02-03 14:17:08(GMT+8)
+! Total count: 14792
  
 ###AdBlockDialog
 ###Page-1[stroke='none'][fill='none'][fill-rule='evenodd']
@@ -9649,6 +9649,7 @@ zybang.com##.top_download
 ||fairygaze.com^$third-party
 ||fairytaleflame.com^$third-party
 ||faithrowold.com^$third-party
+||fakerry.com^
 ||fakjkwp.cn^
 ||falal.cn^
 ||fallaciousfifth.com^$third-party
@@ -10992,6 +10993,7 @@ zybang.com##.top_download
 ||kiitsl.icu^
 ||killcovid2021.com/*.mp4
 ||kindhush.com^$third-party
+||kindlestorsion.com^
 ||kinhincauking.website^
 ||kinleung.cn^
 ||kissfang.cn^
@@ -11139,6 +11141,7 @@ zybang.com##.top_download
 ||laprovence.com/fatalistic^
 ||larbcc.xyz^
 ||larinpayment.com^
+||larkersmaku.com^
 ||latcherjeannieturrets.click^
 ||launchingonsetwhirlwind.com^
 ||lawmanbevor.com^
@@ -11437,6 +11440,7 @@ zybang.com##.top_download
 ||massivemark.com^$third-party
 ||mat1.gtimg.com/rain/bailing20/*.*.png$image
 ||mat1.gtimg.com/rain/bailing20/*.jpg$image
+||matamant.com^
 ||materialmilk.com^$third-party
 ||materialparcel.com^$third-party
 ||maximpetus.com^
@@ -12430,6 +12434,7 @@ zybang.com##.top_download
 ||rabbitbreath.com^$third-party
 ||rabbitrifle.com^$third-party
 ||rabuagc.cn^
+||radarcatalystmomentumindustries.com^
 ||radiantlullaby.com^$third-party
 ||railwayrainstorm.com^$third-party
 ||railwayreason.com^$third-party
@@ -13748,6 +13753,7 @@ zybang.com##.top_download
 ||valerieavisnba.com^
 ||vancuongthinh.com^
 ||vanfireworks.com^$third-party
+||vangeewasps.com^
 ||vanishmemory.com^$third-party
 ||vapingunderground.com/js/vapingunderground/3253a5a323gaw352.js$domain=vapingunderground.com
 ||vaxgyly.cn^
@@ -13950,6 +13956,7 @@ zybang.com##.top_download
 ||whisperingcrib.com^$third-party
 ||whisperingsummit.com^$third-party
 ||whispermeeting.com^$third-party
+||whizzerrapiner.com^
 ||whwxxny.com^
 ||whyfate.cn^
 ||whymaze.com^$third-party
