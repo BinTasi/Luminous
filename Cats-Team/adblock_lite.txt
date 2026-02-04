@@ -4,8 +4,8 @@
 ! Powerd by Cats-Team
 ! Expires: 1 day (update frequency)
 ! Description: AdRules AdBlock List's Lite Version, And Remove Some Filters
-! ! Version: 2026-02-04 02:17:41(GMT+8)
-! Total count: 14803
+! ! Version: 2026-02-04 08:15:40(GMT+8)
+! Total count: 14807
  
 ###AdBlockDialog
 ###Page-1[stroke='none'][fill='none'][fill-rule='evenodd']
@@ -7816,6 +7816,7 @@ zybang.com##.top_download
 ||ajtdumo.cn^
 ||ajzsa.xyz^
 ||ak0gsh40.com^$third-party
+||akanexterna.com^
 ||akcnkancklankl.com^
 ||akdie.xyz^
 ||akhlamesouchy.com^
@@ -12671,6 +12672,7 @@ zybang.com##.top_download
 ||saffronrefuge.com^$third-party
 ||sahqoo.com^
 ||saitef.cn^
+||salpianpungey.cyou^
 ||samestretch.com^$third-party
 ||samfw.com/js/script.js
 ||samhainbewend.com^
@@ -12990,6 +12992,7 @@ zybang.com##.top_download
 ||sohu.com/mail/pv/
 ||solarislabyrinth.com^$third-party
 ||solaron.top^
+||solionenzymes.com^
 ||somaliainc.com^
 ||somberscarecrow.com^$third-party
 ||sombersea.com^$third-party
@@ -14427,6 +14430,7 @@ zybang.com##.top_download
 ||yhzm.xyz^
 ||yiboshangmao3.com^
 ||yichengjiajupt.com^
+||yield70.net^
 ||yieldingwoman.com^$third-party
 ||yifujing.com^
 ||yige20221219.xyz^
