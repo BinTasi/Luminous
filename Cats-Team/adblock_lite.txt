@@ -4,7 +4,7 @@
 ! Powerd by Cats-Team
 ! Expires: 1 day (update frequency)
 ! Description: AdRules AdBlock List's Lite Version, And Remove Some Filters
-! ! Version: 2026-02-04 20:09:17(GMT+8)
+! ! Version: 2026-02-05 02:14:49(GMT+8)
 ! Total count: 14815
  
 ###AdBlockDialog
@@ -6572,8 +6572,8 @@ uuu9.com##.c_box
 v.ifeng.com##div[class^="index_container"]
 v.ifeng.com##section[class^="index_hot"]
 v.qq.com###pc_client > .quick_link
+v.qq.com##.client-loading-cta__btn
 v.qq.com##.svg_icon_client.svg_quick_icon
-v.qq.com##.svg_icon_client.svg_quick_icon > path:nth-of-type(1)
 v.youku.com##.laifeng
 v11av.xyz##.content__body [rel='nofollow'][href][target='_blank']
 v11av.xyz##.row.q-ma-none A[rel='noopener nofollow'][href][style='display: block;']
