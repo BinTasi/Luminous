@@ -4,8 +4,8 @@
 ! Powerd by Cats-Team
 ! Expires: 1 day (update frequency)
 ! Description: AdRules AdBlock List's Lite Version, And Remove Some Filters
-! ! Version: 2026-02-05 12:32:34(GMT+8)
-! Total count: 14818
+! ! Version: 2026-02-05 14:27:42(GMT+8)
+! Total count: 14819
  
 ###AdBlockDialog
 ###Page-1[stroke='none'][fill='none'][fill-rule='evenodd']
@@ -4845,6 +4845,7 @@ m.qidian.com##div.book-detail-btn:nth-of-type(3)
 m.qu.la#?#:-abp-has(> a[href*=".bcebos."])
 m.qu.la#?#ul:-abp-has(> li > a[href*=".bcebos."])
 m.sm.cn##DIV[ad_seid],.dl-banner-lg.card
+m.smzdm.com##.damo-footer-open-app__fixed-logo
 m.sogou.com##.recommend-pop.vr-recommend
 m.sohu.com###artLifeService
 m.sohu.com##.art-rec-news
