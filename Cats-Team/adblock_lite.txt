@@ -4,8 +4,8 @@
 ! Powerd by Cats-Team
 ! Expires: 1 day (update frequency)
 ! Description: AdRules AdBlock List's Lite Version, And Remove Some Filters
-! ! Version: 2026-02-06 02:16:28(GMT+8)
-! Total count: 14822
+! ! Version: 2026-02-06 08:16:48(GMT+8)
+! Total count: 14827
  
 ###AdBlockDialog
 ###Page-1[stroke='none'][fill='none'][fill-rule='evenodd']
@@ -7650,6 +7650,7 @@ zybang.com##.top_download
 ||abtest.alibaba.com^
 ||abtt.pufenchuanmu.com^
 ||abundantcoin.com^$third-party
+||abusivejaped.com^
 ||accountsdoor.com^$third-party
 ||accurateanimal.com^$third-party
 ||accuratecoal.com^$third-party
@@ -8980,6 +8981,7 @@ zybang.com##.top_download
 ||cx0001.cn^
 ||cxs.mibaoge.com^
 ||cxsh.cn.com^
+||cyberspace92.net^
 ||cyclopsdial.com^$third-party
 ||cyhbrjf.cn^
 ||cypcb.net^
@@ -12118,6 +12120,7 @@ zybang.com##.top_download
 ||pic22222.com^
 ||picbucks.com/Webservices/jsParseLinks.aspx$script,third-party
 ||picbucks.com/visitScript/$script,third-party
+||pilinhomered.com^
 ||pilleustrig.com^
 ||pimlog.baidu.com^
 ||pinderecphory.com^
@@ -13586,6 +13589,7 @@ zybang.com##.top_download
 ||twbymc.cn^
 ||twdjn.cn^
 ||twgzgqqu.com^
+||twiltpyoid.com^
 ||twjsx.cn^
 ||twlcyc.cn^
 ||twww.sbs^
@@ -13717,6 +13721,7 @@ zybang.com##.top_download
 ||uppitytime.com^$third-party
 ||upresim.tk/berat/js/entry$script,domain=fakirdebrid.net
 ||upsringsautes.com^
+||uptracefeis.com^
 ||upzabkw.cn^
 ||uqelxct.cn^
 ||uraseszincy.com^
