@@ -15577,6 +15577,7 @@ domain:arboe.oewabox.at
 domain:arbomedia.pl
 domain:arboredchazansevernia.qpon
 domain:arbourrenewal.com
+domain:arbsarovxwus.com
 domain:arbutterfreer.com
 domain:arbwumnjiacwg.space
 domain:arc.io
@@ -25949,7 +25950,6 @@ domain:cladp.com
 domain:cladupius.com
 domain:clafpboyab.com
 domain:claim-reward.vidox.net
-domain:claim-uniswap.app
 domain:claimcostcobenefits.com
 domain:claimcousins.com
 domain:claimexercise.com
@@ -44223,6 +44223,7 @@ domain:facheicuropapon.com
 domain:facialleaflet.com
 domain:faciliatemate.com
 domain:facilitatebreakfast.com
+domain:facilityannounced.com
 domain:facingostensible.com
 domain:facisespess.com
 domain:fackhfindvaqz.space
@@ -44961,7 +44962,6 @@ domain:feixin2.com
 domain:fejezet.com
 domain:fejwoypdusamehl.com
 domain:fejwweqjtndwz.site
-domain:felara.com.do
 domain:felidae.mmm.page
 domain:felidae.mysuperportal.com
 domain:felidae.theforeignarchitect.com
@@ -47270,8 +47270,6 @@ domain:freecounter.ovh
 domain:freecounterstat.ovh
 domain:freedailydownload.com
 domain:freedcatch.com
-domain:freedom.invoice5g-bill.com
-domain:freedom.invoiceid-bill.com
 domain:freedomalburn.com
 domain:freedomgrail.com
 domain:freedominfo.net
@@ -58535,6 +58533,7 @@ domain:icqpgnbeifefi.website
 domain:icrcworld.com
 domain:ictls.takeaware.nl
 domain:ictrjw.barcastores.com
+domain:ictuatewindled.qpon
 domain:icu.newsroom.bi
 domain:icubeswire.co
 domain:icugm.wagamama.us
@@ -68058,6 +68057,7 @@ domain:layer-ad.org
 domain:layer-ads.de
 domain:layerprotect.com
 domain:layerrepeatedlychancy.com
+domain:laylandsyncarp.shop
 domain:laymandelian.cyou
 domain:laymanesprit.com
 domain:layout08062025.shop
@@ -86491,6 +86491,7 @@ domain:nip44.com
 domain:nip46.com
 domain:nip5.com
 domain:nip57.com
+domain:nip8.com
 domain:nip9.com
 domain:nipcrater.com
 domain:nipechala.com
@@ -125547,6 +125548,7 @@ domain:sticky-luck.pro
 domain:sticky-resolution.com
 domain:sticky.news
 domain:stickyadstv.com
+domain:stickykroner.cyou
 domain:stienlb.top
 domain:stiesboxtop.top
 domain:stiff-hate.com
@@ -126582,7 +126584,6 @@ domain:superinterstitial.com
 domain:superiordealer.pro
 domain:superiorityregard.com
 domain:superiorityroundinhale.com
-domain:superitee.com
 domain:superlativedanemistress.com
 domain:superlativemound.com
 domain:superlecker.info
@@ -139425,7 +139426,6 @@ domain:uniswap-claim-today.run
 domain:uniswap-v3.com
 domain:uniswap-wallet.pro
 domain:uniswap.host
-domain:uniswap.markets
 domain:uniswap.ro
 domain:uniswap0120.com
 domain:uniswap100x.xyz
