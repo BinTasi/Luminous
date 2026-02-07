@@ -4,8 +4,8 @@
 ! Powerd by Cats-Team
 ! Expires: 1 day (update frequency)
 ! Description: AdRules AdBlock List's Lite Version, And Remove Some Filters
-! ! Version: 2026-02-07 02:14:03(GMT+8)
-! Total count: 14833
+! ! Version: 2026-02-07 08:18:19(GMT+8)
+! Total count: 14838
  
 ###AdBlockDialog
 ###Page-1[stroke='none'][fill='none'][fill-rule='evenodd']
@@ -8405,6 +8405,7 @@ zybang.com##.top_download
 ||broadboundary.com^$third-party
 ||broadcastbed.com^$third-party
 ||broaddoor.com^$third-party
+||bronchiallonym.com^
 ||broosnighed.com^
 ||brotherslocket.com^$third-party
 ||brownfox.top^
@@ -8912,6 +8913,7 @@ zybang.com##.top_download
 ||cratecamera.com^$third-party
 ||craterbox.com^$third-party
 ||creamaroc.com^
+||creasolunshort.com^
 ||createssque.club^
 ||creatorcherry.com^$third-party
 ||creatorpassenger.com^$third-party
@@ -10141,6 +10143,7 @@ zybang.com##.top_download
 ||grjasq.com^
 ||grlnpmbc.goar.justjared.com^$domain=justjared.com
 ||gromore.pangolin-sdk-toutiao.com^
+||grontfazes.com^
 ||groovyornament.com^$third-party
 ||grouchybrothers.com^$third-party
 ||grouchypush.com^$third-party
@@ -10211,6 +10214,7 @@ zybang.com##.top_download
 ||gypowdr.com^
 ||gyq3bew.icu^
 ||gyqifa.com^
+||gyrallydaiker.com^
 ||gysn001.com^
 ||gyutmrp.com^
 ||gz-chengkao.com/js/duo.js
@@ -10660,6 +10664,7 @@ zybang.com##.top_download
 ||inciseclog.com^
 ||incompetentjoke.com^$third-party
 ||inconclusiveaction.com^$third-party
+||indexconcretehavendynamics.com^
 ||indiatimes.com/ads_native_js^$script
 ||indiatimes.com/detector.cms$script
 ||indiatimes.com/detector/$script
