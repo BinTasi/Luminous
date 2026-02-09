@@ -4,8 +4,8 @@
 ! Powerd by Cats-Team
 ! Expires: 1 day (update frequency)
 ! Description: AdRules AdBlock List's Lite Version, And Remove Some Filters
-! Version: 2026-02-09 22:53:17(GMT+8)
-! Total count: 14857
+! Version: 2026-02-10 02:16:50(GMT+8)
+! Total count: 14858
 ###AdBlockDialog
 ###Page-1[stroke='none'][fill='none'][fill-rule='evenodd']
 ###SOHU_MAIN > .module-cmt-float-bar
@@ -3246,6 +3246,7 @@ coderlessons.com,facenews.ua,fixx.one,its-kids.ru,molitvy.guru,nizhny.ru,pro100h
 codeshare.io##.sad-face
 coflix.*,dhtpre.com,fmovies.*,swatchseries.is,vidhidepro.com,vidply.com,watchseriestv.*#$#abort-current-inline-script String.fromCharCode 2147483647
 cofp.ru##.admitad-checker-popup
+coinglass.com#$#override-property-read Object.prototype.url_ad undefined
 colamanga.com#@#.gg_950
 com:8891/c.php?s=*$third-party
 comedy-radio.ru,radioromantika.ru,veseloeradio.ru#$#abort-on-property-read yaContextCb
