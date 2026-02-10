@@ -4,8 +4,8 @@
 ! Powerd by Cats-Team
 ! Expires: 1 day (update frequency)
 ! Description: AdRules AdBlock List's Lite Version, And Remove Some Filters
-! Version: 2026-02-10 02:16:50(GMT+8)
-! Total count: 14858
+! Version: 2026-02-10 08:22:38(GMT+8)
+! Total count: 14869
 ###AdBlockDialog
 ###Page-1[stroke='none'][fill='none'][fill-rule='evenodd']
 ###SOHU_MAIN > .module-cmt-float-bar
@@ -8182,6 +8182,7 @@ zybang.com##.top_download
 ||banzou.name/qq/qq2.js
 ||barbarousbase.com^$third-party
 ||bardiersilexes.com^
+||barflyevolver.com^
 ||bariesnaw.com^
 ||barscreative1.com^
 ||basilfish.com^$third-party
@@ -8528,6 +8529,7 @@ zybang.com##.top_download
 ||canser7.top^
 ||canser8.top^
 ||canser9.top^
+||canulaeacholic.com^
 ||canvasandsocks.com^$third-party
 ||cao-gao.xyz^
 ||caomeixz7.xyz^
@@ -8767,6 +8769,7 @@ zybang.com##.top_download
 ||cloudfront.net^$script,domain=croydonguardian.co.uk
 ||cloudhustles.com^$third-party
 ||cloudjumbo.com^$third-party
+||cloudscape84.net^
 ||cls.cn/v2/web/ad?
 ||clubic.com/assets/js/6f34f4c.js$script
 ||clugqa.com^
@@ -9074,6 +9077,7 @@ zybang.com##.top_download
 ||damageddistance.com^$third-party
 ||damai.cn/phpstat/
 ||damdoor.com^$third-party
+||damnousstanze.com^
 ||dampdock.com^$third-party
 ||dancemistake.com^$third-party
 ||dandydune.com^$third-party
@@ -9141,6 +9145,7 @@ zybang.com##.top_download
 ||deckedpreeze.com^
 ||decoycreation.com^$third-party
 ||dedcrfvdj.xyz^
+||deemuncrook.com^
 ||deeptack.com^$third-party
 ||deerbeginner.com^$third-party
 ||deeterno.cn^
@@ -10197,6 +10202,7 @@ zybang.com##.top_download
 ||guilfatagelast.qpon^
 ||guiliangtechnology.com^
 ||guiltlessbasketball.com^$third-party
+||guindeencurl.com^
 ||guizhouxinsheng.com^
 ||gujkj.cn^
 ||guke.name^
@@ -10680,6 +10686,7 @@ zybang.com##.top_download
 ||inciseclog.com^
 ||incompetentjoke.com^$third-party
 ||inconclusiveaction.com^$third-party
+||inconelcatalos.com^
 ||indexconcretehavendynamics.com^
 ||indiatimes.com/ads_native_js^$script
 ||indiatimes.com/detector.cms$script
@@ -11090,6 +11097,7 @@ zybang.com##.top_download
 ||knliylh.cn^
 ||knlk2md.cn^
 ||knmwrkw.xyz^
+||knorhmnwime.com^
 ||ko2v.eiya.net^
 ||kodfn.xyz^
 ||kolhozclarain.com^
@@ -11447,6 +11455,7 @@ zybang.com##.top_download
 ||m4pgay.com^
 ||m7g2v1b9.com^
 ||macacusdame.com^
+||machreewhiz.com^
 ||mackproject.com/tara.php$subdocument
 ||macx.cn/js/blockadblock.js
 ||maddeningpowder.com^$third-party
@@ -12089,6 +12098,7 @@ zybang.com##.top_download
 ||partplanes.com^$third-party
 ||passivepolo.com^$third-party
 ||pastoralroad.com^$third-party
+||payersgreking.com^
 ||payoneok.com^
 ||paywall.folha.uol.com.br^$domain=folha.uol.com.br
 ||pbaiyho.cn^
@@ -12489,6 +12499,7 @@ zybang.com##.top_download
 ||rabbitbreath.com^$third-party
 ||rabbitrifle.com^$third-party
 ||rabuagc.cn^
+||rackmanrepique.com^
 ||radarcatalystmomentumindustries.com^
 ||radiantlullaby.com^$third-party
 ||railwayrainstorm.com^$third-party
