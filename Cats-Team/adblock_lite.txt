@@ -4,8 +4,8 @@
 ! Powerd by Cats-Team
 ! Expires: 1 day (update frequency)
 ! Description: AdRules AdBlock List's Lite Version, And Remove Some Filters
-! Version: 2026-02-10 14:24:31(GMT+8)
-! Total count: 14869
+! Version: 2026-02-10 20:16:02(GMT+8)
+! Total count: 14872
 ###AdBlockDialog
 ###Page-1[stroke='none'][fill='none'][fill-rule='evenodd']
 ###SOHU_MAIN > .module-cmt-float-bar
@@ -3104,6 +3104,10 @@ calidadcine.net,seriesmetro.net#$#abort-on-property-read afStorage
 camcaps.*,vidello.net#$#abort-on-property-write popUnder
 camsstream.com#$#abort-current-inline-script onload;
 canhasbitcoin.com###adblock-message
+cap3.life#$#prevent-listener click d .art-control-fullscreen
+cap3.life#$#prevent-listener click e.target
+cap3.life#$#prevent-listener click setTimeout
+cap3.life#$#prevent-listener fullscreenchange e.target
 cars.com#$#hide-if-matches-xpath './/span[contains(@class,"hero-cta-tag")][contains(text(),"Sponsored")]/preceding::img[@class="sponsored-hero-cta"]/ancestor::a[@aria-describedby][contains(@href,"adclick")]/ancestor-or-self::section[@id="primary-hero"]'
 cars.com#$#hide-if-matches-xpath './/spark-badge[@variant="text"][@class="sp-badge"]/following::spark-button[@data-sponsored="true"]/ancestor-or-self::div[contains(@class,"inventory-")][1]'
 cast4u.tv###notice
@@ -5142,7 +5146,7 @@ monkeydtruyen.com#$#simulate-mouse-event '.affClick[style=" display:block; "]' '
 monoschinos2.com#$#abort-current-inline-script EventTarget.prototype.addEventListener encodeURIComponent
 monoschinos2.com#$#abort-on-property-read _0x24d7; abort-on-property-read _0x41ed; abort-on-property-read _0xf59bf3; abort-on-property-read a3klsam
 moredesi.com#$#abort-on-property-read __formatsGetters
-motchillk.ac,cap3.life#$#abort-on-property-read sessionStorage
+motchillk.ac#$#abort-on-property-read sessionStorage
 motorbikecatalog.com#$#override-property-read window.navigator.connection.rtt 1001
 motorpage.ru#$#json-prune '0.BannerId 1.BannerId 2.BannerId 3.BannerId 4.BannerId 5.BannerId 6.BannerId'
 motortrend.com#$#hide-if-matches-xpath './/div[contains(@id,"ad-id-curated_abovenavad")][@data-ad="true"]/parent::div[contains(@class,"cls-helper")][1]'
@@ -5810,7 +5814,6 @@ riverrunbookstore.com#$#override-property-read adsPlayer '';override-property-re
 rk.plcdn.xyz#$#abort-on-property-read adsTvc; abort-on-property-read adsPlayer; abort-on-property-read ads; abort-on-property-read keyPlayer; abort-on-property-read adsPopupPlayer;
 rlsbb.com###contentArea > .information
 rlsbb.movie7share.net##.information > [color="red"] > H3
-robong.cc#$#simulate-mouse-event '.show.modal-backdrop.fade$delay=1100'
 robotcoingame.com,monstercoingame.com,wonderlandco.in#@#.adsbygoogle
 rojadirecta.*#$#abort-on-property-read smrtSB; abort-on-property-read smrtSP
 rojadirecta.me#@##adserver
@@ -6860,8 +6863,8 @@ www.ksksy.com##[style$='vw;background:#000;opacity:0.01;']
 www.lezhutv.com##[style='bottom: 132px;']
 www.linkedin.com#$#simulate-mouse-event 'xpath(//*[text()="Promoted" or text()="Sponsored" or text()="Dipromosikan" or text()="Propagováno" or text()="Promoveret" or text()="Anzeige" or text()="Promocionado" or text()="促銷內容" or text()="Post sponsorisé" or text()="프로모션" or text()="Post sponsorizzato" or text()="广告" or text()="プロモーション" or text()="Treść promowana" or text()="Patrocinado" or text()="Promovat" or text()="Продвигается" or text()="Marknadsfört" or text()="Nai-promote" or text()="ได้รับการโปรโมท" or text()="Öne çıkarılan içerik" or text()="الترويج"]/ancestor::div[@data-id]//video[@autoplay="autoplay"])$delay=3';
 www.meijuii.cc##DIV[style*='vw; display: block;']
-www.motchill43.com,trumtruyen.xyz#$#abort-current-inline-script setTimeout Aff
-www.motchill43.com,xnhau.hot,teamlanhlung8.shop,xemphimjav.xyz#$#abort-on-property-read localStorage
+www.motchill44.com,trumtruyen.xyz#$#abort-current-inline-script setTimeout Aff
+www.motchill44.com,xnhau.hot,teamlanhlung8.shop,xemphimjav.xyz#$#abort-on-property-read localStorage
 www.nettruyenupp.com#$#abort-on-property-read sp
 www.olevod.com##.B1Lss,.B1Rss
 www.qianwen.com##.leading-7.text-center.w-16.h-7.rounded-8.text-theme.text-12.bg-weaken
