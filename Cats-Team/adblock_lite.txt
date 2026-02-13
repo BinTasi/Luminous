@@ -4,8 +4,8 @@
 ! Powerd by Cats-Team
 ! Expires: 1 day (update frequency)
 ! Description: AdRules AdBlock List's Lite Version, And Remove Some Filters
-! Version: 2026-02-12 20:12:41(GMT+8)
-! Total count: 14813
+! Version: 2026-02-13 12:39:09(GMT+8)
+! Total count: 14815
 ###AdBlockDialog
 ###Page-1[stroke='none'][fill='none'][fill-rule='evenodd']
 ###SOHU_MAIN > .module-cmt-float-bar
@@ -5816,9 +5816,6 @@ ria.ru##.antiblock
 ringside24.com,gagadget.com#$#abort-on-property-read localStorage
 rireetchansons.fr###popins
 rireetchansons.fr###upsell
-riverrunbookstore.com#$#abort-current-inline-script jQuery open
-riverrunbookstore.com#$#hide-if-matches-xpath './/div[@id or @class]/p/a[@title]/ancestor-or-self::div[1]'
-riverrunbookstore.com#$#override-property-read adsPlayer '';override-property-read adsTvcs ''
 rk.plcdn.xyz#$#abort-on-property-read adsTvc; abort-on-property-read adsPlayer; abort-on-property-read ads; abort-on-property-read keyPlayer; abort-on-property-read adsPopupPlayer;
 rlsbb.com###contentArea > .information
 rlsbb.movie7share.net##.information > [color="red"] > H3
@@ -5870,6 +5867,9 @@ sanhao.com###reg-bar
 sankei.com,timesofindia.indiatimes.com,dictionary.cambridge.org,sourceforge.net,bab.la,pons.com,loawa.com,gazetaprawna.pl,malaymail.com,tz.de,winfuture.de,gutefrage.net,huffpost.com,collinsdictionary.com#$#blob-override '/.*/' ''
 sanstv.ru###adblock
 sauto.cz#$#override-property-read sssp undefined
+savethislife.com#$#abort-current-inline-script jQuery open
+savethislife.com#$#hide-if-matches-xpath './/div[@id or @class]/p/a[@title]/ancestor-or-self::div[1]'
+savethislife.com#$#override-property-read adsPlayer '';override-property-read adsTvcs ''
 savevideo.me##div[id^="ads_notice_"]
 savevideo.me##td > div[class]:not([id])[style*="important"]
 sblunwen.com###popupService
@@ -11847,6 +11847,7 @@ zybang.com##.top_download
 ||notify.bugsnag.com^
 ||nourcomip.fun^
 ||novaseekers.com^$third-party
+||noveltyvirions.com^
 ||novret.com/?clickid=
 ||npftmqv.cn^
 ||nphqw.cn^
@@ -11976,6 +11977,7 @@ zybang.com##.top_download
 ||open.oneplus.net^
 ||openinstall.io^$third-party
 ||openrcv.baidu.com^
+||operated501.com^
 ||operationchicken.com^$third-party
 ||operationnail.com^$third-party
 ||ophwrh.cn^
