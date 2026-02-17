@@ -4,7 +4,7 @@
 ! Powerd by Cats-Team
 ! Expires: 1 day (update frequency)
 ! Description: AdRules AdBlock List's Lite Version, And Remove Some Filters
-! Version: 2026-02-17 14:51:20(GMT+8)
+! Version: 2026-02-17 20:50:56(GMT+8)
 ! Total count: 14827
 ###AdBlockDialog
 ###Page-1[stroke='none'][fill='none'][fill-rule='evenodd']
@@ -3483,7 +3483,7 @@ dstar.pzk.pl#@#.adsbygoogle
 dtarihi.com#$#simulate-mouse-event 'xpath(.//div[@class][contains(@style,"display: block;")][@id]//following-sibling::div[@class]/div[contains(@class," ")][1])$delay=0'
 dtf.ru#$#override-property-read Object.prototype.detectAdblock undefined
 dtf.ru,vc.ru##.layout__right-column > div[class*=" "][style] > div[class*=" "] > div:only-child
-dualeotruyenpe.com#$#abort-current-inline-script document.addEventListener popunder
+dualeotruyenvh.com#$#abort-current-inline-script document.addEventListener popunder
 duba.net###login_alert
 dujiaoshou.cn###ad1
 duowan.com##.lolboxapps-qrcode
@@ -3633,7 +3633,7 @@ exashare.com##[href="http://www.videohube.eu/script/url.php?c=ep"]
 exashare.com,dowed.info###player_mgo
 exashare.com,dowed.info###player_mgs
 exler.ru##.adblock-pls
-exokit.org,openib.org,onflix.me#$#prevent-listener click ads
+exokit.org,motchillz.sh,onflix.me#$#prevent-listener click ads
 expres.cz##.barMan
 expres.cz##[class^="r-main"]
 expres.cz##a[href*="/supertag=InstreamVideo/"]
@@ -5050,9 +5050,6 @@ maxedtech.com#@#.a160x600
 maxstream.video#$#hide-if-matches-xpath './/div[@style="pointer-events: none; position: absolute; top: 0px; left: 0px; width: 1298px; height: 554px; z-index: 2147483647;"]/ancestor-or-self::div[1]'
 mayi.com###floatingLayer
 mcmod.cn###McmodDonate
-mcnallyinstitute.com#$#abort-current-inline-script jQuery open
-mcnallyinstitute.com#$#hide-if-matches-xpath './/div[@id or @class]/p/a[@title]/ancestor-or-self::div[1]'
-mcnallyinstitute.com#$#override-property-read adsPlayer '';override-property-read adsTvcs ''
 md4u.ru###pagecontent > div[style*="background-color"]
 me360.com##.footer-booking-open
 med66.com##.banner
@@ -5162,7 +5159,7 @@ monkeydtruyen.com#$#simulate-mouse-event '.affClick[style=" display:block; "]' '
 monoschinos2.com#$#abort-current-inline-script EventTarget.prototype.addEventListener encodeURIComponent
 monoschinos2.com#$#abort-on-property-read _0x24d7; abort-on-property-read _0x41ed; abort-on-property-read _0xf59bf3; abort-on-property-read a3klsam
 moredesi.com#$#abort-on-property-read __formatsGetters
-motchillk.pw#$#abort-on-property-read sessionStorage
+motchillk.bz#$#abort-on-property-read sessionStorage
 motorbikecatalog.com#$#override-property-read window.navigator.connection.rtt 1001
 motorpage.ru#$#json-prune '0.BannerId 1.BannerId 2.BannerId 3.BannerId 4.BannerId 5.BannerId 6.BannerId'
 motortrend.com#$#hide-if-matches-xpath './/div[contains(@id,"ad-id-curated_abovenavad")][@data-ad="true"]/parent::div[contains(@class,"cls-helper")][1]'
@@ -5878,6 +5875,9 @@ sanhao.com###reg-bar
 sankei.com,timesofindia.indiatimes.com,dictionary.cambridge.org,sourceforge.net,bab.la,pons.com,loawa.com,gazetaprawna.pl,malaymail.com,tz.de,winfuture.de,gutefrage.net,huffpost.com,collinsdictionary.com#$#blob-override '/.*/' ''
 sanstv.ru###adblock
 sauto.cz#$#override-property-read sssp undefined
+savethislife.com#$#abort-current-inline-script jQuery open
+savethislife.com#$#hide-if-matches-xpath './/div[@id or @class]/p/a[@title]/ancestor-or-self::div[1]'
+savethislife.com#$#override-property-read adsPlayer '';override-property-read adsTvcs ''
 savevideo.me##div[id^="ads_notice_"]
 savevideo.me##td > div[class]:not([id])[style*="important"]
 sblunwen.com###popupService
@@ -5919,7 +5919,7 @@ setn.com##.rightFloat
 settlersonlinemaps.com###prb
 sex-studentki.gold,seks-studentki.pro#$#prevent-listener DOMContentLoaded click_time
 sex.javnong.cc#$#abort-on-property-read Math.round
-sextop1.lc,hhvsub1.com#$#abort-current-inline-script WebAssembly globalThis
+sextop1.cv,hhvsub1.com#$#abort-current-inline-script WebAssembly globalThis
 sexvid.*##div[class^="sp-player visible"][id^="sp-player"]
 sexvid.*#$#abort-on-property-read atob; abort-current-inline-script document.write /promo/; override-property-read window.diptr undefined; abort-on-property-read window.pu; abort-current-inline-script document.write iframe;
 seznamzpravy.cz##[class^="dynamic_banner"]
@@ -6613,7 +6613,7 @@ v.qq.com##.svg_icon_client.svg_quick_icon
 v.youku.com##.laifeng
 v11av.xyz##.content__body [rel='nofollow'][href][target='_blank']
 v11av.xyz##.row.q-ma-none A[rel='noopener nofollow'][href][style='display: block;']
-vailonxx.live#$#abort-current-inline-script jQuery window.open
+vailonxx.co#$#abort-current-inline-script jQuery window.open
 vardembed.xyz,videovard.sx###MyDickIsFat
 vardembed.xyz,videovard.sx###NotReallyYouHaveSmallOne
 vardembed.xyz,videovard.sx#$#json-prune ads_mode
@@ -6664,7 +6664,7 @@ vidmoly.to###dos_vlock
 vidshare.tv,govid.*,hdvid.tv,gomovies.*,gostream.nu,openloadmovies.*,flashx.tv,cloudvideo.tv#$#abort-on-property-write Fingerprint2
 vidshare.tv,vidshar.tv,series.movie,gowatchseries.movie,gowatchseries.tv#$#abort-current-inline-script Object.defineProperty XMLHttpRequest
 vidsrc.*,cucuflix.*#$#abort-current-inline-script document.createElement /referrerPolicy.*no-referrer-when-downgrade/;
-viet69.cm,dualeotruyenpe.com,yurineko.my,walmart-tadalafil.net,cliphot69.shop,doctruyen3qhubx.com,ihentai.network,animehay.icu,hentaivc.pro,streamvl.top,buomtv.media,truyenvn.shop,javtiful.com,quatvn.my,phimsexhayvn96.com,phim18hdxx.com,vn6.sexviet88.xyz,demo.14412882.com,phimnung3x.pro,hhtq5.vip,sexdiary.club,vn2.xvideos69.xxx,umetruyenz.org,damconuong.app,truyenqqno.com,clipsexsub3x.net,sayhentai.world,motphim.pokemonviet.com,lxmanga.space,phimlongtieng.net,newtruyenhot.pro,www.sieutamphim.pro,vevocloud.com,sex.xinh3x.me,sexviet88.xyz,viet69.cm,goctruyentranhvui19.com,viet69vn.at#$#abort-current-inline-script WebAssembly instantiate
+viet69.ae,dualeotruyenvh.com,yurineko.my,jualbutuh.com,cliphot69.shop,doctruyen3qhubx.com,ihentai.network,animehay.icu,hentaivc.vip,streamvl.top,buomtv.media,truyenvn.shop,javtiful.com,quatvn.my,phimsexhayvn96.com,phim18hdxx.com,vn6.sexviet88.xyz,demo.14412882.com,phimnung3x.pro,hhtq5.vip,sexdiary.club,vn2.xvideos69.xxx,umetruyenz.org,damconuong.app,truyenqqno.com,clipsexsub3x.net,sayhentai.world,motphim.pokemonviet.com,lxmanga.space,phimlongtieng.net,newtruyenhot.pro,www.sieutamphim.pro,vevocloud.com,sex.xinh3x.me,sexviet88.xyz,viet69.ae,goctruyentranhvui19.com,viet69vn.at#$#abort-current-inline-script WebAssembly instantiate
 view.inews.qq.com##div[class^="article-recommend_wrapper"]
 view.inews.qq.com##div[class^="bottom-bar_buttonWrap"]
 view.inews.qq.com##div[class^="infinite-comment-list_subText"]
@@ -6877,8 +6877,8 @@ www.ksksy.com##[style$='vw;background:#000;opacity:0.01;']
 www.lezhutv.com##[style='bottom: 132px;']
 www.linkedin.com#$#simulate-mouse-event 'xpath(//*[text()="Promoted" or text()="Sponsored" or text()="Dipromosikan" or text()="Propagováno" or text()="Promoveret" or text()="Anzeige" or text()="Promocionado" or text()="促銷內容" or text()="Post sponsorisé" or text()="프로모션" or text()="Post sponsorizzato" or text()="广告" or text()="プロモーション" or text()="Treść promowana" or text()="Patrocinado" or text()="Promovat" or text()="Продвигается" or text()="Marknadsfört" or text()="Nai-promote" or text()="ได้รับการโปรโมท" or text()="Öne çıkarılan içerik" or text()="الترويج"]/ancestor::div[@data-id]//video[@autoplay="autoplay"])$delay=3';
 www.meijuii.cc##DIV[style*='vw; display: block;']
-www.motchill44.com,teamlanhlung8.shop,xemphimjav.xyz#$#abort-on-property-read localStorage
-www.motchill44.com,trumtruyen.xyz#$#abort-current-inline-script setTimeout Aff
+www.motchill45.com,teamlanhlung8.shop,xemphimjav.xyz#$#abort-on-property-read localStorage
+www.motchill45.com,trumtruyen.xyz#$#abort-current-inline-script setTimeout Aff
 www.nettruyenupp.com#$#abort-on-property-read sp
 www.olevod.com##.B1Lss,.B1Rss
 www.qianwen.com##.leading-7.text-center.w-16.h-7.rounded-8.text-theme.text-12.bg-weaken
