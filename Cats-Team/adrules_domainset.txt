@@ -1,4 +1,4 @@
-# Update: 2026-02-18 10:32:11(GMT+8)
+# Update: 2026-02-18 11:35:00(GMT+8)
 +.0.avmarket.rs
 +.0.myikas.com
 +.0.net.easyjet.com
@@ -5072,6 +5072,7 @@
 +.a8netcv.crebiq.com
 +.a8nikibi.ike-sunshine.co.jp
 +.a8onlineshop.trendmicro.co.jp
++.a8qwjt7dwi.com
 +.a8redirect.cart.ec-sites.jp
 +.a8shop.nihon-trim.co.jp
 +.a8sup.chapup.jp
@@ -25097,6 +25098,7 @@
 +.c7f4d1276e.com
 +.c7m3r7z38g1ip85m428.cfd
 +.c7o9xp4e4.com
++.c7u6tfo63jgq1l3upg.cfd
 +.c8.net.ua
 +.c81.ipanocloud.com
 +.c82uw686gugvt3ngvf.cfd
@@ -107882,6 +107884,7 @@
 +.qabni.myhealth-lifestyle.com
 +.qaburi.l-appart.net
 +.qabxnphqmxthw.com
++.qaccptvhxmhfq.site
 +.qadgb.directtoolsoutlet.com
 +.qadraf.frankoniamoda.ch
 +.qaein.coach.com
@@ -112161,6 +112164,7 @@
 +.riaoz.xyz
 +.riazrk-oba.online
 +.ribbedjarool.cyou
++.ribbyplungy.com
 +.ribecreaticazonium.cfd
 +.ribesmoschusnudger.cfd
 +.ribghr.icu
@@ -112606,6 +112610,7 @@
 +.rmp.rakuten.com
 +.rmp4.destinia.uy
 +.rmpywaamvfwfa.store
++.rmqgscbitoadp.site
 +.rmqtqrtxhwilx.store
 +.rms-drcn.platform.dbankcloud.cn
 +.rmsbkw.green-acres.be
@@ -153861,6 +153866,7 @@
 +.ugvip.com
 +.ugvqmkkvqrjnx.space
 +.ugvvewyzqfvvr.site
++.ugwjndrwmuico.space
 +.ugxjixmdhprzr.site
 +.ugxqsbsdsuhqx.website
 +.ugyokhycezstl.site
@@ -158249,6 +158255,7 @@
 +.vlfmcodhzuthr.website
 +.vlgaj.ogee.com
 +.vlgkotr.cn
++.vlgmfdchutvxh.website
 +.vlion.cn
 +.vliplatform.com
 +.vlitag.com
@@ -161851,6 +161858,7 @@
 +.wldyhwenmkmcv.website
 +.wleallwqybqov.top
 +.wlfslsqfinhtp.website
++.wlfulyrpgl.xyz
 +.wlg.shinhancard.com
 +.wlgxaij.cn
 +.wlgyeqqxjvomm.space
@@ -164869,6 +164877,7 @@
 +.xafrpqyhbpboe.site
 +.xafrzicbixitc.today
 +.xafszmuibdlps.site
++.xagdficxgdrkfyy.com
 +.xaguwy.thomas-muenz.ru
 +.xahycw.com
 +.xaiqrania.com
@@ -167348,6 +167357,7 @@
 +.yh.zg-zxzx.net
 +.yh18h8s.com
 +.yh20230625tu.com
++.yh2rc1etmj74m4uewzhzt6v52r48.rest
 +.yh6u.dealeusedevoyages.com
 +.yh823ogu6b.com
 +.yhak0o7rtz.com

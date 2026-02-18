@@ -4,8 +4,8 @@
 ! Powerd by Cats-Team
 ! Expires: 1 day (update frequency)
 ! Description: AdRules AdBlock List's Lite Version, And Remove Some Filters
-! Version: 2026-02-18 10:32:08(GMT+8)
-! Total count: 14834
+! Version: 2026-02-18 11:34:56(GMT+8)
+! Total count: 14842
 ###AdBlockDialog
 ###Page-1[stroke='none'][fill='none'][fill-rule='evenodd']
 ###SOHU_MAIN > .module-cmt-float-bar
@@ -739,8 +739,15 @@
 .cn:*/sc/*?n=$third-party
 .cn:*/vh5$third-party
 .cn:8005/cc/*?is_not=
+.com/00*00*00*_*c*p*v*.js$~third-party
+.com/11*11*11*_*c*p*v*.js$~third-party
 .com/17*?rid=17$third-party
+.com/22*22*22*_*c*p*v*.js$~third-party
+.com/33*33*33*_*c*p*v*.js$~third-party
+.com/44*44*44*_*c*p*v*.js$~third-party
+.com/55*55*55*_*c*p*v*.js$~third-party
 .com/5y*/31*.$~third-party
+.com/66*66*66*_*c*p*v*.js$~third-party
 .com/adv1/?q=
 .com/c.php?s=*=*=$third-party
 .com/candy*.js$third-party
@@ -833,6 +840,7 @@
 /*Rek|$image,domain=animenova.org|animeplus.tv|gogoanimes.co|gogoanimes.fi|kiss-anime.ws|readcomiconline.to|mangareader.net|animewow.org|animeland.us
 /*_*_aubi.js$third-party
 /*_09c09p09v.js
+/*_10c10p10v.js
 /*gek|$image,domain=animenova.org|animeplus.tv|gogoanimes.co|gogoanimes.fi|kiss-anime.ws|readcomiconline.to|mangareader.net|animewow.org|animeland.us
 /160x600adblock.
 /360mse/360mse_*.apk?
