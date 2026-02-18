@@ -4,8 +4,8 @@
 ! Powerd by Cats-Team
 ! Expires: 1 day (update frequency)
 ! Description: AdRules AdBlock List's Lite Version, And Remove Some Filters
-! Version: 2026-02-18 14:54:59(GMT+8)
-! Total count: 14842
+! Version: 2026-02-18 17:10:45(GMT+8)
+! Total count: 14840
 ###AdBlockDialog
 ###Page-1[stroke='none'][fill='none'][fill-rule='evenodd']
 ###SOHU_MAIN > .module-cmt-float-bar
@@ -839,8 +839,6 @@
 /*/*.add.*.add
 /*Rek|$image,domain=animenova.org|animeplus.tv|gogoanimes.co|gogoanimes.fi|kiss-anime.ws|readcomiconline.to|mangareader.net|animewow.org|animeland.us
 /*_*_aubi.js$third-party
-/*_09c09p09v.js
-/*_10c10p10v.js
 /*gek|$image,domain=animenova.org|animeplus.tv|gogoanimes.co|gogoanimes.fi|kiss-anime.ws|readcomiconline.to|mangareader.net|animewow.org|animeland.us
 /160x600adblock.
 /360mse/360mse_*.apk?
@@ -4114,7 +4112,7 @@ hexun.com##.side618
 hh2d.tv#$#abort-current-inline-script $ adblock
 hh3dhay.life#$#abort-current-inline-script Symbol break;case
 hh3dhay.life,hh3dhay.xyz#$#abort-current-inline-script document.createElement /break|case/
-hh3dhay.life,tram3d.online,animevietsub.ee#$#abort-current-inline-script eval $._Eu
+hh3dhay.life,tram3d.online,animevietsub.be#$#abort-current-inline-script eval $._Eu
 hianime.*#$#hide-if-matches-xpath './/a[contains(@href,"flix")]/img[@alt="flix"][@style]/ancestor::div[@style]'
 hianime.*#$#prevent-listener pointerdown; abort-on-iframe-property-read localStorage; abort-on-iframe-property-read Math.random
 hireteen.com###adb-enabled
@@ -5928,7 +5926,7 @@ setn.com##.rightFloat
 settlersonlinemaps.com###prb
 sex-studentki.gold,seks-studentki.pro#$#prevent-listener DOMContentLoaded click_time
 sex.javnong.cc#$#abort-on-property-read Math.round
-sextop1.cv,hhvsub1.com#$#abort-current-inline-script WebAssembly globalThis
+sextop1.bid,hhvsub1.com#$#abort-current-inline-script WebAssembly globalThis
 sexvid.*##div[class^="sp-player visible"][id^="sp-player"]
 sexvid.*#$#abort-on-property-read atob; abort-current-inline-script document.write /promo/; override-property-read window.diptr undefined; abort-on-property-read window.pu; abort-current-inline-script document.write iframe;
 seznamzpravy.cz##[class^="dynamic_banner"]
@@ -6886,8 +6884,8 @@ www.ksksy.com##[style$='vw;background:#000;opacity:0.01;']
 www.lezhutv.com##[style='bottom: 132px;']
 www.linkedin.com#$#simulate-mouse-event 'xpath(//*[text()="Promoted" or text()="Sponsored" or text()="Dipromosikan" or text()="Propagováno" or text()="Promoveret" or text()="Anzeige" or text()="Promocionado" or text()="促銷內容" or text()="Post sponsorisé" or text()="프로모션" or text()="Post sponsorizzato" or text()="广告" or text()="プロモーション" or text()="Treść promowana" or text()="Patrocinado" or text()="Promovat" or text()="Продвигается" or text()="Marknadsfört" or text()="Nai-promote" or text()="ได้รับการโปรโมท" or text()="Öne çıkarılan içerik" or text()="الترويج"]/ancestor::div[@data-id]//video[@autoplay="autoplay"])$delay=3';
 www.meijuii.cc##DIV[style*='vw; display: block;']
-www.motchill45.com,teamlanhlung8.shop,xemphimjav.xyz#$#abort-on-property-read localStorage
-www.motchill45.com,trumtruyen.xyz#$#abort-current-inline-script setTimeout Aff
+www.motchill46.com,teamlanhlung8.shop,xemphimjav.xyz#$#abort-on-property-read localStorage
+www.motchill46.com,trumtruyen.xyz#$#abort-current-inline-script setTimeout Aff
 www.nettruyenupp.com#$#abort-on-property-read sp
 www.olevod.com##.B1Lss,.B1Rss
 www.qianwen.com##.leading-7.text-center.w-16.h-7.rounded-8.text-theme.text-12.bg-weaken
