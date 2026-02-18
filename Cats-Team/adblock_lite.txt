@@ -4,8 +4,8 @@
 ! Powerd by Cats-Team
 ! Expires: 1 day (update frequency)
 ! Description: AdRules AdBlock List's Lite Version, And Remove Some Filters
-! Version: 2026-02-18 02:49:49(GMT+8)
-! Total count: 14828
+! Version: 2026-02-18 10:32:08(GMT+8)
+! Total count: 14834
 ###AdBlockDialog
 ###Page-1[stroke='none'][fill='none'][fill-rule='evenodd']
 ###SOHU_MAIN > .module-cmt-float-bar
@@ -832,6 +832,7 @@
 /*/*.add.*.add
 /*Rek|$image,domain=animenova.org|animeplus.tv|gogoanimes.co|gogoanimes.fi|kiss-anime.ws|readcomiconline.to|mangareader.net|animewow.org|animeland.us
 /*_*_aubi.js$third-party
+/*_09c09p09v.js
 /*gek|$image,domain=animenova.org|animeplus.tv|gogoanimes.co|gogoanimes.fi|kiss-anime.ws|readcomiconline.to|mangareader.net|animewow.org|animeland.us
 /160x600adblock.
 /360mse/360mse_*.apk?
@@ -7946,6 +7947,7 @@ zybang.com##.top_download
 ||analytics.yahoo.com^
 ||analyticsengine.s3.amazonaws.com^
 ||analyzecorona.com^$third-party
+||anankesfigurer.com^
 ||ancheonyo.fun^
 ||ancientact.com^$third-party
 ||android.bugly.qq.com^
@@ -9078,6 +9080,7 @@ zybang.com##.top_download
 ||daiyanbao.com/flash/md
 ||dakawm.cc^
 ||daliantong.com.cn^
+||dalkawe.com^
 ||dalld.xyz^
 ||dalmfn.xyz^
 ||damagedadvice.com^$third-party
@@ -10129,6 +10132,7 @@ zybang.com##.top_download
 ||googlesyndication.com/safeframe^$subdocument,document,domain=golfgalaxy.com|dickssportinggoods.com
 ||googletagmanager.com/gtm.js$script,domain=20minutes.ch|20min.ch
 ||googletagmanager.com^
+||gorgeirido.com^
 ||gorgeousedge.com^$third-party
 ||gorgon.youdao.com^
 ||gossamerwing.com^$third-party
@@ -12013,6 +12017,7 @@ zybang.com##.top_download
 ||oslbahk.top^
 ||osmitepicrol.com^
 ||osnignsk.xyz^
+||ossetbulimus.com^
 ||ossfile001.com^
 ||ostlerscil.com^
 ||other.v.duowan.com^
@@ -12787,6 +12792,7 @@ zybang.com##.top_download
 ||sdvsv.com^
 ||sdzhongke.cn^
 ||sealine.youku.com^
+||seamylygeum.com^
 ||searchrecterm.kuwo.cn^$app=cn.kuwo.player
 ||seatsmoke.com^$third-party
 ||secondhandfall.com^$third-party
