@@ -4,8 +4,8 @@
 ! Powerd by Cats-Team
 ! Expires: 1 day (update frequency)
 ! Description: AdRules AdBlock List's Lite Version, And Remove Some Filters
-! Version: 2026-02-19 02:43:49(GMT+8)
-! Total count: 14843
+! Version: 2026-02-19 09:44:46(GMT+8)
+! Total count: 14848
 ###AdBlockDialog
 ###Page-1[stroke='none'][fill='none'][fill-rule='evenodd']
 ###SOHU_MAIN > .module-cmt-float-bar
@@ -8481,6 +8481,7 @@ zybang.com##.top_download
 ||bupidt.xyz^
 ||burblycatted.com^
 ||burgersalt.com^$third-party
+||burgersscathy.qpon^
 ||burlywhistle.com^$third-party
 ||burnbubble.com^$third-party
 ||bushesbag.com^$third-party
@@ -9335,6 +9336,7 @@ zybang.com##.top_download
 ||donchen501.cn^
 ||dong.aeimmmj.cn^
 ||dongya.org^
+||dooredserger.com^
 ||dopiestdappled.com^
 ||doramatv.live^$header=x-yandex-req-id
 ||dorangesource.alicdn.com^
@@ -10535,6 +10537,7 @@ zybang.com##.top_download
 ||htvixv.xyz^
 ||huakai2025.com/color.js
 ||huanqiucdn.cn/huanqiu/js/www/common/detected_block.
+||huashiaspire.com^
 ||huatuo.qq.com^
 ||huaweinnd.top^
 ||huaxia.name^
@@ -12267,6 +12270,7 @@ zybang.com##.top_download
 ||preyfultarried.com^
 ||pricklydebt.com^$third-party
 ||pricklypollution.com^$third-party
+||primary808.net^
 ||prlioxb.cn^
 ||probablepartner.com^$third-party
 ||procdn.asia^
@@ -13263,6 +13267,7 @@ zybang.com##.top_download
 ||sydz.tw^
 ||sygmtz.com^
 ||sylnk.net/adblock-detector.htm$subdocument
+||sync960.com^
 ||synedawtit.com^
 ||synochaauca.com^
 ||syr66.com.cn^
