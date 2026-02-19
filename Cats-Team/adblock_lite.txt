@@ -4,7 +4,7 @@
 ! Powerd by Cats-Team
 ! Expires: 1 day (update frequency)
 ! Description: AdRules AdBlock List's Lite Version, And Remove Some Filters
-! Version: 2026-02-19 14:53:37(GMT+8)
+! Version: 2026-02-19 20:52:09(GMT+8)
 ! Total count: 14848
 ###AdBlockDialog
 ###Page-1[stroke='none'][fill='none'][fill-rule='evenodd']
@@ -4118,7 +4118,6 @@ hianime.*#$#prevent-listener pointerdown; abort-on-iframe-property-read localSto
 hireteen.com###adb-enabled
 hispasexy.org#$#abort-current-inline-script _cpp; abort-current-inline-script decodeURI; abort-on-property-read decodeURIComponent; abort-on-property-write __popunder-event; abort-on-property-read __ampop-init; abort-on-property-read setTimeout;
 hispasexy.org#$#hide-if-matches-xpath './/div[@data-element="overlay"]/div[@data-element][@data-izone]/parent::div[1]'
-historyofhull.co.uk#$#abort-current-inline-script window.addEventListener Ads
 hitfm.ua,kissfm.ua,radiorelax.ua,radioroks.ua,rusradio.ua#$#abort-on-property-write prerole_length
 hitomi.la#$#abort-on-property-read AdProvider
 hitomi.la#$#hide-if-matches-xpath './/iframe[@id][@sandbox][@scrolling]/parent::div[@id][1]'; hide-if-matches-xpath './/*[contains(@class,"top-content") or @class="content"]/div[@class and not(contains(@class, "-"))][1]';
@@ -4989,6 +4988,7 @@ mafengwo.cn###float-pannel-gloable
 mafengwo.cn###smartGuideFeng
 mafengwo.cn##.hotel-banner
 mag.relax.by#$#abort-on-property-read Object.prototype.branding_url
+magarethowell.co.uk#$#abort-current-inline-script window.addEventListener Ads
 magestorm.net##.inner > .corners-top + .topiclist + DIV[style="padding: 5px 5px 2px 5px; font-size: 1.1em; background-color: #ECF1F3; margin: 0px auto; text-align: center;"]
 mail.126.com,mail.163.com##.gWel-bottom
 mail.rambler.ru##.notification-warning
@@ -6498,7 +6498,7 @@ truyen-hentai.com#$#hide-if-matches-xpath './/*[@class]/ancestor-or-self::div[co
 truyen247.pro#$#abort-current-inline-script eval
 truyenqqtto.com,phim.haysex.asia#$#abort-current-inline-script Promise break;case
 truyensextv.com,yanhh3d.to,z.chinav.sex#$#abort-current-inline-script document.addEventListener opup
-truyensieuhay.com,quangcaoyenbai.com,phimchill.life,tv.tvhayhd.org,thefaplive.com,mv.dailyphimz.com,mv.phimbathu.one,sexhihi.fit,anime47.best,teamlanhlung8.shop,forum.timfshare.com,ungtycomicseo.com,honghotduongpho.vn,chich69.top,comong.info#$#abort-on-property-read document.cookie
+truyensieuhay.com,quangcaoyenbai.com,phimchill.life,tv.tvhayhd.org,thefaplive.com,mv.dailyphimz.com,mv.phimbathu.one,sexhihi.fit,anime47.best,teamlanhlung8.shop,forum.timfshare.com,ungtycomicsom.com,honghotduongpho.vn,chich69.top,comong.info#$#abort-on-property-read document.cookie
 tsdm.live###ts_sidebar_base
 tsviewer.com#@#.adsbygoogle
 ttmeiju.me##DIV[style="float:left;margin-bottom:27px;margin-top:27px;"]
@@ -6688,7 +6688,7 @@ view.inews.qq.com#?#div[class^="_"]:-abp-has(>div[data-action-id]>div>.react-swi
 ville-ideale.com###antyp
 ville-ideale.com###enc
 ville-ideale.com###espace
-vinaurl.net,anime13.site,anh.moe,maclife.io,xemphimjav.xyz,hoctot.hocmai.vn,keysmatterinc.com,samtruyentranh.com,player.phimapi.com,noitu.site,sachmoi.net,xfast.sbs,anime47.best,phimsexvn1.co.uk#$#abort-on-property-read open
+vinaurl.net,anime13.site,anh.moe,maclife.io,xemphimjav.xyz,hoctot.hocmai.vn,keysmatterinc.com,samtruyentranh.com,player.phimapi.com,noitu.site,sachmoi.net,xfast.sbs,anime47.best,s2.phimsexvn1.blog#$#abort-on-property-read open
 vip.com##.sidebarcom-qrcode
 vip.com##.wp-phone
 vipbox.online###html3
