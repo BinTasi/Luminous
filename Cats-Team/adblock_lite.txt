@@ -4,8 +4,8 @@
 ! Powerd by Cats-Team
 ! Expires: 1 day (update frequency)
 ! Description: AdRules AdBlock List's Lite Version, And Remove Some Filters
-! Version: 2026-02-20 02:42:50(GMT+8)
-! Total count: 14853
+! Version: 2026-02-20 09:28:07(GMT+8)
+! Total count: 14856
 ###AdBlockDialog
 ###Page-1[stroke='none'][fill='none'][fill-rule='evenodd']
 ###SOHU_MAIN > .module-cmt-float-bar
@@ -8416,6 +8416,7 @@ zybang.com##.top_download
 ||boundlessveil.com^$third-party
 ||boutomeeshaul.com^
 ||bouzechoby.net^
+||boxgridwavelengthsolutions.com^
 ||boxmp4.com/js/foot.js
 ||boxwcr.icu^
 ||boyidianqi.com.cn^
@@ -9784,6 +9785,7 @@ zybang.com##.top_download
 ||feignedfaucet.com^$third-party
 ||feijisu*.com/js/huimi-
 ||feiln.xyz^
+||felonesbeman.com^
 ||fengbuy.com/recommend-new.
 ||fengniao.com*/pv.js
 ||fengyukun03.cn^
@@ -11662,6 +11664,7 @@ zybang.com##.top_download
 ||motuopj.cn^
 ||mournerslath.com^
 ||mouseflow.com^
+||moutonstumeric.com^
 ||movemeal.com^$third-party
 ||mowgoats.com^$third-party
 ||moxiaoqihuoguo.com^
