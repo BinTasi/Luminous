@@ -4,8 +4,8 @@
 ! Powerd by Cats-Team
 ! Expires: 1 day (update frequency)
 ! Description: AdRules AdBlock List's Lite Version, And Remove Some Filters
-! Version: 2026-02-23 14:57:24(GMT+8)
-! Total count: 14859
+! Version: 2026-02-23 20:51:42(GMT+8)
+! Total count: 14862
 ###AdBlockDialog
 ###Page-1[stroke='none'][fill='none'][fill-rule='evenodd']
 ###SOHU_MAIN > .module-cmt-float-bar
@@ -3641,7 +3641,7 @@ exashare.com##[href="http://www.videohube.eu/script/url.php?c=ep"]
 exashare.com,dowed.info###player_mgo
 exashare.com,dowed.info###player_mgs
 exler.ru##.adblock-pls
-exokit.org,motchillz.sh,onflix.me#$#prevent-listener click ads
+exokit.org,motchillzr.io,onflix.me,motchillzr.io#$#prevent-listener click ads
 expres.cz##.barMan
 expres.cz##[class^="r-main"]
 expres.cz##a[href*="/supertag=InstreamVideo/"]
@@ -4989,7 +4989,6 @@ mafengwo.cn###float-pannel-gloable
 mafengwo.cn###smartGuideFeng
 mafengwo.cn##.hotel-banner
 mag.relax.by#$#abort-on-property-read Object.prototype.branding_url
-magarethowell.co.uk#$#abort-current-inline-script window.addEventListener Ads
 magestorm.net##.inner > .corners-top + .topiclist + DIV[style="padding: 5px 5px 2px 5px; font-size: 1.1em; background-color: #ECF1F3; margin: 0px auto; text-align: center;"]
 mail.126.com,mail.163.com##.gWel-bottom
 mail.rambler.ru##.notification-warning
@@ -5046,6 +5045,7 @@ marketrealist.com,kansas.com,thenewstribune.com#$#abort-on-property-read $aproxy
 marketwatch.com#$#hide-if-contains-visible-text /Advertisement/ 'div[class^="container"]' 'div>span'
 marketwatch.com#$#hide-if-matches-xpath './/img/following-sibling::span[contains(text(),"Ad Block")]/ancestor::div/ancestor::div[string-length(@class) >26]'; hide-if-matches-xpath './/div[@style][@class][@data-dianomi-context-id]//img[@style]/following::iframe[@style][contains(@title,"Dianomi ad")]/ancestor::div[string-length(@class) >26][1]';
 marketwatch.com,wsj.com#$#abort-on-property-write window.__buildAd;
+marlboroughlionsclub.co.uk#$#abort-current-inline-script window.addEventListener Ads
 masahub.net,sbanh.com,sbembed.com,sblona.com,sblongvu.com,sbrapid.com,streamsb.com,streamsb.net#$#abort-on-property-read decodeURI; abort-on-property-read mm
 match.tdping.com##P[style='text-align:left;margin:0;'],td.livetitle > L
 math-prosto.ru###requestShutOfBlocker
@@ -6676,7 +6676,7 @@ vidshare.tv,govid.*,hdvid.tv,gomovies.*,gostream.nu,openloadmovies.*,flashx.tv,c
 vidshare.tv,vidshar.tv,series.movie,gowatchseries.movie,gowatchseries.tv#$#abort-current-inline-script Object.defineProperty XMLHttpRequest
 vidsrc.*,cucuflix.*#$#abort-current-inline-script document.createElement /referrerPolicy.*no-referrer-when-downgrade/;
 vidup.to#$#abort-current-inline-script addEventListener HTMLAllCollection;
-viet69.bi,dualeotruyenvh.com,yurineko.my,lx9x.net,cliphot69.shop,doctruyen3qhubx.com,ihentai.network,animehay.icu,hentaivc.vip,streamvl.top,buomtv.media,truyenvn.shop,javtiful.com,quatvn.my,phimsexhayvn96.com,phim18hdxx.com,vn6.sexviet88.xyz,demo.14412882.com,xinhmupvn.net,hhtq5.vip,sexdiary.club,vn2.xvideos69.xxx,umetruyenz.org,damconuong.app,truyenqqno.com,clipsexsub3x.net,sayhentai.world,motphim.pokemonviet.com,lxmanga.space,phimlongtieng.net,newtruyenhot.pro,www.sieutamphim.pro,vevocloud.com,sex.xinh3x.me,sexviet88.xyz,viet69.bi,goctruyentranhvui19.com,viet69vn.at#$#abort-current-inline-script WebAssembly instantiate
+viet69.bi,dualeotruyenvh.com,yurineko.my,ucsatinal.net,cliphot69.shop,doctruyen3qhubx.com,ihentai.network,animehay.icu,hentaivc.vip,streamvl.top,buomtv.media,truyenvn.shop,javtiful.com,quatvn.my,phimsexhayvn96.com,phim18hdxx.com,vn6.sexviet88.xyz,demo.14412882.com,xinhmupvn.net,hhtq5.vip,sexdiary.club,vn2.xvideos69.xxx,umetruyenz.org,damconuong.app,truyenqqno.com,clipsexsub3x.net,sayhentai.world,motphim.pokemonviet.com,lxmanga.space,phimlongtieng.net,newtruyenhot.pro,www.sieutamphim.pro,vevocloud.com,sex.xinh3x.me,sexviet88.xyz,viet69.bi,goctruyentranhvui19.com,viet69vn.at#$#abort-current-inline-script WebAssembly instantiate
 view.inews.qq.com##div[class^="article-recommend_wrapper"]
 view.inews.qq.com##div[class^="bottom-bar_buttonWrap"]
 view.inews.qq.com##div[class^="infinite-comment-list_subText"]
@@ -8212,6 +8212,7 @@ zybang.com##.top_download
 ||banners-cdn77.trafficfactory.biz^
 ||banzou.name/qq/qq2.js
 ||barbarousbase.com^$third-party
+||bardismshagbag.com^
 ||barflyevolver.com^
 ||bariesnaw.com^
 ||barscreative1.com^
@@ -8548,6 +8549,7 @@ zybang.com##.top_download
 ||calmlydagesh.com^
 ||calypsocapsule.com^$third-party
 ||calyxesdefames.com^
+||camarongabertduftry.cyou^
 ||camconnections.live^$xmlhttprequest,domain=gayporntube.com
 ||camep.xyz^
 ||cancannicolas.com^
@@ -10695,6 +10697,7 @@ zybang.com##.top_download
 ||imp.zol.com.cn^
 ||impactbitcompoundsystems.net^
 ||impedegrimy.com^
+||impeditenomoty.com^
 ||importedincrease.com^$third-party
 ||importedinsect.com^$third-party
 ||importlocate.com^$third-party
