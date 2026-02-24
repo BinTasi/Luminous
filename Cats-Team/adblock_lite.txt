@@ -4,8 +4,8 @@
 ! Powerd by Cats-Team
 ! Expires: 1 day (update frequency)
 ! Description: AdRules AdBlock List's Lite Version, And Remove Some Filters
-! Version: 2026-02-24 14:53:04(GMT+8)
-! Total count: 14862
+! Version: 2026-02-24 20:52:29(GMT+8)
+! Total count: 14868
 ###AdBlockDialog
 ###Page-1[stroke='none'][fill='none'][fill-rule='evenodd']
 ###SOHU_MAIN > .module-cmt-float-bar
@@ -3116,7 +3116,7 @@ calidadcine.net,seriesmetro.net#$#abort-on-property-read afStorage
 camcaps.*,vidello.net#$#abort-on-property-write popUnder
 camsstream.com#$#abort-current-inline-script onload;
 canhasbitcoin.com###adblock-message
-cap3.life#$#prevent-listener click /setTimeout|e\.target/; prevent-listener click d .art-control-fullscreen; prevent-listener fullscreenchange e.target;
+cap3.website#$#prevent-listener click /setTimeout|e\.target/; prevent-listener click d .art-control-fullscreen; prevent-listener fullscreenchange e.target;
 cars.com#$#hide-if-matches-xpath './/span[contains(@class,"hero-cta-tag")][contains(text(),"Sponsored")]/preceding::img[@class="sponsored-hero-cta"]/ancestor::a[@aria-describedby][contains(@href,"adclick")]/ancestor-or-self::section[@id="primary-hero"]'
 cars.com#$#hide-if-matches-xpath './/spark-badge[@variant="text"][@class="sp-badge"]/following::spark-button[@data-sponsored="true"]/ancestor-or-self::div[contains(@class,"inventory-")][1]'
 cast4u.tv###notice
@@ -9055,6 +9055,7 @@ zybang.com##.top_download
 ||d1zhmd1pxxxajf.cloudfront.net^
 ||d20903hof2l33q.cloudfront.net^
 ||d227cncaprzd7y.cloudfront.net^
+||d2f5h9m0jmnhjh.cloudfront.net^
 ||d2san7t27xb2pn.cloudfront.net^$script,image
 ||d2t7a3zbo166a9.cloudfront.net^$script,image
 ||d2wlwbnaa4keje.cloudfront.net^$script,image
@@ -9854,6 +9855,7 @@ zybang.com##.top_download
 ||flakyfeast.com^$third-party
 ||flameuncle.com^$third-party
 ||flash.banners-service.info^
+||flexmesonyx.com^
 ||flimsycircle.com^$third-party
 ||flimsythought.com^$third-party
 ||flippedfunnel.com^$third-party
@@ -10050,6 +10052,7 @@ zybang.com##.top_download
 ||geekbackyard.com^$third-party
 ||geiod.xyz^
 ||gemaricspieled.com^
+||gemelsprofile.cfd^
 ||gemini.yahoo.com^
 ||generalprose.com^$third-party
 ||generateoffice.com^$third-party
@@ -10501,6 +10504,7 @@ zybang.com##.top_download
 ||hoodlumbragget.com^
 ||hookconference.com^$third-party
 ||hopefullyapricot.com^
+||horizoncodeflowsolutions.com^
 ||hornywood.tv/Webservices/jsParseLinks.aspx$script,third-party
 ||hornywood.tv/visitScript/$script,third-party
 ||hospitablehall.com^$third-party
@@ -11705,6 +11709,7 @@ zybang.com##.top_download
 ||mujkdna.xyz^
 ||mundanenail.com^$third-party
 ||mundanepollution.com^$third-party
+||muragetunnel.com^
 ||music.163.com/weapi/activity/downloadpage/config/get
 ||music.163.com^$domain=mvcat.com
 ||musicfire.googlecode.com/files/AD.Loader-min.js
@@ -13737,6 +13742,7 @@ zybang.com##.top_download
 ||unknowntray.com^$third-party
 ||unpleasantconcrete.com^
 ||unrigscsc.com^
+||unslotdrouk.com^
 ||untidyquestion.com^$third-party
 ||untidyrice.com^$third-party
 ||unusedstone.com^$third-party
