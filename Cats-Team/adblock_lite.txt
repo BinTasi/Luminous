@@ -4,8 +4,8 @@
 ! Powerd by Cats-Team
 ! Expires: 1 day (update frequency)
 ! Description: AdRules AdBlock List's Lite Version, And Remove Some Filters
-! Version: 2026-02-25 20:51:47(GMT+8)
-! Total count: 14840
+! Version: 2026-02-26 02:57:17(GMT+8)
+! Total count: 14844
 ###AdBlockDialog
 ###Page-1[stroke='none'][fill='none'][fill-rule='evenodd']
 ###SOHU_MAIN > .module-cmt-float-bar
@@ -7710,6 +7710,7 @@ zybang.com##.top_download
 ||abtt.pufenchuanmu.com^
 ||abundantcoin.com^$third-party
 ||abusivejaped.com^
+||acararithetic.com^
 ||accountsdoor.com^$third-party
 ||accurateanimal.com^$third-party
 ||accuratecoal.com^$third-party
@@ -8487,6 +8488,7 @@ zybang.com##.top_download
 ||buhgalter.com.ua^*/blocker.
 ||buhgalter911.com^*/blocker.
 ||buildingknife.com^$third-party
+||buisthainan.com^
 ||bujiangjiu123.com^
 ||bukhscrithe.com^
 ||bulbbait.com^$third-party
@@ -9530,6 +9532,7 @@ zybang.com##.top_download
 ||elasticchange.com^$third-party
 ||elderlybean.com^$third-party
 ||elderlytown.com^$third-party
+||electron8.net^
 ||elegant-creator.com^
 ||elephantqueue.com^$third-party
 ||elevatorpartsbuy.com^
@@ -13539,6 +13542,7 @@ zybang.com##.top_download
 ||tremendoustime.com^$third-party
 ||trends.com.cn/k.js
 ||trfmxf.xyz^
+||trineswashrag.qpon^
 ||trippetforhow.com^
 ||tripsisvellums.com^
 ||tristoshink.online/libs/check.js
