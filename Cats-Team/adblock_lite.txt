@@ -4,8 +4,8 @@
 ! Powerd by Cats-Team
 ! Expires: 1 day (update frequency)
 ! Description: AdRules AdBlock List's Lite Version, And Remove Some Filters
-! Version: 2026-02-27 20:43:44(GMT+8)
-! Total count: 14853
+! Version: 2026-02-28 02:33:51(GMT+8)
+! Total count: 14857
 ###AdBlockDialog
 ###Page-1[stroke='none'][fill='none'][fill-rule='evenodd']
 ###SOHU_MAIN > .module-cmt-float-bar
@@ -7730,6 +7730,7 @@ zybang.com##.top_download
 ||acsc10.com^
 ||acscdn.com^
 ||activepr.ru^$domain=torrent-rutor.org
+||activinerratas.cfd^
 ||activity.hnhnmg.com^
 ||actuallysheep.com^$third-party
 ||actuallysnake.com^$third-party
@@ -12595,6 +12596,7 @@ zybang.com##.top_download
 ||rethephrased.com^
 ||retinaspealer.com^
 ||retrievemint.com^$third-party
+||retuneprofess.com^
 ||rf.cnlongshou.com^
 ||rfnenr.xyz^
 ||rfnhwaj.cn^
@@ -12997,6 +12999,7 @@ zybang.com##.top_download
 ||skxuueby.cn^
 ||sky.tongjiai.com^
 ||skyrock.net/img/*/adblock/
+||slavirappels.com^
 ||slaysweater.com^$third-party
 ||slfango.ltd^
 ||slimyscarf.com^$third-party
@@ -13272,6 +13275,7 @@ zybang.com##.top_download
 ||sydz.tw^
 ||sygmtz.com^
 ||sylnk.net/adblock-detector.htm$subdocument
+||synapse22.net^
 ||sync960.com^
 ||synedawtit.com^
 ||synochaauca.com^
