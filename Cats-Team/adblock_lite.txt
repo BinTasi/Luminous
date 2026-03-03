@@ -1,10 +1,12 @@
 [Adblock Plus 2.0]
 ! Title: AdRules AdBlock List Lite 
 ! Homepage: https://github.com/Cats-Team/AdRules
-! Powerd by Cats-Team
+! Powered by Cats-Team & Upstream Authors
 ! Expires: 1 day (update frequency)
-! Description: AdRules AdBlock List's Lite Version, And Remove Some Filters
-! Version: 2026-03-03 21:28:29(GMT+8)
+! Description: Lite version of the AdRules AdBlock List, optimized for mobile devices.
+! License: Inherits upstream licenses (GPL-3.0, CC BY-SA 4.0, etc.)
+! Upstream Sources: https://github.com/Cats-Team/AdRules/blob/script/Source.md
+! Version: 2026-03-03 22:31:09(GMT+8)
 ! Total count: 14842
 ###AdBlockDialog
 ###Page-1[stroke='none'][fill='none'][fill-rule='evenodd']
