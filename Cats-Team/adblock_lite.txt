@@ -6,8 +6,8 @@
 ! Description: Lite version of the AdRules AdBlock List, optimized for mobile devices.
 ! License: Inherits upstream licenses (GPL-3.0, CC BY-SA 4.0, etc.)
 ! Upstream Sources: https://github.com/Cats-Team/AdRules/blob/script/Source.md
-! Version: 2026-03-04 09:27:06(GMT+8)
-! Total count: 14842
+! Version: 2026-03-04 15:16:35(GMT+8)
+! Total count: 14844
 ###AdBlockDialog
 ###Page-1[stroke='none'][fill='none'][fill-rule='evenodd']
 ###SOHU_MAIN > .module-cmt-float-bar
@@ -3028,7 +3028,9 @@ bing.com,cn.bing.net##.b_algo:has(.b_ads1line)
 bing.com,cn.bing.net##.b_algo:has(.rms_img[src*="/th?id=OADD2."][src$="21.2"])
 bing.com,cn.bing.net##.b_algo:has(.rms_img[src*="=AdsPlus"])
 bing.com,cn.bing.net##.b_algo:has([tabindex="0"][role="link"])
+bing.com,cn.bing.net##.b_ans
 bing.com,cn.bing.net##.b_ans:has([class^="xm_"][class*="_ansCont"])
+bing.com,cn.bing.net##.b_bza_pole
 bing.com,cn.bing.net##.pa_sb
 bing.com,cn.bing.net##a[h$=",Ads"]
 bing.com,cn.bing.net##a[href*="/aclick?ld="]
@@ -3231,7 +3233,6 @@ cmmonitor.com#@#.adsbygoogle
 cn.bing.com##.bnp_rich_div_visible.bottom
 cn.bing.com##.bnp_rich_div_visible.top
 cn.bing.com#$#hide-if-contains 360 #b_results>li .b_adProvider
-cn.bing.com,cn.bing.net##.b_bza_pole
 cnbeta.com##.wdj_box
 cnbeta.com##DIV[style="display:block !important;position:fixed;bottom:0;margin-top:10px;width:100%;background:#c44;color:#fff;font-size:15px;z-index:99999"]
 cnbeta.com##div[id][style^="position: fixed; bottom: 0px;"]
@@ -8527,6 +8528,7 @@ zybang.com##.top_download
 ||byjykj.xyz^
 ||bytecdn.cn/ta/resource/v0/analytics.js
 ||byvlph.xyz^
+||bz*.com/js/cdn.
 ||bzhn9y.icu^
 ||bzqqftz.icu^
 ||bzxvtj.xyz^
