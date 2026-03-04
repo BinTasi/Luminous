@@ -6,8 +6,8 @@
 ! Description: Lite version of the AdRules AdBlock List, optimized for mobile devices.
 ! License: Inherits upstream licenses (GPL-3.0, CC BY-SA 4.0, etc.)
 ! Upstream Sources: https://github.com/Cats-Team/AdRules/blob/script/Source.md
-! Version: 2026-03-04 20:41:38(GMT+8)
-! Total count: 14844
+! Version: 2026-03-05 02:39:27(GMT+8)
+! Total count: 14846
 ###AdBlockDialog
 ###Page-1[stroke='none'][fill='none'][fill-rule='evenodd']
 ###SOHU_MAIN > .module-cmt-float-bar
@@ -2947,9 +2947,6 @@ banzou.name###ads_2
 banzou.name###appfu
 banzou.name###daiyan
 baomoi.com#$#abort-on-property-write AdtimaRender
-barefootblonde.com#$#abort-current-inline-script jQuery open
-barefootblonde.com#$#hide-if-matches-xpath './/div[@id or @class]/p/a[@title]/ancestor-or-self::div[1]'
-barefootblonde.com#$#override-property-read adsPlayer '';override-property-read adsTvcs ''
 bato.to#$#abort-current-inline-script document.createElement _vwmso
 batporno.com#$#abort-on-property-read decodeURI
 baytorrent.eu.org,europixhd.com,europixhd.net,file-up.org,force-download.com,force-download.es,force-download.net,gledajonline.net,hdeuropix.io,loadsubs.net,novom.ru,pirateproxy.earth,pirateproxy.live,thehiddenbay.com,thepiratebay.org,thepiratebay.vip,thepiratebay10.org,topeuropix.net,tpb.party,uploadproper.com,uploadproper.net#$#abort-on-property-read atob
@@ -3229,6 +3226,7 @@ cloudnestra.com,seeflix.*,stellarthread.com#$#abort-on-property-read aclib
 clubedohardware.com.br#@##banner
 clubedohardware.com.br#@#.ipsAd
 clubedohardware.com.br#@#.nexusad
+cmangax14.com#$#cookie-remover ads_num true
 cmmonitor.com#@#.adsbygoogle
 cn.bing.com##.bnp_rich_div_visible.bottom
 cn.bing.com##.bnp_rich_div_visible.top
@@ -4219,6 +4217,9 @@ iciba.com##.cb-downmask
 iciba.com##.info-product
 iciba.com##.pc-entry
 iciba.com##div[class^="Kyad_"]
+identitypoliticspod.com#$#abort-current-inline-script jQuery open
+identitypoliticspod.com#$#hide-if-matches-xpath './/div[@id or @class]/p/a[@title]/ancestor-or-self::div[1]'
+identitypoliticspod.com#$#override-property-read adsPlayer '';override-property-read adsTvcs ''
 ideya-biznesa.ru##.admania_adblock_detector
 idiva.com#?#div:-abp-has(> h2:-abp-contains(More From Web))
 idnes.cz##.cookie-info
@@ -6644,7 +6645,7 @@ v.qq.com##.svg_icon_client.svg_quick_icon
 v.youku.com##.laifeng
 v11av.xyz##.content__body [rel='nofollow'][href][target='_blank']
 v11av.xyz##.row.q-ma-none A[rel='noopener nofollow'][href][style='display: block;']
-vailonxx.co#$#abort-current-inline-script jQuery window.open
+vailonxx.me#$#abort-current-inline-script jQuery window.open
 vardembed.xyz,videovard.sx###MyDickIsFat
 vardembed.xyz,videovard.sx###NotReallyYouHaveSmallOne
 vardembed.xyz,videovard.sx#$#json-prune ads_mode
@@ -6695,7 +6696,7 @@ vidmoly.to###dos_vlock
 vidshare.tv,govid.*,hdvid.tv,gomovies.*,gostream.nu,openloadmovies.*,flashx.tv,cloudvideo.tv#$#abort-on-property-write Fingerprint2
 vidshare.tv,vidshar.tv,series.movie,gowatchseries.*#$#abort-current-inline-script Object.defineProperty XMLHttpRequest
 vidsrc.*,cucuflix.*#$#abort-current-inline-script document.createElement /referrerPolicy.*no-referrer-when-downgrade/;
-viet69.ke,dualeotruyenky.com,yurineko.my,haxcore.net,cliphot69.shop,doctruyen3qhubs.com,ihentai.network,chuyentiepanimehay.one,hentaivc.blog,streamvl.top,buomtv.media,truyenvn.shop,javtiful.com,quatvn.my,phimsexhayvn96.com,phim18hdxx.com,vn6.sexviet88.xyz,demo.14412882.com,xem.phimnung3x.pro,hhtq5.vip,sexdiary.club,vn2.xvideos69.xxx,umetruyenz.org,damconuong.city,truyenqqno.com,clipsexsub3x.net,sayhentai.world,motphim.pokemonviet.com,lxmanga.space,phimlongtieng.net,newtruyentranh7.com,www.sieutamphim.pro,vevocloud.com,sex.xinh3x.me,sexviet88.xyz,viet69.ke,goctruyentranhvui19.com,viet69vn.at#$#abort-current-inline-script WebAssembly instantiate
+viet69.ke,dualeotruyenky.com,yurineko.my,haxcore.net,cliphot69.shop,doctruyen3qhubs.com,ihentai.network,chuyentiepanimehay.one,hentaivc.blog,streamvl.top,buomtv.media,truyenvn.shop,javtiful.com,quatvn.my,phimsexhayvn96.com,phim18hdxx.com,vn6.sexviet88.xyz,demo.14412882.com,xem.phimnung3x.pro,hhtq5.vip,sexdiary.club,vn2.xvideos69.xxx,umetruyenz.org,damconuong.city,truyenqqno.com,clipsexsub3x.net,sayhentai.vc,motphim.pokemonviet.com,lxmanga.space,phimlongtieng.net,newtruyentranh7.com,www.sieutamphim.pro,vevocloud.com,sex.xinh3x.me,sexviet88.xyz,viet69.ke,goctruyentranhvui19.com,viet69vn.at#$#abort-current-inline-script WebAssembly instantiate
 view.inews.qq.com##div[class^="article-recommend_wrapper"]
 view.inews.qq.com##div[class^="bottom-bar_buttonWrap"]
 view.inews.qq.com##div[class^="infinite-comment-list_subText"]
@@ -9938,6 +9939,7 @@ zybang.com##.top_download
 ||freevaluator.com^*/js/check.js
 ||freezingbuilding.com^$third-party
 ||frequentflesh.com^$third-party
+||freshacceleronparalleldynamics.net^
 ||freshmarketer.com^
 ||freychang.fun^
 ||friedone.com^$third-party
