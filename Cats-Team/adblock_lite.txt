@@ -6,8 +6,8 @@
 ! Description: Lite version of the AdRules AdBlock List, optimized for mobile devices.
 ! License: Inherits upstream licenses (GPL-3.0, CC BY-SA 4.0, etc.)
 ! Upstream Sources: https://github.com/Cats-Team/AdRules/blob/script/Source.md
-! Version: 2026-03-06 03:11:09(GMT+8)
-! Total count: 14869
+! Version: 2026-03-06 09:43:15(GMT+8)
+! Total count: 14875
 ###AdBlockDialog
 ###Page-1[stroke='none'][fill='none'][fill-rule='evenodd']
 ###SOHU_MAIN > .module-cmt-float-bar
@@ -8571,6 +8571,7 @@ zybang.com##.top_download
 ||caardinal.com^
 ||cabalsoftish.com^
 ||cad.youku.com^
+||caffeolagas.cyou^
 ||caider.fun^
 ||caimei.me^
 ||caimlkh.com^
@@ -11676,6 +11677,7 @@ zybang.com##.top_download
 ||monsteredward.com^
 ||moobtcnse.xyz^
 ||moon.ibytecdn.cn^
+||mopusescrusca.com^
 ||morsalurluch.com^
 ||mosangkeji.com^
 ||mosflower.cn^
@@ -12588,6 +12590,7 @@ zybang.com##.top_download
 ||remfebd.cn^
 ||reminews.com^
 ||remotupload.com/js/bigtouch.js$script
+||renderstreamshuttleanalytics.net^
 ||rengbali.fun^
 ||renhadmasandbab.info^
 ||renzhen8.cn^
@@ -12767,6 +12770,7 @@ zybang.com##.top_download
 ||sbldw.cn^
 ||sc-gov-cn.website^
 ||scalarsmartfoundationindustries.com^
+||scandiakenyan.com^
 ||scannapp.xyz^
 ||scarcecard.com^$third-party
 ||scarcesign.com^$third-party
@@ -13833,6 +13837,7 @@ zybang.com##.top_download
 ||vanfireworks.com^$third-party
 ||vanishmemory.com^$third-party
 ||vapingunderground.com/js/vapingunderground/3253a5a323gaw352.js$domain=vapingunderground.com
+||varangigou.com^
 ||vaxgyly.cn^
 ||vazhno.ru/cdn-cgi/apps/head/*.js
 ||vbc08111op.com^
@@ -13967,6 +13972,7 @@ zybang.com##.top_download
 ||wap.bntxt.com^
 ||wap.gxzhshop.com^
 ||wap2.laogu.wang^
+||wapperrattage.com^
 ||warmafterthought.com^$third-party
 ||warmquiver.com^$third-party
 ||warnermedia.com/api/v1/events?*=ad-break*^$xmlhttprequest,domain=cnn.com
