@@ -6,8 +6,8 @@
 ! Description: Lite version of the AdRules AdBlock List, optimized for mobile devices.
 ! License: Inherits upstream licenses (GPL-3.0, CC BY-SA 4.0, etc.)
 ! Upstream Sources: https://github.com/Cats-Team/AdRules/blob/script/Source.md
-! Version: 2026-03-09 14:54:32(GMT+8)
-! Total count: 14876
+! Version: 2026-03-09 20:50:10(GMT+8)
+! Total count: 14880
 ###AdBlockDialog
 ###Page-1[stroke='none'][fill='none'][fill-rule='evenodd']
 ###SOHU_MAIN > .module-cmt-float-bar
@@ -3632,7 +3632,6 @@ eic.org.cn##.lx-btm-box
 elahmad.com#@##adblock
 electric-house.ru##.blok_forum > div[style]
 elhow.ru###b-info-wrapper
-elkiosko.online#$#abort-current-inline-script window.addEventListener Ads
 embed.media,fembed.com,fmovies.*,flashx.tv,gaobook.review,hxfile.co,mavplay.xyz,myyouporn.com,streamm4u.com.co,solarmovie.*,supervideo.cc,vaplayer.xyz,vizcloud.*,xstreamcdn.com#$#abort-on-property-read AaDetector
 embeducaster.com###impo_overlay
 embedupload.com#@#.pub_300x250
@@ -5206,7 +5205,7 @@ monkeydtruyen.com#$#simulate-mouse-event '.affClick[style=" display:block; "]' '
 monoschinos2.com#$#abort-current-inline-script EventTarget.prototype.addEventListener encodeURIComponent
 monoschinos2.com#$#abort-on-property-read _0x24d7; abort-on-property-read _0x41ed; abort-on-property-read _0xf59bf3; abort-on-property-read a3klsam
 moredesi.com#$#abort-on-property-read __formatsGetters
-motchillk.vip#$#abort-on-property-read sessionStorage
+motchillk.soy#$#abort-on-property-read sessionStorage
 motorbikecatalog.com#$#override-property-read window.navigator.connection.rtt 1001
 motorpage.ru#$#json-prune '0.BannerId 1.BannerId 2.BannerId 3.BannerId 4.BannerId 5.BannerId 6.BannerId'
 motortrend.com#$#hide-if-matches-xpath './/div[contains(@id,"ad-id-curated_abovenavad")][@data-ad="true"]/parent::div[contains(@class,"cls-helper")][1]'
@@ -5513,6 +5512,7 @@ oraridiapertura24.it#$#override-property-read window.navigator.connection.rtt 10
 oschina.net##.recruitment
 osobnosti.cz##.hide-screenbot
 oss-cn-hangzhou.aliyuncs.com##A.hm_item[href^='https://tcs-devops.aliyuncs.com/thumbnail/']
+ostriacapri.com#$#abort-current-inline-script window.addEventListener Ads
 ostroh.info###modal.modal-bg
 ot-boutique.fr#@##publicite
 otzovik.com#$#abort-on-property-read Object.prototype.RtbBlockCreateWrapper
@@ -5574,7 +5574,7 @@ ph4.ru##table[width][height="90"][style]
 pheclip.love,phim18vip.top,sieudam.sh#$#abort-current-inline-script $ pop
 phimhdplus.com#$#json-prune ads; abort-current-inline-script setTimeout click_time
 phimlongtieng.net#$#abort-current-inline-script document.createElement script
-phimmoii.nl,sendpage.org,onflix.me,sendpage.org#$#prevent-listener click ads
+phimmoii.nl,motchillzr.sh,onflix.me#$#prevent-listener click ads
 phimtho.cc#$#abort-current-inline-script $ p0pUpRandom
 phimvuihd.one#$#override-property-read urlAds ''
 phonearena.com##.adblock_awareness
@@ -5968,7 +5968,7 @@ setn.com##.rightFloat
 settlersonlinemaps.com###prb
 sex-studentki.gold,seks-studentki.pro#$#prevent-listener DOMContentLoaded click_time
 sex.javnong.cc#$#abort-on-property-read Math.round
-sextop1.dad,hhvsub1.com#$#abort-current-inline-script WebAssembly globalThis
+sextop1.uno,hhvsub1.com#$#abort-current-inline-script WebAssembly globalThis
 sexvid.*##div[class^="sp-player visible"][id^="sp-player"]
 sexvid.*#$#abort-on-property-read atob; abort-current-inline-script document.write /promo/; override-property-read window.diptr undefined; abort-on-property-read window.pu; abort-current-inline-script document.write iframe;
 seznam.cz#$#override-property-read sssp emptyObj
@@ -6716,7 +6716,7 @@ vidmoly.to###dos_vlock
 vidshare.tv,govid.*,hdvid.tv,gomovies.*,gostream.nu,openloadmovies.*,flashx.tv,cloudvideo.tv#$#abort-on-property-write Fingerprint2
 vidshare.tv,vidshar.tv,series.movie,gowatchseries.*#$#abort-current-inline-script Object.defineProperty XMLHttpRequest
 vidsrc.*,cucuflix.*#$#abort-current-inline-script document.createElement /referrerPolicy.*no-referrer-when-downgrade/;
-viet69.ke,dualeotruyenky.com,yurineko.my,lauxanh9x.net,cliphot69.shop,doctruyen3qhubs.com,ihentai.network,chuyentiepanimehay.one,hentaivc.blog,streamvl.top,buomtv.media,truyenvn.shop,javtiful.com,quatvn.my,phimsexhayvn96.com,phim18hdxx.com,vn6.sexviet88.xyz,demo.14412882.com,xem.phimnung3x.pro,hhtq5.vip,sexdiary.club,vn2.xvideos69.xxx,umetruyenz.org,damconuong.city,truyenqqno.com,clipsexsub3x.net,sayhentai.vc,motphim.pokemonviet.com,lxmanga.space,phimlongtieng.net,newtruyentranh7.com,www.sieutamphim.pro,vevocloud.com,sex.xinh3x.me,sexviet88.xyz,viet69.ke,goctruyentranhvui19.com,viet69vn.at#$#abort-current-inline-script WebAssembly instantiate
+viet69.ke,dualeotruyenky.com,yurineko.my,kopekilani.net,cliphot69.shop,doctruyen3qhubs.com,ihentai.network,chuyentiepanimehay.one,hentaivc.blog,streamvl.top,buomtv.media,truyenvn.shop,javtiful.com,quatvn.my,phimsexhayvn96.com,phim18hdxx.com,vn6.sexviet88.xyz,demo.14412882.com,xx.phimnung3x.pro,hhtq5.vip,sexdiary.club,vn2.xvideos69.xxx,umetruyenz.org,damconuong.city,truyenqqno.com,clipsexsub3x.net,sayhentai.vc,motphim.pokemonviet.com,lxmanga.space,phimlongtieng.net,newtruyentranh7.com,www.sieutamphim.pro,vevocloud.com,sex.xinh3x.me,sexviet88.xyz,goctruyentranhvui19.com,viet69vn.at,misskon.com#$#abort-current-inline-script WebAssembly instantiate
 view.inews.qq.com##div[class^="article-recommend_wrapper"]
 view.inews.qq.com##div[class^="bottom-bar_buttonWrap"]
 view.inews.qq.com##div[class^="infinite-comment-list_subText"]
@@ -7003,7 +7003,6 @@ xdf.cn##.footadv
 xdf.cn##.middleadv
 xdf.cn##.popup-wrap
 xdf.cn##div[style="position:fixed;top:120px;left:4px;width:210px;height:298px;isplay:block;background-position:initial initial;background-repeat:no-repeat no-repeat;"]
-xem.phimnung3x.pro#$#abort-on-property-read Cookies
 xem16.net#$#json-prune props.children.[].props.tvc
 xemphim.site,animet.org,motchillzz.site#$#override-property-read maxAds 0
 xgroovy.com#$#hide-if-matches-xpath './/div[@class and @style]/div[@class][@id]/div[@class]/ancestor-or-self::div[@class][contains(@style,"order")][1]'; hide-if-matches-xpath './/a[@real-href][@onmouseup]//div[@style]/ancestor::div[@class][2]';
@@ -7045,9 +7044,9 @@ xnxx-sex-videos.com#$#abort-current-inline-script setTimeout /window.location/
 xnxx-sex-videos.com#$#override-property-read user_out false
 xnxx-sexfilme.com#$#abort-on-property-read open; abort-on-property-write SpacialUp;
 xnxx-sexfilme.com#$#hide-if-matches-xpath './/span[contains(text(),"Advertisement")]/parent::div[@class][1]'; hide-if-matches-xpath './/div[contains(@class,"logo")]/ancestor::div[@data-ga_action="join"]/ancestor::aside[@id][1]';
-xoilaczzlz.tv#$#abort-current-inline-script jQuery open
-xoilaczzlz.tv#$#hide-if-matches-xpath './/div[@id or @class]/p/a[@title]/ancestor-or-self::div[1]'
-xoilaczzlz.tv#$#override-property-read adsPlayer ''; override-property-read adsTvcs ''
+xoilaczznz.tv#$#abort-current-inline-script jQuery open
+xoilaczznz.tv#$#hide-if-matches-xpath './/div[@id or @class]/p/a[@title]/ancestor-or-self::div[1]'
+xoilaczznz.tv#$#override-property-read adsPlayer ''; override-property-read adsTvcs ''
 xpornium.net#$#abort-on-property-write _pop; prevent-listener '' dtnoppu; abort-current-inline-script document.createElement window.open
 xstud.org#$#abort-on-property-read _0xd07e
 xtuan.com###foot_zhaobiao_bar
@@ -7069,6 +7068,7 @@ xw.qq.com#?#.btn-app:contains(打开)
 xw.qq.com#?#.comment.follow_top:contains(热评)
 xw.qq.com#?#.wrap:contains(去种树)
 xw.qq.com#?#div.showDividingLine.container:contains(APP专享)
+xx.phimnung3x.pro#$#abort-on-property-read Cookies
 xxooo.cf###overlay
 xxx-image.com###footer > font > b
 xxx-indian-porn.com#$#abort-current-inline-script popunder
@@ -8840,6 +8840,7 @@ zybang.com##.top_download
 ||cls.cn/v2/web/ad?
 ||clubic.com/assets/js/6f34f4c.js$script
 ||clugqa.com^
+||cluinglwo.qpon^
 ||clumsycar.com^$third-party
 ||clw99.mobi^
 ||cmath.fr/images/fond2.gif
@@ -12134,6 +12135,7 @@ zybang.com##.top_download
 ||partplanes.com^$third-party
 ||passivepolo.com^$third-party
 ||pastoralroad.com^$third-party
+||pawnsrewagerandrea.qpon^
 ||payoneok.com^
 ||paywall.folha.uol.com.br^$domain=folha.uol.com.br
 ||pbaiyho.cn^
@@ -12774,6 +12776,7 @@ zybang.com##.top_download
 ||scandiakenyan.com^
 ||scannapp.xyz^
 ||scarcecard.com^$third-party
+||scarcehepatitis.com^
 ||scarcesign.com^$third-party
 ||scarcesurprise.com^$third-party
 ||scaredcomfort.com^$third-party
@@ -13468,6 +13471,7 @@ zybang.com##.top_download
 ||tikimg.cc^
 ||tinghao8.com/assets/publish/
 ||tingyun.com^$third-party
+||tinkledtertium.com^
 ||tinnerydunging.com^
 ||tinylinks.co/Webservices/jsParseLinks.aspx$script,third-party
 ||tinylinks.co/visitScript/$script,third-party
