@@ -6,7 +6,7 @@
 ! Description: Lite version of the AdRules AdBlock List, optimized for mobile devices.
 ! License: Inherits upstream licenses (GPL-3.0, CC BY-SA 4.0, etc.)
 ! Upstream Sources: https://github.com/Cats-Team/AdRules/blob/script/Source.md
-! Version: 2026-03-12 14:45:50(GMT+8)
+! Version: 2026-03-12 20:43:58(GMT+8)
 ! Total count: 14898
 ###AdBlockDialog
 ###Page-1[stroke='none'][fill='none'][fill-rule='evenodd']
@@ -3250,7 +3250,7 @@ cloudnestra.com,seeflix.*,stellarthread.com#$#abort-on-property-read aclib
 clubedohardware.com.br#@##banner
 clubedohardware.com.br#@#.ipsAd
 clubedohardware.com.br#@#.nexusad
-cmangax14.com#$#cookie-remover ads_num true
+cmangax15.com#$#cookie-remover ads_num true
 cmmonitor.com#@#.adsbygoogle
 cn.bing.com##.bnp_rich_div_visible.bottom
 cn.bing.com##.bnp_rich_div_visible.top
@@ -4152,7 +4152,7 @@ hexun.com##.side618
 hh2d.tv#$#abort-current-inline-script $ adblock
 hh3dhay.*#$#abort-current-inline-script Symbol /break|case/
 hh3dhay.life,hh3dhay.xyz#$#abort-current-inline-script document.createElement /break|case/
-hh3dhay.life,tram3d.online,animevietsub.how#$#abort-current-inline-script eval $._Eu
+hh3dhay.life,tram3d.online,animevietsub.how,animevietsub.mx#$#abort-current-inline-script eval $._Eu
 hianime.*#$#hide-if-matches-xpath './/a[contains(@href,"flix")]/img[@alt="flix"][@style]/ancestor::div[@style]'
 hianime.*#$#prevent-listener pointerdown; abort-on-iframe-property-read localStorage; abort-on-iframe-property-read Math.random
 hireteen.com###adb-enabled
@@ -5578,7 +5578,7 @@ ph4.ru##table[width][height="90"][style]
 pheclip.love,phim18vip.top,sieudam.sh#$#abort-current-inline-script $ pop
 phimhdplus.com#$#json-prune ads; abort-current-inline-script setTimeout click_time
 phimlongtieng.net#$#abort-current-inline-script document.createElement script
-phimmoii.nl,motchillzr.sh,onflix.me#$#prevent-listener click ads
+phimmoii.nl,motchillzr.sh,onflix.my#$#prevent-listener click ads
 phimtho.cc#$#abort-current-inline-script $ p0pUpRandom
 phimvuihd.one#$#override-property-read urlAds ''
 phonearena.com##.adblock_awareness
@@ -5979,7 +5979,6 @@ setn.com##.rightFloat
 settlersonlinemaps.com###prb
 sex-studentki.gold,seks-studentki.pro#$#prevent-listener DOMContentLoaded click_time
 sex.javnong.cc#$#abort-on-property-read Math.round
-sexmup9x.pro#$#abort-on-property-read Cookies
 sextop1.uno,hhvsub1.com#$#abort-current-inline-script WebAssembly globalThis
 sexvid.*##div[class^="sp-player visible"][id^="sp-player"]
 sexvid.*#$#abort-on-property-read atob; abort-current-inline-script document.write /promo/; override-property-read window.diptr undefined; abort-on-property-read window.pu; abort-current-inline-script document.write iframe;
@@ -6532,7 +6531,7 @@ trafictube.ro#@#.widget-adv
 trakt.tv###huckster-desktop-bottom
 trakt.tv###huckster-desktop-top
 trakt.tv##.huckster-dfp
-tram3d.top#$#abort-current-inline-script setTimeout appendChild
+tram3d.lat#$#abort-current-inline-script setTimeout appendChild
 transkarpatia.net#$#abort-current-inline-script document.createElement redtram
 tree.tv#@##adverts
 tripadvisor.com##[data-sponsored]
@@ -6555,7 +6554,7 @@ truyen-hentai.com#$#abort-on-property-read Math.random; prevent-listener getexol
 truyen-hentai.com#$#hide-if-matches-xpath './/*[@class]/ancestor-or-self::div[contains(@class,"reklam")][1]'; hide-if-matches-xpath './/a[contains(@href,"zlinkd.com")][@rel="sponsored"]/ancestor::div[@class][1]';
 truyen247.pro#$#abort-current-inline-script eval
 truyenqqtto.com,phim.haysex.asia#$#abort-current-inline-script Promise /break|case/
-truyensextv.com,yanhh3d.club,z.chinav.sex#$#abort-current-inline-script document.addEventListener opup
+truyensextv.com,yanhh3d.sh,z.chinav.sex#$#abort-current-inline-script document.addEventListener opup
 truyensieuhay.com,quangcaoyenbai.com,phimchill.life,tv.tvhayhd.org,thefaplive.com,mv.dailyphimz.com,mv.phimbathu.one,sexhihi.fit,anime47.best,teamlanhlung8.shop,forum.timfshare.com,ungtycomicsei.com,honghotduongpho.vn,chich69.top,comong.info#$#abort-on-property-read document.cookie
 tsdm.live###ts_sidebar_base
 tsviewer.com#@#.adsbygoogle
@@ -6731,7 +6730,7 @@ vidmoly.to###dos_vlock
 vidshare.tv,govid.*,hdvid.tv,gomovies.*,gostream.nu,openloadmovies.*,flashx.tv,cloudvideo.tv#$#abort-on-property-write Fingerprint2
 vidshare.tv,vidshar.tv,series.movie,gowatchseries.*#$#abort-current-inline-script Object.defineProperty XMLHttpRequest
 vidsrc.*,cucuflix.*#$#abort-current-inline-script document.createElement /referrerPolicy.*no-referrer-when-downgrade/;
-viet69.ke,dualeotruyenky.com,yurineko.my,utukuva.net,cliphot69.shop,doctruyen3qhubs.com,ihentai.network,chuyentiepanimehay.one,hentaivc.blog,streamvl.top,buomtv.media,truyenvn.shop,javtiful.com,quatvn.my,phimsexhayvn96.com,phim18hdxx.com,vn6.sexviet88.xyz,demo.14412882.com,sexmup9x.pro,hhtq5.vip,sexdiary.club,vn2.xvideos69.xxx,umetruyenz.org,damconuong.city,truyenqqno.com,clipsexsub3x.net,sayhentai.vc,motphim.pokemonviet.com,lxmanga.space,phimlongtieng.net,newtruyentranh7.com,www.sieutamphim.pro,vevocloud.com,sex.xinh3x.me,sexviet88.xyz,goctruyentranhvui19.com,viet69vn.at,misskon.com,www.iu88.net#$#abort-current-inline-script WebAssembly instantiate
+viet69.ly,dualeotruyenky.com,yurineko.my,lauxanh9x.net,cliphot69.shop,doctruyen3qhubk.com,ihentai.network,chuyentiepanimehay.one,hentaivc.blog,streamvl.top,buomtv.media,truyenvn.shop,javtiful.com,quatvn.my,phimsexhayvn96.com,phim18hdxx.com,vn6.sexviet88.xyz,demo.14412882.com,vnsexdam.net,hhtq5.vip,sexdiary.club,vn2.xvideos69.xxx,umetruyenz.org,damconuong.plus,truyenqqno.com,clipsexsub3x.net,sayhentai.vc,motphim.pokemonviet.com,lxmanga.space,phimlongtieng.net,newtruyentranh8.com,www.sieutamphim.pro,vevocloud.com,sex.xinh3x.me,sexviet88.xyz,goctruyentranhvui19.com,viet69vn.at,misskon.com,lauxanh9x.net#$#abort-current-inline-script WebAssembly instantiate
 view.inews.qq.com##div[class^="article-recommend_wrapper"]
 view.inews.qq.com##div[class^="bottom-bar_buttonWrap"]
 view.inews.qq.com##div[class^="infinite-comment-list_subText"]
@@ -6747,7 +6746,7 @@ view.inews.qq.com#?#div[class^="_"]:-abp-has(>div[data-action-id]>div>.react-swi
 ville-ideale.com###antyp
 ville-ideale.com###enc
 ville-ideale.com###espace
-vinaurl.net,anime13.site,anh.moe,maclife.io,xemphimjav.xyz,hoctot.hocmai.vn,keysmatterinc.com,samtruyentranh.com,player.phimapi.com,noitu.site,sachmoi.net,xfast.sbs,anime47.best,s2.phimsexvn1.blog#$#abort-on-property-read open
+vinaurl.net,anime13.site,zpic.io,maclife.io,xemphimjav.xyz,hoctot.hocmai.vn,keysmatterinc.com,samtruyentranh.com,player.phimapi.com,noitu.site,sachmoi.net,xfast.sbs,anime47.best,s2.phimsexvn1.blog#$#abort-on-property-read open
 vip.com##.sidebarcom-qrcode
 vip.com##.wp-phone
 vipbox.online###html3
@@ -6760,6 +6759,7 @@ vizer.tv#@#.adsbox
 vk.barkov.net##.alert-danger
 vk.com,vk.ru#$#abort-on-property-read vk__adsLight.adsShowed
 vndoc.com#$#override-property-read seconds 0
+vnsexdam.net#$#abort-on-property-read Cookies
 voachinese.com##.slide-in-wg
 voiranime.com#$#abort-current-inline-script document.createElement String.fromCharCode
 volynpost.com#$#abort-on-property-read trek_shownow
@@ -6959,8 +6959,8 @@ www.seznam.cz#$#hide-if-matches-xpath '//div[contains(@class,"overflow-hidden")]
 www.seznam.cz#$#override-property-read sssp emptyObj
 www.seznam.cz#$#replace-fetch-response '/adType/' {}; hide-if-matches-xpath '//a[@rel][contains(translate(translate(text(), "ĂÂÎȘȚăâîșțR̆", "AAISTaaistR"), "REKLAMA", "reklama"), "reklama")][contains(@class,"color-neutral-2")]/parent::div/parent::div/parent::div/parent::div[@style][1]'
 www.sieutamphim.pro#$#abort-on-property-write _$_d52e
-www.toptruyenss.com#$#abort-current-inline-script Promise instance
-www.toptruyenss.com#$#abort-current-inline-script setTimeout open
+www.toptruyenssz.com#$#abort-current-inline-script Promise instance
+www.toptruyenssz.com#$#abort-current-inline-script setTimeout open
 www.truyen35zz.com#$#abort-current-inline-script jQuery click_ads
 www.wdbay.com##[class][classname]
 www.wenshushu.cn##A[href^='https://wenshushu.cn/ad/']
