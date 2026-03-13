@@ -6,7 +6,7 @@
 ! Description: Lite version of the AdRules AdBlock List, optimized for mobile devices.
 ! License: Inherits upstream licenses (GPL-3.0, CC BY-SA 4.0, etc.)
 ! Upstream Sources: https://github.com/Cats-Team/AdRules/blob/script/Source.md
-! Version: 2026-03-13 14:43:31(GMT+8)
+! Version: 2026-03-13 20:43:13(GMT+8)
 ! Total count: 14900
 ###AdBlockDialog
 ###Page-1[stroke='none'][fill='none'][fill-rule='evenodd']
@@ -5331,6 +5331,7 @@ newser.com#$#prevent-listener load object
 newsmth.net##.Smthtwenty_float
 newstm.in,3pm.in##a[href*="/click.htm?"][target="_blank"]
 newsyou.info#$#abort-on-property-read localStorage
+newyaukitchen.com#$#abort-current-inline-script window.addEventListener Ads
 newyorker.com#@#.ad-container
 next-episode.net###rundown
 nexusmods.com##.areplacer
@@ -5578,7 +5579,7 @@ ph4.ru##table[width][height="90"][style]
 pheclip.love,phim18vip.top,sieudam.sh#$#abort-current-inline-script $ pop
 phimhdplus.com#$#json-prune ads; abort-current-inline-script setTimeout click_time
 phimlongtieng.net#$#abort-current-inline-script document.createElement script
-phimmoii.nl,motchillzr.sh,onflix.my#$#prevent-listener click ads
+phimmoiz.io,motchillz.id,onflix.my#$#prevent-listener click ads
 phimtho.cc#$#abort-current-inline-script $ p0pUpRandom
 phimvuihd.one#$#override-property-read urlAds ''
 phonearena.com##.adblock_awareness
@@ -5914,7 +5915,6 @@ rutube.ru#$#override-property-read Object.prototype.advert undefined
 rvtravel.com#$#cookie-remover /adblocker/ true
 rychlost.cz###cpcbsd9z1
 s.m2pub.com###adk2_img
-sabormazatlan.com#$#abort-current-inline-script window.addEventListener Ads
 sac.net.cn###ad
 sac.net.cn###leftDiv
 sac.net.cn###rightDiv
@@ -6730,7 +6730,7 @@ vidmoly.to###dos_vlock
 vidshare.tv,govid.*,hdvid.tv,gomovies.*,gostream.nu,openloadmovies.*,flashx.tv,cloudvideo.tv#$#abort-on-property-write Fingerprint2
 vidshare.tv,vidshar.tv,series.movie,gowatchseries.*#$#abort-current-inline-script Object.defineProperty XMLHttpRequest
 vidsrc.*,cucuflix.*#$#abort-current-inline-script document.createElement /referrerPolicy.*no-referrer-when-downgrade/;
-viet69.ly,dualeotruyenky.com,yurineko.my,lauxanh9x.net,cliphot69.shop,doctruyen3qhubk.com,ihentai.network,chuyentiepanimehay.one,hentaivc.blog,streamvl.top,buomtv.media,truyenvn.shop,javtiful.com,quatvn.my,phimsexhayvn96.com,phim18hdxx.com,vn6.sexviet88.xyz,demo.14412882.com,vnsexdam.net,hhtq5.vip,sexdiary.club,vn2.xvideos69.xxx,umetruyenz.org,damconuong.plus,truyenqqno.com,clipsexsub3x.net,sayhentai.vc,motphim.pokemonviet.com,lxmanga.space,phimlongtieng.net,newtruyentranh8.com,www.sieutamphim.pro,vevocloud.com,sex.xinh3x.me,sexviet88.xyz,goctruyentranhvui19.com,viet69vn.at,misskon.com,lauxanh9x.net#$#abort-current-inline-script WebAssembly instantiate
+viet69.ly,dualeotruyenky.com,yurineko.my,lauxanh9x.net,cliphot69.shop,doctruyen3qhubk.com,ihentai.network,chuyentiepanimehay.one,hentaivc.cc,streamvl.top,buomtv.media,truyenvn.shop,javtiful.com,quatvn.my,phimsexhayvn96.com,phim18hdxx.com,vn6.sexviet88.xyz,demo.14412882.com,vnsexdam.net,hhtq5.vip,sexdiary.club,vn2.xvideos69.xxx,umetruyenz.org,damconuong.plus,truyenqqno.com,clipsexsub3x.net,sayhentai.vc,motphim.pokemonviet.com,lxmanga.space,phimlongtieng.net,newtruyentranh8.com,www.sieutamphim.pro,vevocloud.com,sex.xinh3x.me,sexviet88.xyz,goctruyentranhvui19.com,viet69vn.at,misskon.com#$#abort-current-inline-script WebAssembly instantiate
 view.inews.qq.com##div[class^="article-recommend_wrapper"]
 view.inews.qq.com##div[class^="bottom-bar_buttonWrap"]
 view.inews.qq.com##div[class^="infinite-comment-list_subText"]
