@@ -6,8 +6,8 @@
 ! Description: Lite version of the AdRules AdBlock List, optimized for mobile devices.
 ! License: Inherits upstream licenses (GPL-3.0, CC BY-SA 4.0, etc.)
 ! Upstream Sources: https://github.com/Cats-Team/AdRules/blob/script/Source.md
-! Version: 2026-03-20 20:43:53(GMT+8)
-! Total count: 14886
+! Version: 2026-03-21 02:39:15(GMT+8)
+! Total count: 14896
 ###AdBlockDialog
 ###Page-1[stroke='none'][fill='none'][fill-rule='evenodd']
 ###SOHU_MAIN > .module-cmt-float-bar
@@ -3095,7 +3095,7 @@ bts.to##.dl_blue[href^="/goto_.php?url="]
 btvsports.com###ai_tapar
 budport.com.ua##body > div[style^="position:fixed;"][style*="z-index"][style*="background"]
 budport.com.ua#$#abort-current-inline-script $ append
-buomtv.media,muzay.net,chuyentiepanimehay.one,cliphot69.shop,clipsexsub3x.net,damconuong.plus,demo.14412882.com,doctruyen3qhubk.com,dualeotruyenqr.com,goctruyentranhvui19.com,hentaivc.cc,hhtq5.vip,ihentai.network,javtiful.com,luottruyen3.com,lxmanga.space,misskon.com,motphim.pokemonviet.com,gaimupsex.net,newtruyentranh8.com,phim18hdxx.com,phimlongtieng.net,phimsexhayvn96.com,quatvn.my,sayhentai.vc,sex.xinh3x.me,sexdiary.club,sexviet88.xyz,streamvl.top,truyenqqno.com,truyenvn.shop,umetruyenz.org,vevocloud.com,viet69.ly,viet69vn.at,vn2.xvideos69.xxx,vn6.sexviet88.xyz,www.sieutamphim.pro,yurineko.my#$#abort-current-inline-script WebAssembly instantiate
+buomtv.media,muzay.net,chuyentiepanimehay.one,cliphot69.shop,clipsexsub3x.net,damconuong.plus,demo.14412882.com,doctruyen3qhubk.com,dualeotruyenqr.com,goctruyentranhvui19.com,hentaivc.cc,hhtq5.vip,ihentai.network,javtiful.com,luottruyen3.com,lxmanga.space,misskon.com,motphim.pokemonviet.com,gaimupsex.net,newtruyentranh8.com,phim18hdxx.com,phimlongtieng.net,phimsexhayvn96.com,quatvn.my,sayhentai.vc,sex.xinh3x.me,sexdiary.club,sexviet88.xyz,streamvl.top,truyenqqno.com,truyenvn.shop,umetruyenz.org,vevocloud.com,viet69.nz,viet69vn.at,vn2.xvideos69.xxx,vn6.sexviet88.xyz,www.sieutamphim.pro,yurineko.my#$#abort-current-inline-script WebAssembly instantiate
 burze.dzis.net#@#.adsbygoogle
 businessinsider.in#?#div:-abp-has(> a[target="_self"][rel="nofollow,noindex"])
 businessinsider.in#?#li[class*="display-"]:-abp-has(div > h3 + p:-abp-contains(Ad: ))
@@ -8168,6 +8168,7 @@ zybang.com##.top_download
 ||ballasshwebo.com^
 ||balloonbelieve.com^$third-party
 ||ballsbanana.com^$third-party
+||balzadicyema.com^
 ||bananabarrel.com^$third-party
 ||bance.jp/bnc*^$script,domain=himanatokiniyaruo.com|vippers.jp|matomeantena.com|anige-sokuhouvip.com
 ||bance.jp^$domain=zozovideo.com
@@ -8826,6 +8827,7 @@ zybang.com##.top_download
 ||combcattle.com^$third-party
 ||combcompetition.com^$third-party
 ||comfortablecheese.com^$third-party
+||comlquina.com^
 ||comm100.cn/livechatserver/chatbutton.*&res=
 ||commdata.v.qq.com^
 ||commondata.oss-cn-hangzhou.aliyuncs.com^
@@ -9676,6 +9678,7 @@ zybang.com##.top_download
 ||extralocker.com^$third-party
 ||extramonies.com^$third-party
 ||exuberantedge.com^$third-party
+||exudingidolet.com^
 ||eybstar.com^
 ||eyq3nog.icu^
 ||ezlgszdb.icu^
@@ -9733,6 +9736,7 @@ zybang.com##.top_download
 ||fasterfineart.com^$third-party
 ||fasterjson.com^$third-party
 ||fatcoil.com^$third-party
+||fattingnines.com^
 ||faucetfoot.com^$third-party
 ||faultycanvas.com^$third-party
 ||favourvermix.com^
@@ -9774,6 +9778,7 @@ zybang.com##.top_download
 ||fengniao.com*/pv.js
 ||fengyukun03.cn^
 ||feq853.com^
+||feriehangups.com^
 ||fermataintima.com^
 ||fewjuice.com^$third-party
 ||fewkittens.com^$third-party
@@ -10709,6 +10714,7 @@ zybang.com##.top_download
 ||infox.sg^
 ||inkuae.com^
 ||innocentwax.com^$third-party
+||innovations260.net^
 ||inowe.xyz^
 ||inpage-push.com^
 ||inputicicle.com^$third-party
@@ -11056,6 +11062,7 @@ zybang.com##.top_download
 ||khinyugbfad0dlkiunapldnka3sdeuhn.com^
 ||kiackhaulmy.com^
 ||kialeesewster.com^
+||kiblahmafia.com^
 ||kifyeldd.top^
 ||kiitsl.icu^
 ||killcovid2021.com/*.mp4
@@ -13227,6 +13234,7 @@ zybang.com##.top_download
 ||strangeclocks.com^$third-party
 ||strangesink.com^$third-party
 ||streaming-foot.info/images/adblok.mp3$media
+||streitetymon.com^
 ||stretchsister.com^$third-party
 ||stretchsneeze.com^$third-party
 ||stretchsquirrel.com^$third-party
@@ -13256,6 +13264,7 @@ zybang.com##.top_download
 ||suffarilbf.com^
 ||sugar.zhihu.com^
 ||sulkycook.com^$third-party
+||sultoneframer.com^
 ||summerobject.com^$third-party
 ||sump4.cc/js/wcount.js
 ||sun66387567606.online^
@@ -13761,6 +13770,7 @@ zybang.com##.top_download
 ||unslotdrouk.com^
 ||untidyquestion.com^$third-party
 ||untidyrice.com^$third-party
+||untipsyzincked.cyou^
 ||unusedstone.com^$third-party
 ||unusualtitle.com^$third-party
 ||unwieldyhealth.com^$third-party
