@@ -6,7 +6,7 @@
 ! Description: Lite version of the AdRules AdBlock List, optimized for mobile devices.
 ! License: Inherits upstream licenses (GPL-3.0, CC BY-SA 4.0, etc.)
 ! Upstream Sources: https://github.com/Cats-Team/AdRules/blob/script/Source.md
-! Version: 2026-03-20 14:46:14(GMT+8)
+! Version: 2026-03-20 19:05:22(GMT+8)
 ! Total count: 14886
 ###AdBlockDialog
 ###Page-1[stroke='none'][fill='none'][fill-rule='evenodd']
@@ -3070,6 +3070,7 @@ bombardir.ru,inforesist.org#$#abort-on-property-read alert
 bombaytimes.com##a[onclick*="click"][rel="nofollow,noindex"]
 bombaytimes.com#?#div:-abp-has(> h4 > span:-abp-contains(Ad: ))
 bombaytimes.com,businessinsider.in#?#div:-abp-has(> h2:-abp-contains(Promoted Stories) + div)
+bonappt.co.uk#$#abort-current-inline-script window.addEventListener Ads
 bongda365f.com#$#override-property-read isSkipAds true
 bonstreams.net,cloudvideo.tv,cucuflix.*,flashx.tv,gogoanime.*,gomovies.*,keeplinks.co,movies123.xyz,openloadmovies.*,vidsrc.*,yts-official.*,yts.*#$#abort-on-property-read atob
 booking.com#$#hide-if-matches-xpath './/span[@color][contains(@class,"PromoText")]/parent::div[@data-autobot-element-id]/ancestor::div[contains(@class,"ListingCardWrapper")]'
@@ -3094,7 +3095,7 @@ bts.to##.dl_blue[href^="/goto_.php?url="]
 btvsports.com###ai_tapar
 budport.com.ua##body > div[style^="position:fixed;"][style*="z-index"][style*="background"]
 budport.com.ua#$#abort-current-inline-script $ append
-buomtv.media,muzay.net,chuyentiepanimehay.one,cliphot69.shop,clipsexsub3x.net,damconuong.plus,demo.14412882.com,doctruyen3qhubk.com,dualeotruyenqr.com,goctruyentranhvui19.com,hentaivc.cc,hhtq5.vip,ihentai.network,javtiful.com,luottruyen3.com,lxmanga.space,misskon.com,motphim.pokemonviet.com,vlmupsex.net,newtruyentranh8.com,phim18hdxx.com,phimlongtieng.net,phimsexhayvn96.com,quatvn.my,sayhentai.vc,sex.xinh3x.me,sexdiary.club,sexviet88.xyz,streamvl.top,truyenqqno.com,truyenvn.shop,umetruyenz.org,vevocloud.com,viet69.ly,viet69vn.at,vn2.xvideos69.xxx,vn6.sexviet88.xyz,www.sieutamphim.pro,yurineko.my#$#abort-current-inline-script WebAssembly instantiate
+buomtv.media,muzay.net,chuyentiepanimehay.one,cliphot69.shop,clipsexsub3x.net,damconuong.plus,demo.14412882.com,doctruyen3qhubk.com,dualeotruyenqr.com,goctruyentranhvui19.com,hentaivc.cc,hhtq5.vip,ihentai.network,javtiful.com,luottruyen3.com,lxmanga.space,misskon.com,motphim.pokemonviet.com,gaimupsex.net,newtruyentranh8.com,phim18hdxx.com,phimlongtieng.net,phimsexhayvn96.com,quatvn.my,sayhentai.vc,sex.xinh3x.me,sexdiary.club,sexviet88.xyz,streamvl.top,truyenqqno.com,truyenvn.shop,umetruyenz.org,vevocloud.com,viet69.ly,viet69vn.at,vn2.xvideos69.xxx,vn6.sexviet88.xyz,www.sieutamphim.pro,yurineko.my#$#abort-current-inline-script WebAssembly instantiate
 burze.dzis.net#@#.adsbygoogle
 businessinsider.in#?#div:-abp-has(> a[target="_self"][rel="nofollow,noindex"])
 businessinsider.in#?#li[class*="display-"]:-abp-has(div > h3 + p:-abp-contains(Ad: ))
@@ -3920,6 +3921,7 @@ gaara-fr.com###ga-skin-top! url: https://easylist-downloads.adblockplus.org/anti
 gaara-fr.com###pub01
 gagadget.com,ringside24.com,newsyou.info#$#abort-on-property-read localStorage
 gaijin.at##.box_error.box_error_icon
+gaimupsex.net#$#abort-on-property-read Cookies
 gamaniak.com#@#.adsbygoogle
 game2day.ru##div[class^="adblock_"]
 game4free.nl#@##adsense
@@ -5674,7 +5676,6 @@ ppe.pl###abl
 pptjia.com##.alert2_wrap
 pptv.com###installApp
 pr-cy.ru##div[id^="aabb"]
-prawngarden.com#$#abort-current-inline-script window.addEventListener Ads
 preemlinks.com#@##divads
 preroll$xmlhttprequest,domain=iprima.cz
 pressian.com##iframe[src*="report.error-report.com/modal"]
@@ -6672,7 +6673,6 @@ vizer.tv#@#.adBlockDetected
 vizer.tv#@#.adsbox
 vk.barkov.net##.alert-danger
 vk.com,vk.ru#$#abort-on-property-read vk__adsLight.adsShowed
-vlmupsex.net#$#abort-on-property-read Cookies
 vndoc.com#$#override-property-read seconds 0
 voachinese.com##.slide-in-wg
 voici.fr,femmeactuelle.fr,caminteresse.fr#$#abort-current-inline-script btoa /last_bfa_at/
