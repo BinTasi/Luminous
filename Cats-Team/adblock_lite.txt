@@ -6,8 +6,8 @@
 ! Description: Lite version of the AdRules AdBlock List, optimized for mobile devices.
 ! License: Inherits upstream licenses (GPL-3.0, CC BY-SA 4.0, etc.)
 ! Upstream Sources: https://github.com/Cats-Team/AdRules/blob/script/Source.md
-! Version: 2026-03-25 14:55:24(GMT+8)
-! Total count: 14918
+! Version: 2026-03-25 20:55:55(GMT+8)
+! Total count: 14923
 ###AdBlockDialog
 ###Page-1[stroke='none'][fill='none'][fill-rule='evenodd']
 ###SOHU_MAIN > .module-cmt-float-bar
@@ -8484,6 +8484,7 @@ zybang.com##.top_download
 ||buteopung.com^
 ||butterbulb.com^$third-party
 ||butterburst.com^$third-party
+||buttery-sick.com^
 ||buttonladybug.com^$third-party
 ||bututpoopsie.com^
 ||buyihao.com^
@@ -9242,6 +9243,7 @@ zybang.com##.top_download
 ||dhunchifidia.com^
 ||dhxrop.com^
 ||di2y21.top^
+||diagnosedecorationvideotape.com^
 ||diagnosis.ad.xiaomi.com^
 ||diamberproetid.com^
 ||dianhanjiw.com^
@@ -10171,6 +10173,7 @@ zybang.com##.top_download
 ||gpxxbyf.cn^
 ||gqdfgyz.cn^
 ||gracefulmilk.com^$third-party
+||graduateamazingly.com^
 ||grainmass.com^$third-party
 ||grandcomms.cn^
 ||grandfatherguitar.com^$third-party
@@ -12588,6 +12591,7 @@ zybang.com##.top_download
 ||record.xl.pt/common/images/pub/
 ||record.xl.pt/pub/
 ||redbaby.hk^
+||redbuckzincate.com^
 ||redcapsunlime.com^
 ||reek.github.io/anti-adblock-killer/k2Uw7isHrMm5JXP1Vwdxc567ZKc1aZ4I.js|$script
 ||referentiel.nouvelobs.com/js/nobs;manifest-analytics.js$script
@@ -14002,6 +14006,7 @@ zybang.com##.top_download
 ||wafmedia3.com^$script,domain=online.dramacafe.in
 ||wagzqhq.cn^
 ||waivinggilim.com^
+||waiwaimetage.com^
 ||waizongguan.net^
 ||wandouys.com/slade.js
 ||wangxialin.top^
