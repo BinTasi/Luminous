@@ -6,7 +6,7 @@
 ! Description: Lite version of the AdRules AdBlock List, optimized for mobile devices.
 ! License: Inherits upstream licenses (GPL-3.0, CC BY-SA 4.0, etc.)
 ! Upstream Sources: https://github.com/Cats-Team/AdRules/blob/script/Source.md
-! Version: 2026-03-26 15:00:32(GMT+8)
+! Version: 2026-03-26 21:00:15(GMT+8)
 ! Total count: 14923
 ###AdBlockDialog
 ###Page-1[stroke='none'][fill='none'][fill-rule='evenodd']
@@ -2711,7 +2711,7 @@ audiotag.info###dclaim
 audiotag.info##.dialog-fog
 audiotruyenfull.com#$#abort-current-inline-script document.addEventListener ai_run
 audiotruyenfull.com#$#abort-on-property-read adpiaListUrl
-audiotruyenfull.com,teamlanhlungday.store,trumtruyen.xyz,www.motchill51.com#$#abort-current-inline-script setTimeout Aff
+audiotruyenfull.com,teamlanhlungday.store,trumtruyen.xyz,www.motchill52.com#$#abort-current-inline-script setTimeout Aff
 aupetitparieur.com,mamieastuce.com,meilleurpronostic.fr##div[class] > div[id] > main[class][id]
 aura.cn##.foot-xcx
 aura.cn##.left-zc
@@ -3059,7 +3059,7 @@ bts.to##.dl_blue[href^="/goto_.php?url="]
 btvsports.com###ai_tapar
 budport.com.ua##body > div[style^="position:fixed;"][style*="z-index"][style*="background"]
 budport.com.ua#$#abort-current-inline-script $ append
-buomtv.media,phimmat.net,chuyentiepanimehay.one,cliphot69.shop,clipsexsub3x.net,damconuong.plus,demo.14412882.com,doctruyen3qhubk.com,dualeotruyenqr.com,goctruyentranhvui19.com,hentaivc.cc,hhtq5.vip,ihentai.network,javtiful.com,luottruyen3.com,lxmanga.space,misskon.com,motphim.pokemonviet.com,phim.mupnung3x.net,newtruyentranh8.com,phim18hdxx.com,phimlongtieng.net,phimsexhayvn96.com,quatvn.my,sayhentai.vc,sex.xinh3x.me,sexdiary.club,sexviet88.xyz,streamvl.top,truyenqqno.com,truyenvn.shop,umetruyenz.org,vevocloud.com,viet69.ly,viet69vn.at,vn2.xvideos69.xxx,vn6.sexviet88.xyz,www.sieutamphim.pro,yurineko.*#$#abort-current-inline-script WebAssembly instantiate
+buomtv.media,phimmat.net,chuyentiepanimehay.one,cliphot69.shop,clipsexsub3x.net,damconuong.plus,demo.14412882.com,doctruyen3qhubk.com,dualeotruyenqr.com,goctruyentranhvui19.com,hentaivc.cc,hhtq5.vip,ihentai.network,javtiful.com,luottruyen3.com,lxmanga.space,misskon.com,motphim.pokemonviet.com,phim.vlsexnhanh.pro,newtruyentranh8.com,phim18hdxx.com,phimlongtieng.net,phimsexhayvn96.com,quatvn.my,sayhentai.vc,sex.xinh3x.me,sexdiary.club,sexviet88.xyz,streamvl.top,truyenqqno.com,truyenvn.shop,umetruyenz.org,vevocloud.com,viet69.ly,viet69vn.at,vn2.xvideos69.xxx,vn6.sexviet88.xyz,www.sieutamphim.pro,yurineko.*#$#abort-current-inline-script WebAssembly instantiate
 burze.dzis.net#@#.adsbygoogle
 businessinsider.in#?#div:-abp-has(> a[target="_self"][rel="nofollow,noindex"])
 businessinsider.in#?#li[class*="display-"]:-abp-has(div > h3 + p:-abp-contains(Ad: ))
@@ -3081,7 +3081,7 @@ callistanise.com,filelions.*,habetar.com,playerp2p.*,rpmvip.com,upns.*#$#hide-if
 camcaps.*,vidello.net#$#abort-on-property-write popUnder
 camsstream.com#$#abort-current-inline-script onload;
 canhasbitcoin.com###adblock-message
-cap3.shop#$#prevent-listener click /setTimeout|e\.target/; prevent-listener click d .art-control-fullscreen; prevent-listener fullscreenchange e.target;
+cap3.quest#$#prevent-listener click /setTimeout|e\.target/; prevent-listener click d .art-control-fullscreen; prevent-listener fullscreenchange e.target;
 cars.com#$#hide-if-matches-xpath './/span[contains(@class,"hero-cta-tag")][contains(text(),"Sponsored")]/preceding::img[@class="sponsored-hero-cta"]/ancestor::a[@aria-describedby][contains(@href,"adclick")]/ancestor-or-self::section[@id="primary-hero"]'
 cars.com#$#hide-if-matches-xpath './/spark-badge[@variant="text"][@class="sp-badge"]/following::spark-button[@data-sponsored="true"]/ancestor-or-self::div[contains(@class,"inventory-")][1]'
 cast4u.tv###notice
@@ -5196,7 +5196,7 @@ monoschinos2.com#$#abort-current-inline-script EventTarget.prototype.addEventLis
 monoschinos2.com#$#abort-on-property-read _0x24d7; abort-on-property-read _0x41ed; abort-on-property-read _0xf59bf3; abort-on-property-read a3klsam
 moredesi.com#$#abort-on-property-read __formatsGetters
 motchillcr.com,onflix.my,phimmoii.so#$#prevent-listener click ads
-motchillk.soy#$#abort-on-property-read sessionStorage
+motchillk.bot#$#abort-on-property-read sessionStorage
 motorbikecatalog.com#$#override-property-read window.navigator.connection.rtt 1001
 motorpage.ru#$#json-prune '0.BannerId 1.BannerId 2.BannerId 3.BannerId 4.BannerId 5.BannerId 6.BannerId'
 motortrend.com#$#hide-if-matches-xpath './/div[contains(@id,"ad-id-curated_abovenavad")][@data-ad="true"]/parent::div[contains(@class,"cls-helper")][1]'
@@ -5546,7 +5546,7 @@ ph4.ru##div[style^="width: 728px; height: 90px;"]
 ph4.ru##table[width][height="90"][style]
 pheclip.love,phim18vip.top,sieudam.sh#$#abort-current-inline-script $ pop
 phim.haysex.asia,truyenqqtto.com#$#abort-current-inline-script Promise /break|case/
-phim.mupnung3x.net#$#abort-on-property-read Cookies
+phim.vlsexnhanh.pro#$#abort-on-property-read Cookies
 phimhdplus.com#$#json-prune ads; abort-current-inline-script setTimeout click_time
 phimlongtieng.net#$#abort-current-inline-script document.createElement script
 phimtho.cc#$#abort-current-inline-script $ p0pUpRandom
@@ -6304,7 +6304,7 @@ target.com#$#hide-if-contains /Sponsored/ 'li[class]' 'div[style] div[data-test=
 target.com#$#hide-if-contains-visible-text /Sponsored/ 'div[data-test*="ProductCardWrapper"]' 'p[data-test="sponsoredText"]'
 tassbiz.ru##.adblock_notif
 tctruyen.org#$#abort-current-inline-script $ popup
-teamlanhlung8.shop,vietsub.site,www.motchill51.com#$#abort-on-property-read localStorage
+teamlanhlung8.shop,vietsub.site,www.motchill52.com#$#abort-on-property-read localStorage
 teamlanhlungday.store,tusachmanga99.com#$#abort-current-inline-script $ window.open
 tech.sina.com.cn##.zc-app
 tech.sina.com.cn##.zc-app-btn.right-bar-btn
