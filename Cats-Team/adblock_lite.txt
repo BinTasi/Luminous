@@ -6,7 +6,7 @@
 ! Description: Lite version of the AdRules AdBlock List, optimized for mobile devices.
 ! License: Inherits upstream licenses (GPL-3.0, CC BY-SA 4.0, etc.)
 ! Upstream Sources: https://github.com/Cats-Team/AdRules/blob/script/Source.md
-! Version: 2026-04-01 21:06:18(GMT+8)
+! Version: 2026-04-02 02:52:49(GMT+8)
 ! Total count: 14984
 ###AdBlockDialog
 ###Page-1[stroke='none'][fill='none'][fill-rule='evenodd']
@@ -2711,7 +2711,7 @@ audiotag.info###dclaim
 audiotag.info##.dialog-fog
 audiotruyenfull.com#$#abort-current-inline-script document.addEventListener ai_run
 audiotruyenfull.com#$#abort-on-property-read adpiaListUrl
-audiotruyenfull.com,teamlanhlungday.store,trumtruyen.xyz,www.motchill52.com#$#abort-current-inline-script setTimeout Aff
+audiotruyenfull.com,teamlanhlungday.store,trumtruyen.xyz,www.motchill53.com#$#abort-current-inline-script setTimeout Aff
 aupetitparieur.com,mamieastuce.com,meilleurpronostic.fr##div[class] > div[id] > main[class][id]
 aura.cn##.foot-xcx
 aura.cn##.left-zc
@@ -6340,7 +6340,7 @@ target.com#$#hide-if-contains /Sponsored/ 'li[class]' 'div[style] div[data-test=
 target.com#$#hide-if-contains-visible-text /Sponsored/ 'div[data-test*="ProductCardWrapper"]' 'p[data-test="sponsoredText"]'
 tassbiz.ru##.adblock_notif
 tctruyen.org#$#abort-current-inline-script $ popup
-teamlanhlung8.shop,vietsub.site,www.motchill52.com#$#abort-on-property-read localStorage
+teamlanhlung8.shop,vietsub.site,www.motchill53.com#$#abort-on-property-read localStorage
 teamlanhlungday.store,tusachmanga99.com#$#abort-current-inline-script $ window.open
 tech.sina.com.cn##.zc-app
 tech.sina.com.cn##.zc-app-btn.right-bar-btn
@@ -6533,7 +6533,7 @@ trovesaurus.com###blocked
 truyen-hentai.com#$#abort-on-property-read Math.random; prevent-listener getexoloader; abort-on-property-read initCustomEvent;
 truyen-hentai.com#$#hide-if-matches-xpath './/*[@class]/ancestor-or-self::div[contains(@class,"reklam")][1]'; hide-if-matches-xpath './/a[contains(@href,"zlinkd.com")][@rel="sponsored"]/ancestor::div[@class][1]';
 truyen247.pro#$#abort-current-inline-script eval
-truyensextv.com,yanhh3d.sh,z.chinav.sex#$#abort-current-inline-script document.addEventListener opup
+truyensextv.com,yanhh3d.cx,z.chinav.sex#$#abort-current-inline-script document.addEventListener opup
 tsdm.live###ts_sidebar_base
 tsviewer.com#@#.adsbygoogle
 ttmeiju.me##DIV[style="float:left;margin-bottom:27px;margin-top:27px;"]
