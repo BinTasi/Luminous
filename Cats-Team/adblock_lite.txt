@@ -6,8 +6,8 @@
 ! Description: Lite version of the AdRules AdBlock List, optimized for mobile devices.
 ! License: Inherits upstream licenses (GPL-3.0, CC BY-SA 4.0, etc.)
 ! Upstream Sources: https://github.com/Cats-Team/AdRules/blob/script/Source.md
-! Version: 2026-04-02 15:04:52(GMT+8)
-! Total count: 14985
+! Version: 2026-04-02 20:59:05(GMT+8)
+! Total count: 14986
 ###AdBlockDialog
 ###Page-1[stroke='none'][fill='none'][fill-rule='evenodd']
 ###SOHU_MAIN > .module-cmt-float-bar
@@ -3085,7 +3085,7 @@ callistanise.com,filelions.*,habetar.com,playerp2p.*,rpmvip.com,upns.*#$#hide-if
 camcaps.*,vidello.net#$#abort-on-property-write popUnder
 camsstream.com#$#abort-current-inline-script onload;
 canhasbitcoin.com###adblock-message
-cap3.click#$#prevent-listener click /setTimeout|e\.target/; prevent-listener click d .art-control-fullscreen; prevent-listener fullscreenchange e.target;
+cap3.lol#$#prevent-listener click /setTimeout|e\.target/; prevent-listener click d .art-control-fullscreen; prevent-listener fullscreenchange e.target;
 cars.com#$#hide-if-matches-xpath './/span[contains(@class,"hero-cta-tag")][contains(text(),"Sponsored")]/preceding::img[@class="sponsored-hero-cta"]/ancestor::a[@aria-describedby][contains(@href,"adclick")]/ancestor-or-self::section[@id="primary-hero"]'
 cars.com#$#hide-if-matches-xpath './/spark-badge[@variant="text"][@class="sp-badge"]/following::spark-button[@data-sponsored="true"]/ancestor-or-self::div[contains(@class,"inventory-")][1]'
 cast4u.tv###notice
@@ -3121,6 +3121,7 @@ cheaa.com###ADText
 checkscam.vn#$#abort-current-inline-script document.addEventListener open
 cheetahfun.com##.guide
 chen-xing/figure_bed*
+chichi-pui.com#$#hide-if-matches-xpath './/*[@class]/ancestor::aside[contains(@class,"advertisement")]'
 childish2x1.fun,childish2x2.fun,lottedira.store,tekora.fun,tekora.space#$#abort-current-inline-script $ aff
 china.cn##.ltp_box
 chinaacc.com##.leftBox
@@ -6281,6 +6282,7 @@ style24.com#$#simulate-mouse-event 'xpath(.//div[@class="popup_main_notice"]//a[
 style24.com#$#simulate-mouse-event 'xpath(.//div[@id="popupMainNotice"]//a[@id="btnPopupClose"][@onclick])$delay=0'
 subhd.com##div[style="position:fixed;bottom:20px;left:20px;"]
 subtaboo.com#$#hide-if-matches-xpath './/div[@style="pointer-events: none; position: absolute; top: 0px; left: 0px; width: 1769px; height: 1010px; z-index: 2147483647;"]/ancestor-or-self::div[1]';
+sulasok.*,sulasokvids.*#$#abort-current-inline-script  Date.now shouldRun;
 suning.com###sn-sidebar-change-code
 suning.com###sn-sidebar-change-code > IMG.tab-tip-code-warp-img
 suning.com###sn-sidebar-change-redpacket
@@ -6674,6 +6676,7 @@ vesti-ukr.com###adblockpopup
 vestivrn.ru#$#abort-on-property-read video.preroll
 vev.red,vidup.io#$#abort-current-inline-script window.__INITIAL_STATE__
 vgtimes.ru#$#json-prune 'data.0.attributes.bannerId'
+vidara.*#$#abort-on-property-read popundersPerIP; abort-current-inline-script String.fromCharCode 2147483647
 vide-greniers.org##A[class^="replacement_"]
 videobug.net,videofun.me,vidzur.com##.randid
 videofun.me###flowplayer > div[class][style]:first-child
@@ -7443,7 +7446,6 @@ zybang.com##.top_download
 ||2pogg4c.cn^
 ||2qpqwkx.cn^
 ||2rwonuh.com^
-||2tk74zbwj5h394.cfd^
 ||2u3v4w5x6y.com^
 ||2vqgtxw.cn^
 ||2wgolxk.com^
@@ -11685,7 +11687,6 @@ zybang.com##.top_download
 ||milimili.tv/js/loadjs/jquery10.7.js
 ||milimili.tv/js/loadjs/jquery10.8.js
 ||mimamsaslews.com^
-||mimiunprest.com^
 ||mimosamajor.com^$third-party
 ||mindopu.com^
 ||mingtians.top^
@@ -13367,6 +13368,7 @@ zybang.com##.top_download
 ||surface361.com^
 ||surperverse.com^
 ||surveys.hotjar.com^
+||suwgpealj.in^
 ||suy5x8.com^
 ||svarub.xyz^
 ||svdpgmt.cn^
@@ -13682,7 +13684,6 @@ zybang.com##.top_download
 ||tristoshink.online/libs/check.js
 ||tritebadge.com^$third-party
 ||tritethunder.com^$third-party
-||tritoloarca.com^
 ||tritoshi.com/libs/check.js
 ||trjfoagf.icu^
 ||trk.pinterest.com^
