@@ -6,8 +6,8 @@
 ! Description: Lite version of the AdRules AdBlock List, optimized for mobile devices.
 ! License: Inherits upstream licenses (GPL-3.0, CC BY-SA 4.0, etc.)
 ! Upstream Sources: https://github.com/Cats-Team/AdRules/blob/script/Source.md
-! Version: 2026-04-04 18:03:03(GMT+8)
-! Total count: 15003
+! Version: 2026-04-04 18:37:40(GMT+8)
+! Total count: 15004
 ###AdBlockDialog
 ###Page-1[stroke='none'][fill='none'][fill-rule='evenodd']
 ###SOHU_MAIN > .module-cmt-float-bar
@@ -3660,6 +3660,7 @@ factfeed.com,mdrntoday.com,travelroo.com###vidazooAd
 factfeed.com,mdrntoday.com,travelroo.com#$#hide-if-matches-xpath './/div[contains(@class,"ad-lines") and contains(text(),"ADVERTISEMENT")]/parent::div[@class="ad-text-box"]/ancestor::div[@class][@style]'
 factorio.su##body > div[id][class][style*="background"][style*="visible"]
 fairytailmx.com#@##sponsored-ad
+familydoctor.com.cn##IFRAME[width='400']
 fanfics.me##.red.nodata
 fanfiktion.de###ad-leaderboard-inner
 fansided.com##iframe[src*="report.error-report.com/modal"]
@@ -5879,7 +5880,9 @@ reflex.cz##img[title$=".cz"][src^="https://www.reflex.cz/"]
 relax-fm.ru,rg.ru#$#abort-on-property-read AdFox_getCodeScript
 renren.com###videoAd12
 renren.com##.toplive
-reshu.by,reshuent.kz,sdamgia.ru#@#.googlead
+reshuent.ru,sdamgia.ru##.S29e4f5cdae
+reshuent.ru,sdamgia.ru##main > div[class*=" "]:nth-child(-n+2) > div ~ div
+reshuent.ru,sdamgia.ru#@#.googlead
 retinaboys.com###screen_block
 reuters.com##.RTVSyndicatedPlayer
 reuters.com#@#.adsbox
@@ -5953,8 +5956,6 @@ scooter-chinois-4t.com#@#.adsbygoogle
 scrolller.com#?#.popup--sticky:-abp-contains(adblock)
 scsjgjj.com###floatinfo
 sd-company.su###dom_adblock
-sdamgia.ru##.S29e4f5cdae
-sdamgia.ru##main > div[class*=" "]:nth-child(-n+2) > div ~ div
 sdamgia.ru#$#abort-on-property-read Object.prototype.getRenderToElement
 se.pl###adb_popup
 search.seznam.cz#$#hide-if-matches-xpath './/div/h3[contains(@class,"bd037d")]/a[@data-dot-data]/ancestor::div[@data-e-b-n]'
